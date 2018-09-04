@@ -2,15 +2,16 @@
 <p align="justify">É um sistema disponível na Internet que viabiliza o registro obrigatório das transações do
 Comércio Exterior de Serviços do Brasil, abrangendo inclusive as operações de exportações e
 importações de serviços e intangíveis.<br><br>
-De acordo com os Manuais do Siscoserv, item 1.1:<br>
-  
+De acordo com os Manuais do Siscoserv, item 1.1:
+
 ```
-  “O Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações
+“O Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações
 que Produzam Variações no Patrimônio (Siscoserv) é um sistema informatizado,
 desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações
 de estímulo, formulação, acompanhamento e aferição das políticas públicas
 relacionadas a serviços e intangíveis, bem como para a orientação de estratégias
-empresariais de comércio exterior de serviços e intangíveis.<br><br>
+empresariais de comércio exterior de serviços e intangíveis.
+
 Esse Sistema guarda conformidade com as diretrizes do Acordo Geral sobre Comércio
 de Serviços (GATS) da Organização Mundial do Comércio (OMC), aprovado pelo
 Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto no
@@ -274,3 +275,46 @@ em palestras e eventos do setor, como por exemplo durante o ENASERV.<br>
 As palestras estão sujeitas à disponibilidade de recursos humanos e orçamentários do
 Ministério e devem sempre envolver um número significativo de empresas do setor para
 serem realizadas.
+
+----
+
+### 1. O que se deve registrar no Módulo Venda do Siscoserv?
+De acordo com o Manual do Siscoserv – Módulo Venda, itens 3 e 4 do Capítulo 1:
+
+```
+“No Módulo Venda são registrados os serviços, intangíveis e outras operações que produzam
+variações no patrimônio, vendidos por residentes ou domiciliados no País a residentes ou
+domiciliados no exterior. Este módulo abrange também o registro das operações realizadas
+por meio de presença comercial no exterior.
+
+No Módulo Venda do Siscoserv estão previstos os seguintes registros:
+
+Registro de Venda de Serviços (RVS): dados referentes à venda, por residente ou domiciliado
+no País, de serviços, intangíveis e outras operações que produzam variações no patrimônio, a
+residente ou domiciliado no exterior;
+
+Registro de Faturamento (RF): dados referentes ao faturamento decorrente de venda objeto
+de prévio RVS; e Registro de Presença Comercial (RPC): dados referentes às operações
+realizadas por meio de Presença Comercial no Exterior.”
+```
+
+### 2. Quem deve efetuar registros no Módulo Venda do Siscoserv?
+De acordo com o Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1:
+
+```
+“Estão obrigados a registrar as informações nesse Módulo, os residentes ou domiciliados no
+Brasil que realizem, com residentes ou domiciliados no exterior, operações de venda de
+serviços, intangíveis e outras operações que produzam variações no patrimônio das pessoas
+físicas, das pessoas jurídicas ou dos entes despersonalizados, inclusive operações de
+exportação de serviços.
+
+Estão obrigados a efetuar registro no Módulo Venda do Siscoserv:
+a) o prestador do serviço residente ou domiciliado no Brasil;
+b) a pessoa física ou jurídica, residente ou domiciliada no Brasil, que transfere o intangível,
+inclusive os direitos de propriedade intelectual, por meio de cessão, concessão, licenciamento
+ou por quaisquer outros meios admitidos em direito; e
+c) a pessoa física ou jurídica ou o responsável legal do ente despersonalizado, residente ou
+domiciliado no Brasil, que realize outras operações que produzam variações no patrimônio.
+Também são obrigados a efetuar registro no Siscoserv os órgãos da administração pública,
+direta e indireta, da União, dos Estados, dos Municípios e do Distrito Federal.”
+```
