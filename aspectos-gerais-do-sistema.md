@@ -3,8 +3,9 @@
 Comércio Exterior de Serviços do Brasil, abrangendo inclusive as operações de exportações e
 importações de serviços e intangíveis.<br><br>
 De acordo com os Manuais do Siscoserv, item 1.1:<br>
-<blockquote cite="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/Parte_A_-_Revisado_de_Acordo_com_a_11%C2%AA_Ed._dos_Manuais.pdf">
-“O Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações
+  
+```
+  “O Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações
 que Produzam Variações no Patrimônio (Siscoserv) é um sistema informatizado,
 desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações
 de estímulo, formulação, acompanhamento e aferição das políticas públicas
@@ -14,7 +15,7 @@ Esse Sistema guarda conformidade com as diretrizes do Acordo Geral sobre Comérc
 de Serviços (GATS) da Organização Mundial do Comércio (OMC), aprovado pelo
 Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto no
 1.355, de 30 de dezembro de 1994.”</blockquote>
-
+```
 
 ### 2. Qual é o público-alvo do Siscoserv?
 O público-alvo do Siscoserv são os residentes e domiciliados no Brasil que realizam operações
@@ -217,7 +218,7 @@ Econômico (OCDE) disponibiliza, no link abaixo, a lista não exaustiva dos paí
 <p align="justify">O fornecimento do NIF é obrigatório nos casos de países que adotam códigos de identificação
 fiscal.<br></p>
 <p align="justify">Caso não seja informado o NIF, a empresa deve explicar o motivo dentre as opções
-disponíveis, a saber: Dispensado do NIF ou País não exige NIF.
+disponíveis, a saber: <b>Dispensado do NIF</b> ou <b>País não exige NIF</b>.
   
 ### 17. O que fazer em casos de dúvida sobre a classificação de um serviço?
 <p align="justify">Em caso de dúvidas quanto à classificação, deverá ser realizada uma consulta à Nomenclatura
@@ -242,17 +243,17 @@ Receita Federal do Brasil em:<br>
 [http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacaodalegislacao-tributaria](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacaodalegislacao-tributaria)
 
 ### 18. Qual é o contato do MDIC para questões gerais referentes ao Siscoserv?
-<p align="justify">Dúvidas gerais relacionadas ao Siscoserv devem ser encaminhadas para o Portal COMEX
-RESPONDE, disponível no endereço www.comexresponde.gov.br. Ao acessar o site, o
-contribuinte deve escolher a opção “Sistemas e Ferramentas de Apoio” no menu de Assuntos
-Gerais e, em seguida, a opção “Siscoserv” no menu de Assuntos Específicos, digitar sua
-mensagem no campo de Mensagem, inserir o Código de Verificação e Enviar. Esse procedimento de atendimento garante uma melhor qualidade nos serviços prestados bem
+<p align="justify">Dúvidas gerais relacionadas ao Siscoserv devem ser encaminhadas para o Portal <b>COMEX
+RESPONDE</b>, disponível no endereço www.comexresponde.gov.br. Ao acessar o site, o
+contribuinte deve escolher a opção <b>“Sistemas e Ferramentas de Apoio”</b> no menu de Assuntos
+Gerais e, em seguida, a opção <b>“Siscoserv”</b> no menu de Assuntos Específicos, digitar sua
+mensagem no campo de <b>Mensagem</b>, inserir o <b>Código de Verificação</b> e <b>Enviar</b>. Esse procedimento de atendimento garante uma melhor qualidade nos serviços prestados bem
 como o gerenciamento das consultas por vários parâmetros como temas, tempo de resposta,
 satisfação do consulente, assuntos recorrentes, etc.
   
 ### 19. O que fazer quando ocorrer, ao utilizar o Siscoserv, um erro relacionado a
 acesso ao site ou a aspectos tecnológicos do sistema?
-<p align="justify">Deve-se encaminhar a ocorrência ao Serpro, mediante o e-mail [css.serpro@serpro.gov.br](css.serpro@serpro.gov.br), ou
+<p align="justify">Deve-se encaminhar a ocorrência ao Serpro, mediante o e-mail css.serpro@serpro.gov.br, ou
 pelo telefone 0800-978-2331, conforme item 11 do Capitulo 1 dos Manuais do Siscoserv.
   
 ### 20. Onde obtenho informações sobre multas relacionadas ao Siscoserv?
