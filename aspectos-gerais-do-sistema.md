@@ -4,22 +4,22 @@ Comércio Exterior de Serviços do Brasil, abrangendo inclusive as operações d
 importações de serviços e intangíveis.<br><br>
 De acordo com os Manuais do Siscoserv, item 1.1:
 
-```
-“O Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações
+<blockquote cite="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/Parte_A_-_Revisado_de_Acordo_com_a_11%C2%AA_Ed._dos_Manuais.pdf">
+<p align="justify">“O Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações
 que Produzam Variações no Patrimônio (Siscoserv) é um sistema informatizado,
 desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações
 de estímulo, formulação, acompanhamento e aferição das políticas públicas
 relacionadas a serviços e intangíveis, bem como para a orientação de estratégias
-empresariais de comércio exterior de serviços e intangíveis.
+empresariais de comércio exterior de serviços e intangíveis. 
 
-Esse Sistema guarda conformidade com as diretrizes do Acordo Geral sobre Comércio
+<p align="justify">Esse Sistema guarda conformidade com as diretrizes do Acordo Geral sobre Comércio
 de Serviços (GATS) da Organização Mundial do Comércio (OMC), aprovado pelo
 Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto no
 1.355, de 30 de dezembro de 1994.”</blockquote>
-```
+
 
 ### A2. Qual é o público-alvo do Siscoserv?
-O público-alvo do Siscoserv são os residentes e domiciliados no Brasil que realizam operações
+<p align="justify">O público-alvo do Siscoserv são os residentes e domiciliados no Brasil que realizam operações
 de prestação ou aquisição de serviços, intangíveis e outras operações que produzam variações
 no patrimônio com residentes ou domiciliados no exterior. 
 
@@ -32,9 +32,10 @@ Decreto nº 7.708 de 2 de abril de 2012.<br>
 * [Portaria Conjunta RFB/SCS no 768, de 13 de maio de 2016](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2016&jornal=1&pagina=21&totalArquivos=152)
 
 ### A4.  Há algum roteiro que oriente a utilização do Siscoserv?
-Sim. Os Manuais do Siscoserv têm força de Norma Complementar, conforme previsto na
+<p align="justify">Sim. Os Manuais do Siscoserv têm força de Norma Complementar, conforme previsto na
 Portaria Conjunta 1.908/2102. Além de complementar a legislação pertinente, eles esclarecem
-aspectos legais e operacionais do Siscoserv.<br>
+aspectos legais e operacionais do Siscoserv.
+       
 Os Manuais do Siscoserv estão disponíveis em: [http://www.mdic.gov.br/comercioservicos/asecretaria-de-comercio-e-servicos-scs-15/estatisticas-2](http://www.mdic.gov.br/comercioservicos/asecretaria-de-comercio-e-servicos-scs-15/estatisticas-2).
 
 ### A5.  O que é a Nomenclatura Brasileira de Serviços, Intangíveis e outras Operaçõesque Produzam Variações no Patrimônio (NBS)?
@@ -43,10 +44,10 @@ Variações no Patrimônio (NBS) é o classificador nacional para a identificaç
 intangíveis como Produtos, que viabiliza a adequada elaboração, fiscalização e avaliação de
 políticas públicas de forma integrada.</p><br>
   
-A NBS propicia a harmonização de ações relacionadas com as políticas de fomento ao
+<p align="justify">A NBS propicia a harmonização de ações relacionadas com as políticas de fomento ao
 empreendedorismo, de compras públicas, de comércio exterior, entre outras.<br>
 
-A Nomenclatura é o classificador utilizado pelo Siscoserv, bem como na definição dos serviços
+<p align="justify">A Nomenclatura é o classificador utilizado pelo Siscoserv, bem como na definição dos serviços
 elegíveis ao financiamento no âmbito do Programa de Financiamento às Exportações (PROEX),
 do BNDES – Exim, do Adiantamento sobre Contrato de Câmbio (ACC) e do Adiantamento sobre
 Cambiais Entregues (ACE).<br>
@@ -55,14 +56,14 @@ Cambiais Entregues (ACE).<br>
 <p align="justify">De acordo com o glossário dos Manuais do Siscoserv, item 12:<br>
 <blockquote cite="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/Parte_A_-_Revisado_de_Acordo_com_a_11%C2%AA_Ed._dos_Manuais.pdf">
 “São considerados intangíveis para fins do registro no SISCOSERV, entre outros:<br><br>
-I - o licenciamento (autorização para usar ou explorar comercialmente direito
+<p align="justify">I - o licenciamento (autorização para usar ou explorar comercialmente direito
 patrimonial) e a cessão, temporária ou definitiva, dos direitos de propriedade
 intelectual objeto das Seções 1 a 7 da Parte II do Acordo sobre os Aspectos dos Direitos
 de Propriedade Intelectual Relacionados ao Comércio, conforme o Anexo 1C do
 Acordo Constitutivo da Organização Mundial do Comércio constante da Ata Final que
 incorpora os Resultados das Negociações Comerciais Multilaterais da Rodada Uruguai,
 aprovada pelo Decreto no 1.355, de 31 de dezembro de 1994;<br><br>
-II - os contratos de transferência de tecnologia envolvendo a prestação de serviços de
+<p align="justify">II - os contratos de transferência de tecnologia envolvendo a prestação de serviços de
 assistência técnica e científica, combinadamente ou não, e o fornecimento da
 tecnologia – know how;
 MINISTÉRIO DA INDÚSTRIA,
@@ -72,12 +73,12 @@ MINISTÉRIO DA FAZENDA
 SECRETARIA DA RECEITA
 FEDERAL DO BRASIL
 4<br><br>
-III - os contratos de franquia;<br><br>
-IV - a exploração dos recursos naturais e o licenciamento dos direitos sobre
+<p align="justify">III - os contratos de franquia;<br><br>
+<p align="justify">IV - a exploração dos recursos naturais e o licenciamento dos direitos sobre
 conhecimento tradicional; e<br><br>
-V - o licenciamento dos direitos relativos ao acesso a recursos genéticos.<br><br>
+<p align="justify">V - o licenciamento dos direitos relativos ao acesso a recursos genéticos.<br><br>
 
-Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos 11 e 27
+<p align="justify">Informações adicionais podem ser obtidas nas Notas Explicativas dos Capítulos 11 e 27
 da Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam
 Variações no Patrimônio – NBS.”
 </blockquote>
@@ -85,10 +86,10 @@ Variações no Patrimônio – NBS.”
 ### A7. O que são “Outras Operações que Produzam Variações no Patrimônio”?
 De acordo com o glossário dos Manuais do Siscoserv, item 12:<br>
 <blockquote cite="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/Parte_A_-_Revisado_de_Acordo_com_a_11%C2%AA_Ed._dos_Manuais.pdf">
-  “São operações classificadas na NBS que não se enquadram nem como serviços nem
+ <p align="justify"> “São operações classificadas na NBS que não se enquadram nem como serviços nem
 como intangíveis.<br><br>
 São exemplos:<br><br>
-- operações que envolvem simultaneamente a prestação de serviço e o fornecimento
+- Operações que envolvem simultaneamente a prestação de serviço e o fornecimento
 de mercadoria, , como Fornecimento de alimentos – código NBS 1.0301;<br><br>
 - Operações de arrendamento mercantil financeiro, código NBS 1.0901.5; - <br>
 Arrendamento mercantil operacional, código NBS 1.1101 e 1.1102;<br><br>
@@ -104,15 +105,14 @@ produzam variações no patrimônio, vendidos por residentes ou domiciliados no 
 residentes ou domiciliados no exterior. Este módulo abrange também o registro das
 operações realizadas por meio de presença comercial no exterior.<br>
   
-No Módulo Aquisição são registrados os serviços, intangíveis e outras operações que
+<p align="justify">No Módulo Aquisição são registrados os serviços, intangíveis e outras operações que
 produzam variações no patrimônio, adquiridos por residentes ou domiciliados no País
 de residentes ou domiciliados no exterior.”</blockquote>
 
-Para simplificar o entendimento, no Módulo Venda são registradas as operações de venda de
-serviços1
-, inclusive exportações, realizadas por residentes ou domiciliados no Brasil para
+<p align="justify">Para simplificar o entendimento, no Módulo Venda são registradas as operações de venda de
+serviços1, inclusive exportações, realizadas por residentes ou domiciliados no Brasil para
 residentes ou domiciliados no exterior.<br><br>
-E no Módulo Aquisição são registradas as operações de aquisição de serviços2
+<p align="justify">E no Módulo Aquisição são registradas as operações de aquisição de serviços2
 , inclusive
 importações, realizada por residentes ou domiciliados no Brasil de residentes ou domiciliados
 no exterior.
@@ -126,7 +126,7 @@ certificadora.</p><br>
 De acordo com os Manuais do Siscoserv, item 2.1:<br>
 
 <blockquote cite="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/Parte_A_-_Revisado_de_Acordo_com_a_11%C2%AA_Ed._dos_Manuais.pdf">
-“O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao
+<p align="justify">“O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao
 Contribuinte (e-CAC) da RFB na Internet, no endereço:
 http://www.receita.fazenda.gov.br, e no sítio da Secretaria de Comércio e Serviços
 (SCS) na Internet, no endereço: http://www.siscoserv.mdic.gov.br; exceto no horário
@@ -135,19 +135,19 @@ O acesso ao Siscoserv é sempre feito por certificado digital e-CPF. Quando a
 informação for prestada por pessoa jurídica ou representante legal de terceiros, além
 do e-CPF do representante legal, também se exige procuração eletrônica. Essa
 procuração deve ser emitida por estabelecimento. Não é possível o acesso via
-certificado digital e-CNPJ.<br><br>
-O que é e como obter o Certificado Digital (e-CPF)<br><br>
+certificado digital e-CNPJ.<br>
+<p align="justify">O que é e como obter o Certificado Digital (e-CPF)<br>
 O Certificado Digital permite a identificação de uma pessoa no ambiente
 digital/eletrônico em transação na internet que necessite de validade legal e
-identificação inequívoca.<br><br>
-A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do
-Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em: [Receita Federal](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacaode-certificados-digitais-e-cpf-ou-e-cnpj)
+identificação inequívoca.<br>
+<p align="justify">A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do
+Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em: http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacaode-certificados-digitais-e-cpf-ou-e-cnpj.
   
- O que é e como obter a Procuração Eletrônica
+<p align="justify">O que é e como obter a Procuração Eletrônica
 A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento que
 permite que uma pessoa física represente outra pessoa (física ou jurídica) no Siscoserv.
 As orientações para obtenção da procuração estão disponíveis em:
-[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes).”.</blockquote>
+http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes.”.</blockquote>
 
 ### A10. Como incluir os dados da empresa no campo “Informações Cadastrais”?
 <p align="justify">A partir de 1º de junho de 2016 o sistema passou a oferecer dois fluxos para inserção dos
@@ -194,11 +194,11 @@ houver uma modificação e, caso não haja alterações, o sistema exigirá um n
 após um ano da última alteração/inscrição.
   
 ### A14. O que é o Número de Identificação Fiscal – NIF e como posso obtê-lo?
-De acordo com o glossário dos Manuais do Siscoserv, item 12:<br>
+<p align="justify">De acordo com o glossário dos Manuais do Siscoserv, item 12:<br>
 <blockquote cite="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/Parte_A_-_Revisado_de_Acordo_com_a_11%C2%AA_Ed._dos_Manuais.pdf">“O NIF é o número fornecido pelo órgão de administração tributária no exterior
 indicador de pessoa física ou jurídica.” </blockquote>
 
-Em razão da competência legal de cada órgão da Administração Pública, compete às
+<p align="justify">Em razão da competência legal de cada órgão da Administração Pública, compete às
 Secretarias de Fazenda (Federal, Estadual e Municipal) esclarecer, de maneira definitiva,
 quaisquer dúvidas relacionadas à legislação tributária, referentes às operações no mercado
 interno e externo. Com isso, eventuais dúvidas relacionadas ao NIF devem ser direcionadas à
@@ -235,7 +235,7 @@ eletrônicos:
 Secretaria da Receita Federal do Brasil (RFB), nos termos do art. 48 da Lei nº 9.430, de 27 de
 dezembro de 1996, e do Decreto nº 7.708, de 02 de abril de 2012, que instituiu a NBS.<br>
   
-As consultas podem ser feitas por meio do plantão fiscal de sua região. Existe ainda a
+<p align="justify">As consultas podem ser feitas por meio do plantão fiscal de sua região. Existe ainda a
 possibilidade de formular consulta por escrito. A consulta é o instrumento que o contribuinte
 possui para esclarecer dúvidas quanto a determinado dispositivo da legislação tributária
 relacionado com sua atividade. Mais informações sobre a consulta no âmbito da Secretaria da
@@ -252,8 +252,7 @@ mensagem no campo de <b>Mensagem</b>, inserir o <b>Código de Verificação</b> 
 como o gerenciamento das consultas por vários parâmetros como temas, tempo de resposta,
 satisfação do consulente, assuntos recorrentes, etc.
   
-### A19. O que fazer quando ocorrer, ao utilizar o Siscoserv, um erro relacionado a
-acesso ao site ou a aspectos tecnológicos do sistema?
+### A19. O que fazer quando ocorrer, ao utilizar o Siscoserv, um erro relacionado ao acesso ao site ou a aspectos tecnológicos do sistema?
 <p align="justify">Deve-se encaminhar a ocorrência ao Serpro, mediante o e-mail css.serpro@serpro.gov.br, ou
 pelo telefone 0800-978-2331, conforme item 11 do Capitulo 1 dos Manuais do Siscoserv.
   
@@ -264,7 +263,7 @@ transações entre residentes ou domiciliados no Brasil e residentes ou domicili
 que compreendam serviços, intangíveis e outras operações que produzam variações no
 patrimônio das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados.
   
-Caso permaneçam as dúvidas, por se tratar de um assunto de natureza tributária, os
+<p align="justify">Caso permaneçam as dúvidas, por se tratar de um assunto de natureza tributária, os
 questionamentos devem ser encaminhados à Secretaria da Receita Federal do Brasil
 (http://www.receita.fazenda.gov.br/).
 
