@@ -77,8 +77,7 @@ registros RVS e RF no Módulo Venda do Siscoserv em Modo 4 – Movimento Tempor�
 Pessoa Física, em relação a essa operação.”</blockquote>
 
 
-### B4. De quem é a responsabilidade pelos registros de serviços de transporte de cargas e seguros no
-Siscoserv?
+### B4. De quem é a responsabilidade pelos registros de serviços de transporte de cargas e seguros no Siscoserv?
 <p align="justify">O Capítulo 3 dos Manuais do Siscoserv apresenta os seguintes Cenários Exemplificativos do Registro no
 Siscoserv:<br><br>
 1- Registro de Transporte Internacional de Cargas (Frete):<br><br>
