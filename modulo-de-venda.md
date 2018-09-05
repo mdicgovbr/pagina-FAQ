@@ -272,3 +272,211 @@ negócio, ou ainda executada em outro modo de prestação, período ou mesmo em 
 Na inclusão de Aditivo, não é possível realizar alterações nos Dados do Adquirente, tendo em
 vista tratar-se de dados do registro como um todo e que só podem ser alterados pela função
 Retificar RVS.”</bloquote>
+
+
+### B12. O RVS pode ser cancelado?
+
+De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 e 2.1.1 do Capítulo 2:<br>
+
+<blockquote>“O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.”</blockquote><br>
+
+As condições e os procedimentos para retificação desses registros estão descritos nos itens 2.1.2 e
+2.1.3 do Capítulo 2 do Manual do Siscoserv – Módulo Venda.<br><br>
+
+### B13. Como proceder quando o RVS tiver sido registrado para um vendedor incorreto?
+
+De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1.2 do Capítulo 2:<br>
+
+<blockquote>“O Valor da Operação pode ser retificado para zero nos seguintes casos:<br><br>
+a) o usuário tenha registrado a operação para um vendedor incorreto;<br><br>
+b) a operação tenha sido informada em duplicidade; ou<br><br>
+c) a operação tenha sido informada no módulo Venda indevidamente.<br><br>
+
+Nesses casos, **o usuário deve obrigatoriamente justificar a referida retificação em Informações Complementares**. No caso das alíneas a e b, indicar o número do RVS correto. No caso da alínea c, indicar o número do RAS.”
+</blockquote><br>
+
+Assim, o usuário deve realizar um novo RVS com a informação correta a respeito do vendedor da operação. Posteriormente, o valor da operação do RVS com o vendedor incorreto deve ser retificado para zero e a retificação deve ser justificada no campo Informações Complementares com a indicação do número do RVS com o vendedor correto.
+
+
+### B14. Em quais situações posso retificar o RVS?
+
+De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1.2 do Capítulo 2:
+
+<blockquote>
+  "Os RVS podem ter todos os campos retificados antes da inclusão de Faturamento da operação. Após o faturamento da operação não podem ser retificados os campos Código NBS e Moeda. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder
+previamente com o cancelamento do RF.<br><br>
+  
+  Após a o término do prazo para inclusão do último RF o valor total faturado deve coincidir com o Valor da Operação.<br>
+  
+  Excepcionalmente, se, após o término do prazo para inclusão do último RF, ocorrer de os valores do RVS e do(s) RF não serem coincidentes:<br>
+  
+  a) caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RVS o Valor da Operação de forma a corresponder ao valor do serviço efetivamente prestado;<br>
+  
+  b) caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em Informações Complementares a justificativa para tanto.”<br>
+  </blockquote>
+
+
+### B15. Posso retificar um registro para o valor zero? 
+
+O Valor da Operação pode ser retificado para zero nos seguintes casos:<br>
+
+a) o usuário tenha registrado a operação para um vendedor incorreto;<br><br>
+b) a operação tenha sido informada em duplicidade; ou<br><br>
+c) a operação tenha sido informada no módulo Venda indevidamente.<br><br>
+Nesses casos, o usuário deve obrigatoriamente justificar a referida retificação em Informações Complementares. No caso das alíneas a e b, indicar o número do RVS correto. No caso da alínea c, indicar o número do RAS.<br>
+
+
+### B16. Realizei a prestação de serviço para domiciliado no exterior, mas recebi o pagamento em reais. Devo registrar no Siscoserv?
+
+De acordo com o Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1: 
+
+<blockquote>”O registro no Siscoserv independe da contratação de câmbio, do meio de pagamento ou da existência de um contrato formal.”</blockquote><br>
+
+
+### B17. Como proceder se a operação tem data de conclusão indeterminada?
+
+De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.1 do Capítulo1:<br>
+
+<blockquote>“A operação cuja data de conclusão não seja conhecida por ocasião do seu registro, em razão de não ter sido pactuada entre as partes, pode ser objeto de registros periódicos, conforme itens 2.1 e 2.1.1 do Capítulo 2 . Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão pode ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2 e 2.1.3 do Capítulo 2.”</blockquote><br>
+
+
+### B18. Como proceder se a operação se iniciar sem valor definido?
+De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.2 do Capítulo 1:
+
+<blockquote>
+“A operação cujo valor não seja conhecido por ocasião do seu registro, em função de sua apuração só poder ocorrer após a efetiva prestação do serviço, pode ser registrada pelo seu valor estimado. Posteriormente, o valor poderá ser ajustado, mediante retificação, conforme descrito nos itens 2.1.2 ou 2.1.3 do Capítulo 2 do referido Manual.”
+</blockquote>
+
+### B19. Há alguma forma simplificada de registro para vendas a pessoas físicas residentes no exterior, mediante consumo no Brasil?
+
+De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.3 do Capítulo 4:
+
+<blockquote>
+  “As vendas de serviços, intangíveis e outras operações que produzam variações no patrimônio, em modo de prestação 2 (consumo no Brasil), realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês, para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no
+exterior. A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:<br>   <br>     
+  
+  
+  I – Nome do Adquirente e Endereço do Adquirente, NIF - inserir a expressão: “DIVERSOS”;<br><br>
+II – Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;<br><br>
+III – Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.<br>        
+
+A inclusão do RF será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:<br><br>
+I – Data da Fatura: informar o último dia do mês;<br><br>
+II – Valor da Fatura: informar o somatório do valor faturado no mês;<br><br>
+III – Número da NF de Serviço ou documento equivalente: inserir a expressão: “DIVERSOS”.”<br>
+
+  </blockquote>        
+          
+                  
+ ### B20. Para operações de prestação de serviços de transporte de passageiros a pessoas físicas residentes no exterior, há alguma forma simplificada de registro?   
+ 
+ De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.4 do Capítulo 4:
+ 
+ <blockquote>
+  “As prestações de serviços de transporte de passageiros para pessoas físicas residentes no exterior podem ser registradas pelos seus montantes acumulados mensalmente, por NBS e por país de residência do passageiro.<br><br>
+  Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês, para as operações ocorridas nesse período.<br><br>
+  A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:<br><br>
+  I – Nome do Adquirente, Endereço do Adquirente, e NIF - inserir a expressão: “DIVERSOS”;<br><br>
+  
+II – País do Adquirente: indicar o país de residência dos passageiros;<br>
+  
+III – País de Destino: indicar o mesmo país inserido no campo País do Adquirente.<br>
+  
+IV – Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;<br>
+
+V – Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.<br><br>
+
+A inclusão do RF será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:<br><br>
+I – Data da Fatura: informar o último dia do mês;<br><br>
+II – Valor da Fatura: informar o somatório do valor faturado no mês;<br><br>
+III – Número da NF de Serviço ou documento equivalente: inserir a expressão: “DIVERSOS”.”<br>
+  </blockquote>        
+          
+          
+ ### B21. O que preencher no campo País de Destino?
+De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:
+<blockquote> 
+  O campo País de Destino “identifica o país de destino da prestação do serviço, da aquisição de intangível ou da realização de outra operação que produza variação no patrimônio, podendo ser diferente do país do vendedor ou do adquirente.<br><br>
+Exemplos:<br><br>
+(1) Prestador de serviço residente ou domiciliado no Brasil é contratado por residente ou domiciliado na Argentina para prestação do serviço no Chile. O país de destino é o Chile.<br><br>
+(2) Serviço vendido via Internet por empresa brasileira a empresa domiciliada na Coreia do Sul. O país de destino é a Coreia do Sul.<br><br>
+(3) Serviços educacionais presenciais prestados no Brasil a residente ou domiciliado na Finlândia. O país de destino é o Brasil.<br><br>
+(4) Advogado residente no Brasil desloca-se para o Canadá a fim de prestar consultoria jurídica. O país de destino é o Canadá.”<br><br>
+</blockquote>
+No Módulo Venda, sempre que o usuário registrar que o serviço foi prestado em Modo 2 (Consumo no
+Brasil), o País de Destino será o Brasil.            
+
+
+
+### B22. Ao efetuar um registro, a empresa deve informar se há vinculação entre os contratantes?
+
+O usuário deve indicar, ao registrar o RVS, se o adquirente é pessoa vinculada ao vendedor nos termos do art. 23 da lei 9.430 de dezembro de 1996.<br><br>
+Os Tipos de Vinculação são: Filial, Sucursal, Controlada e Outros. Caso seja necessário, o campo Informações Complementares pode ser utilizado para esclarecimentos adicionais.<br><br>
+Qualquer tipo de vinculação, em qualquer grau, deve ser informado no RVS. <br><br>
+
+
+### B23. O que é a “vinculação à movimentação temporária de bens”? 
+
+A “Vinculação à Movimentação Temporária de Bens” já estava presente no Registro de Faturamento, mas à época o RF não podia ser retificado, mas somente cancelado. Como muitas vezes o usuário não tinha a informação da Declaração de Importação e do Registro de Exportação no momento de preencher o RF, a empresa poderia ficar com o registro incompleto. Para solucionar esta questão, simplificando ao mesmo tempo o registro, a Comissão do Siscoserv executou duas medidas: excluiu a funcionalidade da vinculação à exportação de bens (que ficava no RVS e já estava como campo facultativo) e moveu a vinculação à movimentação temporária para o RVS. Mas foi além e criou a funcionalidade de “Retificação do RF”. Assim, eventuais erros podem ser corrigidos sem a necessidade de cancelamento do registro o que traz maior segurança aos usuários.<br><br>
+No campo, deve ser indicado se a operação está vinculada à movimentação temporária de bens indicando o número da Declaração de Importação (DI) ou o número do Registro de Exportação (RE) averbado, o que houver.
+
+
+
+### B24. Qual o procedimento para realizar o registro por transmissão em lote?
+
+De acordo com o Manual do Siscoserv – Módulo Venda, item 3 do Capítulo 2: 
+
+<blockquote>
+“Essa funcionalidade foi desenvolvida para facilitar a prestação das informações solicitadas, bem como aproveitar os dados já disponíveis nos sistemas gerenciais utilizados pelas empresas.<br><br>
+  
+  A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP. O Manual do Siscoserv trata apenas da transmissão dos arquivos após sua criação. <br><br>
+  
+ Para a criação dos arquivos que devem ser transmitidos estão disponibilizados os seguintes documentos: - Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição; 
+  </blockquote>
+  
+  [- Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip) e;<br>
+  [- Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).
+  
+  <blockquote>
+Cada arquivo XML contém informações referentes a uma funcionalidade: Inclusão de RVS, Aditivo ao RVS, Retificação do RVS, Retificação do Aditivo ao RVS, Inclusão do RF ou Cancelamento de RF. Não é possível incluir num mesmo arquivo XML informações de duas ou mais funcionalidades, por exemplo, informações sobre a Retificação de um RVS e sobre o Cancelamento de um RF. Os arquivos XML devem conter as mesmas informações requeridas no preenchimento manual do RVS.”<br><br>
+  </blockquote>
+  
+  Para mais informações a respeito da transmissão em lote sugerimos a leitura do item 3 do Capítulo 2.
+Transmissão em Lote presente no Manual do Siscoserv – Módulo Venda.<br>
+
+### B25. É possível realizar testes de transmissão em lote no Siscoserv?
+Atualmente não existe plataforma de teste para a transmissão em lote.<br>
+
+### B26. Prestei serviço para residente ou domiciliado no exterior, mas o valor recebido não foi o mesmo do documento de fatura. Qual valor devo registrar?
+De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:<br>
+
+<blockquote>
+  “O valor a ser registrado no Registro de Vendas de Serviço (RVS) é o valor bruto pactuado entre as partes adicionado de todos os custos necessários para a efetiva prestação do serviço, transferência do intangível ou realização de outra operação que produza variação no patrimônio.<br><br>
+De acordo com o Manual do Siscoserv – Módulo Venda, item 2.2 do Capítulo 2<br><br>
+O valor a ser registrado no Registro de Faturamento (RF) é o valor indicado na nota fiscal ou documento equivalente (inclusive nota de despesa).<br><br>
+Após a Data de Conclusão da operação o valor total faturado deve coincidir com o Valor da Operação, na moeda do RVS. Caso os valores sejam divergentes, o usuário deve retificar o Valor da Operação utilizando os passos descritos no item 3.1.4 e 3.1.5 (se for o caso).”<br>
+  </blockquote>
+  
+  
+  ### B27. Preciso cancelar o RF para retificar o RVS, entretanto o prazo de registro do novo RF já se esgotou. Qual procedimento a ser tomado nessa situação?
+De acordo com o Manual do Siscoserv – Módulo Venda, item 2.2.2 do Capítulo 2:<br>
+
+<blockquote>
+“Caso, devido a necessidade de cancelamento do RF para retificar o RVS, o usuário perca o prazo de inclusão de RF, deve ser incluído em Informações Complementares o número do RF cancelado e o número do RF que o substituiu após a retificação do RVS.”<br>
+</blockquote>
+
+### B28. É possível retificar um RF?
+A partir de 1º de junho de 2016, está disponível a funcionalidade de retificação do Registro de Faturamento. Para maiores informações sobre como usar a ferramenta, favor acessar o item 2.2.1 do Capítulo 2 do Manual do Módulo Venda.<br>
+
+
+### B29. O que são Relatórios Gerenciais?
+A funcionalidade de Relatório Gerencial disponibiliza para a empresa um relatório com todas as operações registradas no sistema e, ainda, o status dessas informações. A Planilha Excel incorpora todos os dados de RVS ou RF (RAS / RP) vinculados para o período selecionado, disponibilizando uma ferramenta gerencial para as empresas.<br><br>
+De acordo com o Manual do Siscoserv – Módulo Venda, item 4 do Capítulo 2:<br>
+<blockquote>
+  “A partir de 1º de junho de 2016, o sistema permite a geração dos Relatórios Gerenciais cujas informações abranjam um período máximo de um (1) ano, retroativo ao início da operação do Siscoserv.<br><br>
+O Siscoserv permite que o Usuário/Responsável pelo Registro gere os Relatórios gerenciais em três situações distintas, a saber:<br><br>
+a) Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;<br>
+b) Usuário/Responsável pelo Registro representa uma Pessoa Física; e<br>
+c) Usuário/Responsável pelo Registro é o Próprio Vendedor<br><br>
+O Usuário/Responsável pelo Registro é o que detém o e-CPF e/ou a procuração eletrônica da Pessoa Jurídica ou Pessoa Física e é o responsável pela inserção dos dados no sistema.”
+  </blockquote>
