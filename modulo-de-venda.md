@@ -173,20 +173,19 @@ ou controlada, domiciliada no exterior.<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<b>Exemplos:</b>
 <ul>
-  <li>filial de empresa brasileira de construção estabelecida no exterior para execução de
-  obra;</li>
-  <li>filiais bancárias no exterior de banco brasileiro;</li>
-  <li>controlada de empresa brasileira de comércio varejista no exterior</li>
+<li>filial de empresa brasileira de construção estabelecida no exterior para execução de
+obra;</li>
+<li>filiais bancárias no exterior de banco brasileiro;</li>
+<li>controlada de empresa brasileira de comércio varejista no exterior.</li>
 </ul>
 
-<b>Modo 4 – Movimento temporário de pessoas físicas:</b> residentes no Brasil deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no
-exterior.<br>
-<b>Exemplos:</b>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Modo 4 – Movimento temporário de pessoas físicas:</b> residentes no Brasil deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no
+exterior.<br>    
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Exemplos:</b>
 <ul>
-<li>arquiteto residente no Brasil desloca-se para desenvolver projeto de arquitetura no
-exterior;</li>
-<li>empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo
-empregatício no Brasil para construção de uma rodovia no exterior;</li>
-<li>advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria
-jurídica.”</li>
+  <li>arquiteto residente no Brasil desloca-se para desenvolver projeto de arquitetura no exterior;</li>
+  <li>empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo empregatício no Brasil para construção de uma rodovia no exterior;</li>
+  <li>advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria jurídica.”</li>
 </ul>
