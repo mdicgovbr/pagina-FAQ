@@ -270,7 +270,7 @@ negócio, ou ainda executada em outro modo de prestação, período ou mesmo em 
   
 Na inclusão de Aditivo, não é possível realizar alterações nos Dados do Adquirente, tendo em
 vista tratar-se de dados do registro como um todo e que só podem ser alterados pela função
-Retificar RVS.”</bloquote>
+Retificar RVS.”</blockquote>
 
 
 ### B12. O RVS pode ser cancelado?
