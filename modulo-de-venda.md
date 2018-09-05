@@ -188,4 +188,87 @@ exterior.<br>
   <li>arquiteto residente no Brasil desloca-se para desenvolver projeto de arquitetura no exterior;</li>
   <li>empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo empregatício no Brasil para construção de uma rodovia no exterior;</li>
   <li>advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria jurídica.”</li>
-</ul>
+</ul>        
+        
+    
+Devem registrar operações em Modo 4 no Módulo Venda do Siscoserv:     <br>   
+        
+a) as pessoas físicas residentes no Brasil, sem vínculo empregatício com pessoa física ou jurídica residente
+ou domiciliada no Brasil, quando se desloquem temporariamente a um país estrangeiro com vistas a
+prestar um serviço a um residente ou domiciliado no exterior (por exemplo, os profissionais
+independentes);        <br><br>
+b) as pessoas jurídicas domiciliadas no Brasil que desloquem temporariamente pessoa física residente no
+Brasil, com vínculo empregatício ou por meio de terceirização, para a prestação de serviço a
+residentes ou domiciliados no exterior (por exemplo, prestadores de serviços por contrato ou visitantes
+de negócios).        <br><br>
+Não deverão registrar operações em Modo 4 no Siscoserv, as Pessoas Jurídicas domiciliadas no Brasil
+que desloquem temporariamente pessoa(s) física(s) para exercerem vínculo empregatício com
+Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido(s) intracorporação).
+
+### B8. Qual a função do campo “Enquadramento” do Siscoserv?
+
+De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:<br> 
+<blockquote align="justify">“Este campo deve ser obrigatoriamente preenchido no caso de operação amparada em um ou
+mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e demais
+operações. Todos os mecanismos de apoio que amparam a operação devem ser registrados
+neste campo em cumprimento ao previsto no art. 26 da Lei nº 12.546, de 14 de dezembro de
+2011.<br> <br>
+  
+  
+O órgão ou a entidade da administração pública que tenha atribuição legal de regulação,
+normatização, controle ou fiscalização de mecanismo de apoio/fomento, sem prejuízo de
+legislação específica, utilizará as informações da operação, relacionadas a sua área de
+competência, para verificação do adimplemento das condições necessárias à fruição daquele
+mecanismo sob sua gestão.<br>
+  
+A concessão ou o reconhecimento de cada mecanismo condiciona-se ao registro das operações
+no Siscoserv.”</blockquote>
+
+
+### B9. Fiz a inclusão de um RVS e de um RF. O processo já está finalizado ou ainda terei que transmitilos, utilizando a aba “transmissão em lote”? 
+
+Há duas formas para efetuar a inclusão dos registros no Siscoserv:<br>
+
+<p align="justify">1) Por meio do site do Siscoserv (que pode ser acessado por meio do site do MDIC ou do e-CAC da RFB)
+e seguir os passos de preenchimento descritos no item 2 do Capítulo 2 dos Manuais. Após acionado o
+botão Incluir, o Sistema retornará uma mensagem de confirmação da inclusão dos dados no Siscoserv e
+apresentará o número de identificação do registro. Após esse procedimento, o registro é efetuado, não
+sendo necessário gravar e nem transmitir o arquivo usando a ferramenta de Transmissão em Lote; e</p>
+
+<p align="justify">2) Por meio da transmissão em lote, que depende do usuário efetuar ajustes em seus sistemas para que
+gerem os arquivos que deverão ser transmitidos pelo e-CPF que tenha a devida procuração eletrônica,
+usando a aba “Transmissão em Lote”, de acordo com o item 2.3 do Capítulo 2 dos Manuais.</p>
+
+<p align="justify">A transmissão em lote é uma das alternativas de registro e não um passo complementar ao registro por
+meio do site. No caso do lançamento manual pelo site, assim que o RVS for gravado, juntamente com
+o(s) RF(s) correspondentes, as obrigações pertinentes àquele registro foram cumpridas, presumindo
+que as informações prestadas sejam precisas.</p>
+
+<p align="justify">Cabe ressaltar ainda que os arquivos transmitidos por lote só poderão ser editados (retificados,
+aditados, etc.) utilizando a funcionalidade da transmissão em lote. Do mesmo modo, no caso do
+lançamento manual pelo site, os registros só poderão ser editados (retificados, aditados, etc.) utilizando
+o procedimento de lançamento manual.</p>
+
+
+### B10. O Siscoserv emite algum recibo de confirmação dos registros RVS/RF?
+
+<p text="justify">Uma vez efetivado o registro, o sistema retorna uma mensagem de confirmação, trazendo o número do
+RVS ou RF. Assim que o registro for gravado, as obrigações pertinentes àquele registro foram
+cumpridas, presumindo que as informações prestadas sejam precisas.</p> 
+
+<p text="justify">Não há, no Siscoserv, a funcionalidade de impressão de recibo. Pode-se, contudo, realizar consulta aos
+registros, seguindo-se os passos descritos nos itens 2.1.4 e 2.2.3 do Capítulo 2 do Manual do
+Siscoserv – Módulo Venda.</p>
+
+### B11. Qual a função da opção “Aditivo” do Siscoserv?
+
+De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1.1 do Capítulo 2:
+
+<blockquote text="justify">“O aditivo ao RVS deve ser usado para a inclusão de nova operação em um RVS previamente
+incluído, quando houver complementação ou aditamento nos termos do contrato (negócio),
+que envolva execução de outra operação classificada em NBS diferente, outra etapa do
+negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.    <br><br>
+  
+Na inclusão de Aditivo, não é possível realizar alterações nos Dados do Adquirente, tendo em
+vista tratar-se de dados do registro como um todo e que só podem ser alterados pela função
+Retificar RVS.”</bloquote>
