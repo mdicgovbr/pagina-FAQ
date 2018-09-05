@@ -1,4 +1,4 @@
-### 1. O que é o Siscoserv?
+### A1. O que é o Siscoserv?
 <p align="justify">É um sistema disponível na Internet que viabiliza o registro obrigatório das transações do
 Comércio Exterior de Serviços do Brasil, abrangendo inclusive as operações de exportações e
 importações de serviços e intangíveis.<br><br>
@@ -18,12 +18,12 @@ Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto
 1.355, de 30 de dezembro de 1994.”</blockquote>
 ```
 
-### 2. Qual é o público-alvo do Siscoserv?
+### A2. Qual é o público-alvo do Siscoserv?
 O público-alvo do Siscoserv são os residentes e domiciliados no Brasil que realizam operações
 de prestação ou aquisição de serviços, intangíveis e outras operações que produzam variações
 no patrimônio com residentes ou domiciliados no exterior. 
 
-### 3. Qual é a base legal do Siscoserv?
+### A3. Qual é a base legal do Siscoserv?
 Lei nº 12.546 de 14 de dezembro de 2011, arts 24 a 27.<br>
 Decreto nº 7.708 de 2 de abril de 2012.<br>
 * [Portaria MDIC no 113, de 17 de maio de 2012, com suas alterações posteriores](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4)
@@ -31,13 +31,13 @@ Decreto nº 7.708 de 2 de abril de 2012.<br>
 * [Portaria Conjunta RFB/SCS no 1.908, de 19 de julho de 2012, com suas alterações posteriores](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012)
 * [Portaria Conjunta RFB/SCS no 768, de 13 de maio de 2016](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2016&jornal=1&pagina=21&totalArquivos=152)
 
-### 4.  Há algum roteiro que oriente a utilização do Siscoserv?
+### A4.  Há algum roteiro que oriente a utilização do Siscoserv?
 Sim. Os Manuais do Siscoserv têm força de Norma Complementar, conforme previsto na
 Portaria Conjunta 1.908/2102. Além de complementar a legislação pertinente, eles esclarecem
 aspectos legais e operacionais do Siscoserv.<br>
 Os Manuais do Siscoserv estão disponíveis em: [http://www.mdic.gov.br/comercioservicos/asecretaria-de-comercio-e-servicos-scs-15/estatisticas-2](http://www.mdic.gov.br/comercioservicos/asecretaria-de-comercio-e-servicos-scs-15/estatisticas-2).
 
-### 5.  O que é a Nomenclatura Brasileira de Serviços, Intangíveis e outras Operaçõesque Produzam Variações no Patrimônio (NBS)?
+### A5.  O que é a Nomenclatura Brasileira de Serviços, Intangíveis e outras Operaçõesque Produzam Variações no Patrimônio (NBS)?
 <p align="justify">A Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam
 Variações no Patrimônio (NBS) é o classificador nacional para a identificação dos serviços e
 intangíveis como Produtos, que viabiliza a adequada elaboração, fiscalização e avaliação de
@@ -51,7 +51,7 @@ elegíveis ao financiamento no âmbito do Programa de Financiamento às Exporta�
 do BNDES – Exim, do Adiantamento sobre Contrato de Câmbio (ACC) e do Adiantamento sobre
 Cambiais Entregues (ACE).<br>
 
-### 6. O que são intangíveis?
+### A6. O que são intangíveis?
 <p align="justify">De acordo com o glossário dos Manuais do Siscoserv, item 12:<br>
 <blockquote cite="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/Parte_A_-_Revisado_de_Acordo_com_a_11%C2%AA_Ed._dos_Manuais.pdf">
 “São considerados intangíveis para fins do registro no SISCOSERV, entre outros:<br><br>
@@ -82,7 +82,7 @@ da Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que P
 Variações no Patrimônio – NBS.”
 </blockquote>
 
-### 7. O que são “Outras Operações que Produzam Variações no Patrimônio”?
+### A7. O que são “Outras Operações que Produzam Variações no Patrimônio”?
 De acordo com o glossário dos Manuais do Siscoserv, item 12:<br>
 <blockquote cite="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/Parte_A_-_Revisado_de_Acordo_com_a_11%C2%AA_Ed._dos_Manuais.pdf">
   “São operações classificadas na NBS que não se enquadram nem como serviços nem
@@ -95,7 +95,7 @@ Arrendamento mercantil operacional, código NBS 1.1101 e 1.1102;<br><br>
 - Contratos de franquias, código NBS 1.1110.30.00; e <br><br>
 - Fomento comercial (factoring), código NBS- 1.0908.00.00, etc.”</blockquote>
 
-### 8. O que são os Módulos Venda e Aquisição do Siscoserv?
+### A8. O que são os Módulos Venda e Aquisição do Siscoserv?
 De acordo com os Manuais do Siscoserv, item 3 do Capítulo 1:<br>
 <blockquote cite="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/Parte_A_-_Revisado_de_Acordo_com_a_11%C2%AA_Ed._dos_Manuais.pdf">
 <p align="justify">“O Siscoserv conta com dois Módulos: Venda e Aquisição.<br><br>
@@ -117,7 +117,7 @@ E no Módulo Aquisição são registradas as operações de aquisição de servi
 importações, realizada por residentes ou domiciliados no Brasil de residentes ou domiciliados
 no exterior.
   
-### 9. Como é realizado o acesso ao Siscoserv?
+### A9. Como é realizado o acesso ao Siscoserv?
 <p align="justify">O Siscoserv é um sistema que está disponível na Internet, podendo ser acessado de qualquer
 lugar, por qualquer empresa, desde que o usuário possua procuração eletrônica emitida pela
 Secretaria da Receita Federal do Brasil e Certificado Digital emitido por autoridade
@@ -149,7 +149,7 @@ permite que uma pessoa física represente outra pessoa (física ou jurídica) no
 As orientações para obtenção da procuração estão disponíveis em:
 [http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes).”.</blockquote>
 
-### 10. Como incluir os dados da empresa no campo “Informações Cadastrais”?
+### A10. Como incluir os dados da empresa no campo “Informações Cadastrais”?
 <p align="justify">A partir de 1º de junho de 2016 o sistema passou a oferecer dois fluxos para inserção dos
 dados cadastrais das empresas que registram operações no Siscoserv, o Fluxo de Registro
 Inicial, que ocorre quando não existem informações inseridas e o Fluxo de Manutenção das
@@ -167,7 +167,7 @@ c) Usuário/Responsável pelo Registro é o Próprio Vendedor.<br>
 pois garante a correta identificação do responsável pela inserção dos dados no SISCOSERV bem
 como os dados da empresa ou pessoa física.<br>
 
-### 11. Quem é o Diretor de Relações Governamentais ou Equivalente?
+### A11. Quem é o Diretor de Relações Governamentais ou Equivalente?
 <p align="justify">Um dos principais motivos para a existência do Siscoserv, conforme preconiza a legislação que
 o criou, é a obtenção de dados para a geração de políticas de fomento ao comércio
 internacional de serviços e propiciar a alavancagem das exportações brasileiras de serviços.
@@ -182,18 +182,18 @@ acordos, discussões sobre políticas de apoio e fomento ao comércio exterior d
 ainda, solicitar sua participação em eventos, missões ou reuniões bilaterais relacionadas ao
 comércio exterior de serviços.
   
-### 12. Qual a importância do correto preenchimento das Informações Cadastrais?
+### A12. Qual a importância do correto preenchimento das Informações Cadastrais?
 <p align="justify">As informações cadastrais são indispensáveis e de inteira responsabilidade de quem as
 fornece. A empresa deve estar atenta às informações prestadas e solicitar que o responsável
 pelo registro dessas informações confira cuidadosamente todos os dados antes de gravar a
 informação.
 
-### 13. Quando devo atualizar o campo de Informações Cadastrais?
+### A13. Quando devo atualizar o campo de Informações Cadastrais?
 <p align="justify">Os dados constantes do campo Informações Cadastrais devem ser atualizados toda vez que
 houver uma modificação e, caso não haja alterações, o sistema exigirá um novo cadastro
 após um ano da última alteração/inscrição.
   
-### 14. O que é o Número de Identificação Fiscal – NIF e como posso obtê-lo?
+### A14. O que é o Número de Identificação Fiscal – NIF e como posso obtê-lo?
 De acordo com o glossário dos Manuais do Siscoserv, item 12:<br>
 <blockquote cite="http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/Parte_A_-_Revisado_de_Acordo_com_a_11%C2%AA_Ed._dos_Manuais.pdf">“O NIF é o número fornecido pelo órgão de administração tributária no exterior
 indicador de pessoa física ou jurídica.” </blockquote>
@@ -221,7 +221,7 @@ fiscal.<br></p>
 <p align="justify">Caso não seja informado o NIF, a empresa deve explicar o motivo dentre as opções
 disponíveis, a saber: <b>Dispensado do NIF</b> ou <b>País não exige NIF</b>.
   
-### 17. O que fazer em casos de dúvida sobre a classificação de um serviço?
+### A17. O que fazer em casos de dúvida sobre a classificação de um serviço?
 <p align="justify">Em caso de dúvidas quanto à classificação, deverá ser realizada uma consulta à Nomenclatura
 Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio
 (NBS), bem como às suas Notas Explicativas (NEBS), disponíveis nos seguintes endereços
@@ -243,7 +243,7 @@ Receita Federal do Brasil em:<br>
   
 [http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacaodalegislacao-tributaria](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacaodalegislacao-tributaria)
 
-### 18. Qual é o contato do MDIC para questões gerais referentes ao Siscoserv?
+### A18. Qual é o contato do MDIC para questões gerais referentes ao Siscoserv?
 <p align="justify">Dúvidas gerais relacionadas ao Siscoserv devem ser encaminhadas para o Portal <b>COMEX
 RESPONDE</b>, disponível no endereço www.comexresponde.gov.br. Ao acessar o site, o
 contribuinte deve escolher a opção <b>“Sistemas e Ferramentas de Apoio”</b> no menu de Assuntos
@@ -252,12 +252,12 @@ mensagem no campo de <b>Mensagem</b>, inserir o <b>Código de Verificação</b> 
 como o gerenciamento das consultas por vários parâmetros como temas, tempo de resposta,
 satisfação do consulente, assuntos recorrentes, etc.
   
-### 19. O que fazer quando ocorrer, ao utilizar o Siscoserv, um erro relacionado a
+### A19. O que fazer quando ocorrer, ao utilizar o Siscoserv, um erro relacionado a
 acesso ao site ou a aspectos tecnológicos do sistema?
 <p align="justify">Deve-se encaminhar a ocorrência ao Serpro, mediante o e-mail css.serpro@serpro.gov.br, ou
 pelo telefone 0800-978-2331, conforme item 11 do Capitulo 1 dos Manuais do Siscoserv.
   
-### 20. Onde obtenho informações sobre multas relacionadas ao Siscoserv?
+### A20. Onde obtenho informações sobre multas relacionadas ao Siscoserv?
 <p align="justify">Recomendamos a leitura atenta da Portaria Conjunta RFB / SCS n° 1.908, de 19 de julho de
 2012 através do link http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=38371, que institui o Siscoserv e define prazos, limites e condições do registro relativas às
 transações entre residentes ou domiciliados no Brasil e residentes ou domiciliados no exterior
@@ -268,7 +268,7 @@ Caso permaneçam as dúvidas, por se tratar de um assunto de natureza tributári
 questionamentos devem ser encaminhados à Secretaria da Receita Federal do Brasil
 (http://www.receita.fazenda.gov.br/).
 
-### 21. O MDIC promove Cursos ou Palestras sobre o Siscoserv?
+### A21. O MDIC promove Cursos ou Palestras sobre o Siscoserv?
 <p align="justify">O MDIC não possui um calendário de cursos e palestras sobre o Siscoserv. Contudo, atende às
 demandas de entidades representativas do setor privado quando solicitado, tratando do tema
 em palestras e eventos do setor, como por exemplo durante o ENASERV.<br>
@@ -276,45 +276,3 @@ As palestras estão sujeitas à disponibilidade de recursos humanos e orçament�
 Ministério e devem sempre envolver um número significativo de empresas do setor para
 serem realizadas.
 
-----
-
-### 1. O que se deve registrar no Módulo Venda do Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda, itens 3 e 4 do Capítulo 1:
-
-```
-“No Módulo Venda são registrados os serviços, intangíveis e outras operações que produzam
-variações no patrimônio, vendidos por residentes ou domiciliados no País a residentes ou
-domiciliados no exterior. Este módulo abrange também o registro das operações realizadas
-por meio de presença comercial no exterior.
-
-No Módulo Venda do Siscoserv estão previstos os seguintes registros:
-
-Registro de Venda de Serviços (RVS): dados referentes à venda, por residente ou domiciliado
-no País, de serviços, intangíveis e outras operações que produzam variações no patrimônio, a
-residente ou domiciliado no exterior;
-
-Registro de Faturamento (RF): dados referentes ao faturamento decorrente de venda objeto
-de prévio RVS; e Registro de Presença Comercial (RPC): dados referentes às operações
-realizadas por meio de Presença Comercial no Exterior.”
-```
-
-### 2. Quem deve efetuar registros no Módulo Venda do Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1:
-
-```
-“Estão obrigados a registrar as informações nesse Módulo, os residentes ou domiciliados no
-Brasil que realizem, com residentes ou domiciliados no exterior, operações de venda de
-serviços, intangíveis e outras operações que produzam variações no patrimônio das pessoas
-físicas, das pessoas jurídicas ou dos entes despersonalizados, inclusive operações de
-exportação de serviços.
-
-Estão obrigados a efetuar registro no Módulo Venda do Siscoserv:
-a) o prestador do serviço residente ou domiciliado no Brasil;
-b) a pessoa física ou jurídica, residente ou domiciliada no Brasil, que transfere o intangível,
-inclusive os direitos de propriedade intelectual, por meio de cessão, concessão, licenciamento
-ou por quaisquer outros meios admitidos em direito; e
-c) a pessoa física ou jurídica ou o responsável legal do ente despersonalizado, residente ou
-domiciliado no Brasil, que realize outras operações que produzam variações no patrimônio.
-Também são obrigados a efetuar registro no Siscoserv os órgãos da administração pública,
-direta e indireta, da União, dos Estados, dos Municípios e do Distrito Federal.”
-```
