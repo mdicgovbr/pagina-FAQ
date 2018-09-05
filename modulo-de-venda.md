@@ -331,13 +331,11 @@ De acordo com o Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1:
 
 <blockquote>”O registro no Siscoserv independe da contratação de câmbio, do meio de pagamento ou da existência de um contrato formal.”</blockquote><br>
 
-
 ### B17. Como proceder se a operação tem data de conclusão indeterminada?
 
 De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.1 do Capítulo1:<br>
 
 <blockquote>“A operação cuja data de conclusão não seja conhecida por ocasião do seu registro, em razão de não ter sido pactuada entre as partes, pode ser objeto de registros periódicos, conforme itens 2.1 e 2.1.1 do Capítulo 2 . Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão pode ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2 e 2.1.3 do Capítulo 2.”</blockquote><br>
-
 
 ### B18. Como proceder se a operação se iniciar sem valor definido?
 De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.2 do Capítulo 1:
