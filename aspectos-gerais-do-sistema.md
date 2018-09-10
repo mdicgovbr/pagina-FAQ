@@ -87,7 +87,7 @@ De acordo com os Manuais do Siscoserv, item 3 do Capítulo 1:
 > “O Siscoserv conta com dois Módulos: Venda e Aquisição.  
 >  
 > No Módulo Venda são registrados os serviços, intangíveis e outras operações que produzam variações no patrimônio, vendidos por residentes ou domiciliados no País a residentes ou domiciliados no exterior. Este módulo abrange também o registro das operações realizadas por meio de presença comercial no exterior.  
-  
+>  
 > No Módulo Aquisição são registrados os serviços, intangíveis e outras operações que produzam variações no patrimônio, adquiridos por residentes ou domiciliados no País de residentes ou domiciliados no exterior.”  
   
  Para simplificar o entendimento, no Módulo Venda são registradas as operações de venda de serviços¹, inclusive exportações, realizadas por residentes ou domiciliados no Brasil para residentes ou domiciliados no exterior.  
@@ -111,7 +111,7 @@ no endereço: http://www.siscoserv.mdic.gov.br; exceto no horário de manutenç�
 > O acesso ao Siscoserv é sempre feito por certificado digital e-CPF. Quando a informação for prestada por pessoa jurídica ou representante 
 legal de terceiros, além do e-CPF do representante legal, também se exige procuração eletrônica. 
 Essa procuração deve ser emitida por estabelecimento. Não é possível o acesso via certificado digital e-CNPJ.  
-
+>  
 > O que é e como obter o Certificado Digital (e-CPF)  
 
 O Certificado Digital permite a identificação de uma pessoa no ambiente
