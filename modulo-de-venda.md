@@ -1,18 +1,15 @@
 # B1. O que se deve registrar no Módulo Venda do Siscoserv?
 De acordo com o Manual do Siscoserv – Módulo Venda, itens 3 e 4 do Capítulo 1:
 
-> 
- “No Módulo Venda são registrados os serviços, intangíveis e outras operações
-que produzam variações no patrimônio, vendidos por residentes ou domiciliados no País a residentes ou
-domiciliados no exterior. Este módulo abrange também o registro das operações realizadas por meio de presença comercial no exterior.
+> “No Módulo Venda são registrados os serviços, intangíveis e outras operações que produzam variações no patrimônio, vendidos por residentes ou domiciliados no País a residentes ou domiciliados no exterior. Este módulo abrange também o registro das operações realizadas por meio de presença comercial no exterior.
+>
+> No Módulo Venda do Siscoserv estão previstos os seguintes registros:
 
-No Módulo Venda do Siscoserv estão previstos os seguintes registros:
-
- Registro de Venda de Serviços (RVS): dados referentes à venda, por residente ou domiciliado
+> Registro de Venda de Serviços (RVS): dados referentes à venda, por residente ou domiciliado
 no País, de serviços, intangíveis e outras operações que produzam variações no patrimônio, a
 residente ou domiciliado no exterior;
 
- Registro de Faturamento (RF): dados referentes ao faturamento decorrente de venda objeto
+> Registro de Faturamento (RF): dados referentes ao faturamento decorrente de venda objeto
 de prévio RVS; e Registro de Presença Comercial (RPC): dados referentes às operações
 realizadas por meio de Presença Comercial no Exterior.”
 
@@ -21,8 +18,7 @@ realizadas por meio de Presença Comercial no Exterior.”
 De acordo com o Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1:
 
 
-> 
-  “Estão obrigados a registrar as informações nesse Módulo, os residentes ou domiciliados no
+> “Estão obrigados a registrar as informações nesse Módulo, os residentes ou domiciliados no
 Brasil que realizem, com residentes ou domiciliados no exterior, operações de venda de serviços, intangíveis e outras operações que produzam variações no patrimônio das pessoas
 físicas, das pessoas jurídicas ou dos entes despersonalizados, inclusive operações de exportação de serviços.
 
@@ -40,8 +36,7 @@ direta e indireta, da União, dos Estados, dos Municípios e do Distrito Federal
 # B3. De quem é a responsabilidade pelos registros RVS/RF no Siscoserv?
 De acordo com o Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1:  
 
-> 
- “A responsabilidade pelos registros RVS/RF do Módulo Venda do Siscoserv é do residente ou
+> “A responsabilidade pelos registros RVS/RF do Módulo Venda do Siscoserv é do residente ou
 domiciliado no País que mantenha relação contratual com residente ou domiciliado no exterior
 e contra este fature a prestação de serviço, a transferência de intangível ou a realização de
 outra operação que produza variação no patrimônio, ainda que ocorra subcontratação de
@@ -104,7 +99,7 @@ Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no
 # B5. Quem está dispensado de efetuar registro no Siscoserv?
  De acordo com o Manual do Siscoserv – Módulo Venda, item 6 do Capítulo 1:
 
->  “Estão dispensadas do registro no Sistema, nas operações que não tenham utilizado
+> “Estão dispensadas do registro no Sistema, nas operações que não tenham utilizado
 mecanismos de apoio ao comércio exterior de serviços, de intangíveis e demais operações de
 que trata o art. 26 da Lei nº 12.546, de 14 de dezembro de 2011:  
  I – as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e
@@ -119,7 +114,7 @@ especulativo de lucro, desde que não realizem operações em valor superior a U
 
 # B6. Quando eu devo efetivar os registros RVS/RF no Siscoserv?
 De acordo com o Manual do Siscoserv – Módulo Venda item 4.1.1 do Capítulo 1:  
->  “O prazo para incluir o RVS é até o último dia útil do 3º mês subsequente à data de início da
+> “O prazo para incluir o RVS é até o último dia útil do 3º mês subsequente à data de início da
 prestação de serviço, da comercialização de intangível, ou da realização de operação que produza variação no patrimônio.”
 Para o RF, Registro de Faturamento, há dois prazos possíveis, dependendo da data de emissão da nota
 fiscal ou documento equivalente:  
@@ -327,8 +322,7 @@ Assim, o usuário deve realizar um novo RVS com a informação correta a respeit
 
 De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1.2 do Capítulo 2:
 
-> 
-  "Os RVS podem ter todos os campos retificados antes da inclusão de Faturamento da operação. Após o faturamento da operação não podem ser retificados os campos Código NBS e Moeda. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder
+> "Os RVS podem ter todos os campos retificados antes da inclusão de Faturamento da operação. Após o faturamento da operação não podem ser retificados os campos Código NBS e Moeda. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder
 previamente com o cancelamento do RF.  
   
 
@@ -374,16 +368,14 @@ De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.1 do Capítulo1:
 # B18. Como proceder se a operação se iniciar sem valor definido?
 De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.2 do Capítulo 1:
 
-> 
-“A operação cujo valor não seja conhecido por ocasião do seu registro, em função de sua apuração só poder ocorrer após a efetiva prestação do serviço, pode ser registrada pelo seu valor estimado. Posteriormente, o valor poderá ser ajustado, mediante retificação, conforme descrito nos itens 2.1.2 ou 2.1.3 do Capítulo 2 do referido Manual.”
+> “A operação cujo valor não seja conhecido por ocasião do seu registro, em função de sua apuração só poder ocorrer após a efetiva prestação do serviço, pode ser registrada pelo seu valor estimado. Posteriormente, o valor poderá ser ajustado, mediante retificação, conforme descrito nos itens 2.1.2 ou 2.1.3 do Capítulo 2 do referido Manual.”
 
 
 # B19. Há alguma forma simplificada de registro para vendas a pessoas físicas residentes no exterior, mediante consumo no Brasil?
 
 De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.3 do Capítulo 4:
 
-> 
-  “As vendas de serviços, intangíveis e outras operações que produzam variações no patrimônio, em modo de prestação 2 (consumo no Brasil), realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês, para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no
+> “As vendas de serviços, intangíveis e outras operações que produzam variações no patrimônio, em modo de prestação 2 (consumo no Brasil), realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês, para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no
 exterior. A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:            
   
   
@@ -413,8 +405,7 @@ III – Número da NF de Serviço ou documento equivalente: inserir a expressão
  
  De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.4 do Capítulo 4:
  
- > 
-  “As prestações de serviços de transporte de passageiros para pessoas físicas residentes no exterior podem ser registradas pelos seus montantes acumulados mensalmente, por NBS e por país de residência do passageiro.  
+ > “As prestações de serviços de transporte de passageiros para pessoas físicas residentes no exterior podem ser registradas pelos seus montantes acumulados mensalmente, por NBS e por país de residência do passageiro.  
   
 
   Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês, para as operações ocorridas nesse período.  
@@ -452,8 +443,7 @@ III – Número da NF de Serviço ou documento equivalente: inserir a expressão
           
  # B21. O que preencher no campo País de Destino?
 De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:
->  
-  O campo País de Destino “identifica o país de destino da prestação do serviço, da aquisição de intangível ou da realização de outra operação que produza variação no patrimônio, podendo ser diferente do país do vendedor ou do adquirente.  
+> O campo País de Destino “identifica o país de destino da prestação do serviço, da aquisição de intangível ou da realização de outra operação que produza variação no patrimônio, podendo ser diferente do país do vendedor ou do adquirente.  
   
 
 Exemplos:  
@@ -503,8 +493,7 @@ No campo, deve ser indicado se a operação está vinculada à movimentação te
 
 De acordo com o Manual do Siscoserv – Módulo Venda, item 3 do Capítulo 2: 
 
-> 
-“Essa funcionalidade foi desenvolvida para facilitar a prestação das informações solicitadas, bem como aproveitar os dados já disponíveis nos sistemas gerenciais utilizados pelas empresas.  
+> “Essa funcionalidade foi desenvolvida para facilitar a prestação das informações solicitadas, bem como aproveitar os dados já disponíveis nos sistemas gerenciais utilizados pelas empresas.  
   
 
   
@@ -518,8 +507,7 @@ De acordo com o Manual do Siscoserv – Módulo Venda, item 3 do Capítulo 2:
   [- Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip) e;  
   [- Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).
   
-  > 
-Cada arquivo XML contém informações referentes a uma funcionalidade: Inclusão de RVS, Aditivo ao RVS, Retificação do RVS, Retificação do Aditivo ao RVS, Inclusão do RF ou Cancelamento de RF. Não é possível incluir num mesmo arquivo XML informações de duas ou mais funcionalidades, por exemplo, informações sobre a Retificação de um RVS e sobre o Cancelamento de um RF. Os arquivos XML devem conter as mesmas informações requeridas no preenchimento manual do RVS.”  
+> Cada arquivo XML contém informações referentes a uma funcionalidade: Inclusão de RVS, Aditivo ao RVS, Retificação do RVS, Retificação do Aditivo ao RVS, Inclusão do RF ou Cancelamento de RF. Não é possível incluir num mesmo arquivo XML informações de duas ou mais funcionalidades, por exemplo, informações sobre a Retificação de um RVS e sobre o Cancelamento de um RF. Os arquivos XML devem conter as mesmas informações requeridas no preenchimento manual do RVS.”  
   
 
   
@@ -533,8 +521,7 @@ Atualmente não existe plataforma de teste para a transmissão em lote.
 # B26. Prestei serviço para residente ou domiciliado no exterior, mas o valor recebido não foi o mesmo do documento de fatura. Qual valor devo registrar?
 De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:  
 
-> 
-  “O valor a ser registrado no Registro de Vendas de Serviço (RVS) é o valor bruto pactuado entre as partes adicionado de todos os custos necessários para a efetiva prestação do serviço, transferência do intangível ou realização de outra operação que produza variação no patrimônio.  
+> “O valor a ser registrado no Registro de Vendas de Serviço (RVS) é o valor bruto pactuado entre as partes adicionado de todos os custos necessários para a efetiva prestação do serviço, transferência do intangível ou realização de outra operação que produza variação no patrimônio.  
   
 
 De acordo com o Manual do Siscoserv – Módulo Venda, item 2.2 do Capítulo 2  
@@ -550,8 +537,7 @@ Após a Data de Conclusão da operação o valor total faturado deve coincidir c
   # B27. Preciso cancelar o RF para retificar o RVS, entretanto o prazo de registro do novo RF já se esgotou. Qual procedimento a ser tomado nessa situação?
 De acordo com o Manual do Siscoserv – Módulo Venda, item 2.2.2 do Capítulo 2:  
 
-> 
-“Caso, devido a necessidade de cancelamento do RF para retificar o RVS, o usuário perca o prazo de inclusão de RF, deve ser incluído em Informações Complementares o número do RF cancelado e o número do RF que o substituiu após a retificação do RVS.”  
+> “Caso, devido a necessidade de cancelamento do RF para retificar o RVS, o usuário perca o prazo de inclusão de RF, deve ser incluído em Informações Complementares o número do RF cancelado e o número do RF que o substituiu após a retificação do RVS.”  
 
 
 # B28. É possível retificar um RF?
@@ -563,8 +549,7 @@ A funcionalidade de Relatório Gerencial disponibiliza para a empresa um relató
   
 
 De acordo com o Manual do Siscoserv – Módulo Venda, item 4 do Capítulo 2:  
-> 
-  “A partir de 1º de junho de 2016, o sistema permite a geração dos Relatórios Gerenciais cujas informações abranjam um período máximo de um (1) ano, retroativo ao início da operação do Siscoserv.  
+> “A partir de 1º de junho de 2016, o sistema permite a geração dos Relatórios Gerenciais cujas informações abranjam um período máximo de um (1) ano, retroativo ao início da operação do Siscoserv.  
   
 
 O Siscoserv permite que o Usuário/Responsável pelo Registro gere os Relatórios gerenciais em três situações distintas, a saber:  
