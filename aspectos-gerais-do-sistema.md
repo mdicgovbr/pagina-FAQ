@@ -113,18 +113,23 @@ legal de terceiros, além do e-CPF do representante legal, também se exige proc
 Essa procuração deve ser emitida por estabelecimento. Não é possível o acesso via certificado digital e-CNPJ.  
 >  
 > O que é e como obter o Certificado Digital (e-CPF)  
-
-O Certificado Digital permite a identificação de uma pessoa no ambiente
-digital/eletrônico em transação na internet que necessite de validade legal e
-identificação inequívoca.  
- A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do
-Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em: http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacaode-certificados-digitais-e-cpf-ou-e-cnpj.
+>  
+> O Certificado Digital permite a identificação de uma pessoa no ambiente digital/eletrônico em transação na internet que necessite de validade legal e identificação inequívoca.  
+>  
+> A lista de autoridades certificadoras, habilitadas pela Secretaria da Receita Federal do Brasil (RFB) para emissão de Certificados Digitais e-CPF, está disponível em: http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/senhas/certificados-digitais/orientacoes-sobre-emissao-renovacao-e-revogacaode-certificados-digitais-e-cpf-ou-e-cnpj.  
+>  
+> O que é e como obter a Procuração Eletrônica  
+>  
+> A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento que permite que uma pessoa física represente outra pessoa (física ou jurídica) no Siscoserv.  
+>  
+> As orientações para obtenção da procuração estão disponíveis em: 
+http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes.”.  
   
- O que é e como obter a Procuração Eletrônica
-A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento que
-permite que uma pessoa física represente outra pessoa (física ou jurídica) no Siscoserv.
-As orientações para obtenção da procuração estão disponíveis em:
-http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes.”.
+  *Obs:*  
+  ¹Neste caso, leia-se “venda de serviços” como “venda de serviços, transferência de intangível ou realização de Outras Operações que Produzam Variações no Patrimônio”.  
+  ²Neste caso, leia-se “aquisição de serviços” como “aquisição de serviços, transferência de intangível ou realização de Outras Operações que Produzam Variações no Patrimônio”.  
+  
+
 
 # A10. Como incluir os dados da empresa no campo “Informações Cadastrais”?
  A partir de 1º de junho de 2016 o sistema passou a oferecer dois fluxos para inserção dos dados cadastrais das empresas que registram operações no Siscoserv, o Fluxo de Registro Inicial, que ocorre quando não existem informações inseridas e o Fluxo de Manutenção das
