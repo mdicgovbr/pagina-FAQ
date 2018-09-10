@@ -1,27 +1,3 @@
-# Sumário  
-[A1. O que é o Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a1-o-que-%C3%A9-o-siscoserv)  
-[A2. Qual é o público-alvo do Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a2-qual-%C3%A9-o-p%C3%BAblico-alvo-do-siscoserv)  
-[A3. Qual é a base legal do Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a3-qual-%C3%A9-a-base-legal-do-siscoserv)  
-[A4. Há algum roteiro que oriente a utilização do Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a4--h%C3%A1-algum-roteiro-que-oriente-a-utiliza%C3%A7%C3%A3o-do-siscoserv)  
-[A5. O que é a Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio (NBS)?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a5--o-que-%C3%A9-a-nomenclatura-brasileira-de-servi%C3%A7os-intang%C3%ADveis-e-outras-opera%C3%A7%C3%B5esque-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio-nbs)  
-[A6. O que são intangíveis?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a6-o-que-s%C3%A3o-intang%C3%ADveis)  
-[A7. O que são “Outras Operações que Produzam Variações no Patrimônio”?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a7-o-que-s%C3%A3o-outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio)  
-[A8. O que são os Módulos Venda e Aquisição do Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a8-o-que-s%C3%A3o-os-m%C3%B3dulos-venda-e-aquisi%C3%A7%C3%A3o-do-siscoserv)  
-[A9. Como é realizado o acesso ao Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a9-como-%C3%A9-realizado-o-acesso-ao-siscoserv)  
-[A10. Como incluir os dados da empresa no campo “Informações Cadastrais”?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a10-como-incluir-os-dados-da-empresa-no-campo-informa%C3%A7%C3%B5es-cadastrais)  
-[A11. Quem é o Diretor de Relações Governamentais ou Equivalente?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a11-quem-%C3%A9-o-diretor-de-rela%C3%A7%C3%B5es-governamentais-ou-equivalente)  
-[A12. Qual a importância do correto preenchimento das Informações Cadastrais?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a12-qual-a-import%C3%A2ncia-do-correto-preenchimento-das-informa%C3%A7%C3%B5es-cadastrais)  
-[A13. Quando devo atualizar o campo de Informações Cadastrais?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a13-quando-devo-atualizar-o-campo-de-informa%C3%A7%C3%B5es-cadastrais)  
-[A14. O que é o Número de Identificação Fiscal – NIF e como posso obtê-lo?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a14-o-que-%C3%A9-o-n%C3%BAmero-de-identifica%C3%A7%C3%A3o-fiscal--nif-e-como-posso-obt%C3%AA-lo)  
-[A15. Há uma lista de países que possuem NIF?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a15-h%C3%A1-uma-lista-de-pa%C3%ADses-que-possuem-nif)  
-[A16. Por que devo informar o “Motivo do Não Preenchimento do NIF”?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a16-por-que-devo-informar-o-motivo-do-n%C3%A3o-preenchimento-do-nif)  
-[A17. O que fazer em casos de dúvida sobre a classificação de um serviço?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a17-o-que-fazer-em-casos-de-d%C3%BAvida-sobre-a-classifica%C3%A7%C3%A3o-de-um-servi%C3%A7o)  
-[A18. Qual é o contato do MDIC para questões gerais referentes ao Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a18-qual-%C3%A9-o-contato-do-mdic-para-quest%C3%B5es-gerais-referentes-ao-siscoserv)  
-[A19. O que fazer quando ocorrer, ao utilizar o Siscoserv, um erro relacionado a acesso ao site ou a aspectos tecnológicos do sistema?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a19-o-que-fazer-quando-ocorrer-ao-utilizar-o-siscoserv-um-erro-relacionado-ao-acesso-ao-site-ou-a-aspectos-tecnol%C3%B3gicos-do-sistema)  
-[A20. Onde obtenho informações sobre multas relacionadas ao Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a20-onde-obtenho-informa%C3%A7%C3%B5es-sobre-multas-relacionadas-ao-siscoserv)  
-[A21. O MDIC promove Cursos ou Palestras sobre o Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a21-o-mdic-promove-cursos-ou-palestras-sobre-o-siscoserv)  
-
-  
 # A1. O que é o Siscoserv?
 É um sistema disponível na Internet que viabiliza o registro obrigatório das transações do Comércio Exterior de Serviços do Brasil, abrangendo inclusive as operações de exportações e importações de serviços e intangíveis.  
   
