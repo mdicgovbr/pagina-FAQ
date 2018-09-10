@@ -92,7 +92,12 @@ De acordo com os Manuais do Siscoserv, item 3 do Capítulo 1:
   
  Para simplificar o entendimento, no Módulo Venda são registradas as operações de venda de serviços¹, inclusive exportações, realizadas por residentes ou domiciliados no Brasil para residentes ou domiciliados no exterior.  
    
- E no Módulo Aquisição são registradas as operações de aquisição de serviços², inclusive importações, realizada por residentes ou domiciliados no Brasil de residentes ou domiciliados no exterior.
+ E no Módulo Aquisição são registradas as operações de aquisição de serviços², inclusive importações, realizada por residentes ou domiciliados no Brasil de residentes ou domiciliados no exterior.  
+   
+  *Obs:*  
+  ¹Neste caso, leia-se “venda de serviços” como “venda de serviços, transferência de intangível ou realização de Outras Operações que Produzam Variações no Patrimônio”.  
+  ²Neste caso, leia-se “aquisição de serviços” como “aquisição de serviços, transferência de intangível ou realização de Outras Operações que Produzam Variações no Patrimônio”.  
+  
   
 # A9. Como é realizado o acesso ao Siscoserv?
  O Siscoserv é um sistema que está disponível na Internet, podendo ser acessado de qualquer
@@ -124,12 +129,6 @@ Essa procuração deve ser emitida por estabelecimento. Não é possível o aces
 >  
 > As orientações para obtenção da procuração estão disponíveis em: 
 http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes.”.  
-  
-  *Obs:*  
-  ¹Neste caso, leia-se “venda de serviços” como “venda de serviços, transferência de intangível ou realização de Outras Operações que Produzam Variações no Patrimônio”.  
-  ²Neste caso, leia-se “aquisição de serviços” como “aquisição de serviços, transferência de intangível ou realização de Outras Operações que Produzam Variações no Patrimônio”.  
-  
-
 
 # A10. Como incluir os dados da empresa no campo “Informações Cadastrais”?
  A partir de 1º de junho de 2016 o sistema passou a oferecer dois fluxos para inserção dos dados cadastrais das empresas que registram operações no Siscoserv, o Fluxo de Registro Inicial, que ocorre quando não existem informações inseridas e o Fluxo de Manutenção das
