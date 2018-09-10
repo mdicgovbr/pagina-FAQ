@@ -4,11 +4,11 @@ De acordo com o Manual do Siscoserv – Módulo Venda, itens 3 e 4 do Capítulo 
 > “No Módulo Venda são registrados os serviços, intangíveis e outras operações que produzam variações no patrimônio, vendidos por residentes ou domiciliados no País a residentes ou domiciliados no exterior. Este módulo abrange também o registro das operações realizadas por meio de presença comercial no exterior.
 >
 > No Módulo Venda do Siscoserv estão previstos os seguintes registros:
-
+>
 > Registro de Venda de Serviços (RVS): dados referentes à venda, por residente ou domiciliado
 no País, de serviços, intangíveis e outras operações que produzam variações no patrimônio, a
 residente ou domiciliado no exterior;
-
+>
 > Registro de Faturamento (RF): dados referentes ao faturamento decorrente de venda objeto
 de prévio RVS; e Registro de Presença Comercial (RPC): dados referentes às operações
 realizadas por meio de Presença Comercial no Exterior.”
@@ -21,15 +21,20 @@ De acordo com o Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1:
 > “Estão obrigados a registrar as informações nesse Módulo, os residentes ou domiciliados no
 Brasil que realizem, com residentes ou domiciliados no exterior, operações de venda de serviços, intangíveis e outras operações que produzam variações no patrimônio das pessoas
 físicas, das pessoas jurídicas ou dos entes despersonalizados, inclusive operações de exportação de serviços.
-
-Estão obrigados a efetuar registro no Módulo Venda do Siscoserv:
- a) o prestador do serviço residente ou domiciliado no Brasil;
- b) a pessoa física ou jurídica, residente ou domiciliada no Brasil, que transfere o intangível,
+>
+> Estão obrigados a efetuar registro no Módulo Venda do Siscoserv:  
+>  
+>a) o prestador do serviço residente ou domiciliado no Brasil;  
+>  
+>b) a pessoa física ou jurídica, residente ou domiciliada no Brasil, que transfere o intangível,
 inclusive os direitos de propriedade intelectual, por meio de cessão, concessão, licenciamento
-ou por quaisquer outros meios admitidos em direito; e
- c) a pessoa física ou jurídica ou o responsável legal do ente despersonalizado, residente ou
-domiciliado no Brasil, que realize outras operações que produzam variações no patrimônio.
-Também são obrigados a efetuar registro no Siscoserv os órgãos da administração pública,
+ou por quaisquer outros meios admitidos em direito; e  
+>  
+>c) a pessoa física ou jurídica ou o responsável legal do ente despersonalizado, residente ou
+domiciliado no Brasil, que realize outras operações que produzam variações no patrimônio.  
+>  
+>  
+> Também são obrigados a efetuar registro no Siscoserv os órgãos da administração pública,
 direta e indireta, da União, dos Estados, dos Municípios e do Distrito Federal.”
  
 
@@ -41,10 +46,10 @@ domiciliado no País que mantenha relação contratual com residente ou domicili
 e contra este fature a prestação de serviço, a transferência de intangível ou a realização de
 outra operação que produza variação no patrimônio, ainda que ocorra subcontratação de
 residente ou domiciliado no País ou no exterior.  
-
-Exemplos:  
-
- (1) Empresa (A) domiciliada no Brasil mantém relação contratual, em que é prestadora de
+>
+> Exemplos:  
+>
+> (1) Empresa (A) domiciliada no Brasil mantém relação contratual, em que é prestadora de
 serviço, com empresa (B) domiciliada no exterior e contra esta fatura a prestação de serviço. A
 empresa (A) subcontrata empresa (C) domiciliada no Brasil para prestação parcial ou integral
 de serviço pertinente à relação contratual de (A) com (B). A empresa (A) deve proceder aos
@@ -54,8 +59,8 @@ Movimento Temporário de Pessoas Físicas). A empresa (C) não deve proceder aos
 Módulo Venda do Siscoserv em relação a sua relação contratual com (A), pois ambas são
 domiciliadas no Brasil. Além disso, como não há relação contratual entre (B) e (C), não há
 registros no Siscoserv adicionais a serem feitos.   
-
- (2) Empresa (A) domiciliada no Brasil mantém relação contratual, em que é prestadora de
+>  
+> (2) Empresa (A) domiciliada no Brasil mantém relação contratual, em que é prestadora de
 serviço, com empresa também domiciliada no Brasil (B) e contra esta fatura a prestação de
 serviço. A empresa (A) subcontrata empresa (C) domiciliada no exterior para prestação parcial
 ou integral de serviço pertinente à relação contratual de (A) com (B). Empresa (A) deve
@@ -64,8 +69,9 @@ que o serviço for prestado por (C) (Modo 1 – Comércio Transfronteiriço, Mod
 Exterior ou Modo 4 – Movimento Temporário de Pessoas Físicas). A empresa (A) não deve
 proceder aos registros no Módulo Venda do Siscoserv quanto à sua relação contratual com (B),
 pois ambas são domiciliadas no Brasil. Além disso, como não há relação contratual entre (B) e
-(C), não há registros no Siscoserv adicionais a serem feitos.
-(3) Empresa (A) domiciliada no Brasil mantém relação contratual, em que é prestadora de
+(C), não há registros no Siscoserv adicionais a serem feitos.  
+>  
+>(3) Empresa (A) domiciliada no Brasil mantém relação contratual, em que é prestadora de
 serviço, com empresa (B) domiciliada no exterior, mediante movimentação temporária de
 profissionais e contra esta fatura a prestação de serviço. A empresa (A) deve proceder aos
 registros RVS e RF no Módulo Venda do Siscoserv em Modo 4 – Movimento Temporário de
@@ -81,19 +87,21 @@ Siscoserv:
   
 
 Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas  
- Exportação brasileira com a obrigação de transportar da empresa brasileira
+- Exportação brasileira com a obrigação de transportar da empresa brasileira
 
 Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas  
- Importação brasileira com a obrigação de transportar da empresa brasileira
+- Importação brasileira com a obrigação de transportar da empresa brasileira
 
 Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas  
- Importação brasileira com a obrigação de transportar da empresa estrangeira  
+- Importação brasileira com a obrigação de transportar da empresa estrangeira  
 
 Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas  
- Exportação brasileira com a obrigação de transportar da empresa brasileira  
+- Exportação brasileira com a obrigação de transportar da empresa brasileira  
 
 2- Seguros:  
+
 Cenário 2.1. Contratação de seguro com intermediação de corretora  
+
 Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil
 
 # B5. Quem está dispensado de efetuar registro no Siscoserv?
