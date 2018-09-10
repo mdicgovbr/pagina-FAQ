@@ -1,6 +1,6 @@
 # Sumário  
 [A1. O que é o Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a1-o-que-%C3%A9-o-siscoserv)  
-[A2. Qual é o público-alvo do Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#A2. Qual é o público-alvo do Siscoserv?)  
+[A2. Qual é o público-alvo do Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#a2. Qual é o público-alvo do Siscoserv?)  
 [A3. Qual é a base legal do Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#A3. Qual é a base legal do Siscoserv?)  
 [A4. Há algum roteiro que oriente a utilização do Siscoserv?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#)  
 [A5. O que é a Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio (NBS)?](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md#)  
