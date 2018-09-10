@@ -110,11 +110,13 @@ Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no
 > “Estão dispensadas do registro no Sistema, nas operações que não tenham utilizado
 mecanismos de apoio ao comércio exterior de serviços, de intangíveis e demais operações de
 que trata o art. 26 da Lei nº 12.546, de 14 de dezembro de 2011:  
- I – as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e
+>
+> I – as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e
 Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte – Simples Nacional
 e os Microempreendedores Individuais (MEI) de que trata o §1º do artigo 18-A da Lei
 Complementar nº 123, de 14 de dezembro de 2006; e  
- II – as pessoas físicas residentes no País que, em nome individual, não explorem, habitual e
+>
+> II – as pessoas físicas residentes no País que, em nome individual, não explorem, habitual e
 profissionalmente, qualquer atividade econômica de natureza civil ou comercial, com o fim
 especulativo de lucro, desde que não realizem operações em valor superior a US$ 30.000,00
 (trinta mil dólares dos Estados Unidos da América), ou o equivalente em outra moeda, no mês.
@@ -123,21 +125,23 @@ especulativo de lucro, desde que não realizem operações em valor superior a U
 # B6. Quando eu devo efetivar os registros RVS/RF no Siscoserv?
 De acordo com o Manual do Siscoserv – Módulo Venda item 4.1.1 do Capítulo 1:  
 > “O prazo para incluir o RVS é até o último dia útil do 3º mês subsequente à data de início da
-prestação de serviço, da comercialização de intangível, ou da realização de operação que produza variação no patrimônio.”
+prestação de serviço, da comercialização de intangível, ou da realização de operação que produza variação no patrimônio.”  
+  
 Para o RF, Registro de Faturamento, há dois prazos possíveis, dependendo da data de emissão da nota
 fiscal ou documento equivalente:  
   
-
 
  1) quando a nota fiscal ou documento equivalente forem emitidos depois do início da prestação
 de serviço, da comercialização de intangível, ou da realização de operação que produza variação no
 patrimônio, o usuário deverá efetuar o RF até o último dia útil do mês subsequente ao da emissão
 da NF ou documento equivalente.  
+
  2) quando a nota fiscal ou documento equivalente forem emitidos antes do início da prestação de
 serviço, da comercialização de intangível, ou da realização da operação que produza variação no
 patrimônio, o usuário deverá efetuar o RF até o último dia útil do mês subsequente ao de
 inclusão do RVS.      
- Cabe destacar que o cumprimento da obrigação de registro no Siscoserv está condicionado ao registro
+
+Cabe destacar que o cumprimento da obrigação de registro no Siscoserv está condicionado ao registro
 do(s) RF(s) correspondente(s) que comprove(m) o faturamento do valor total de cada RVS incluído no
 Sistema.
 
@@ -147,59 +151,59 @@ De acordo com o Manual do Siscoserv – Módulo Venda, item 8 do Capítulo 1:
 > “Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio
 de Serviços da OMC (GATS), a prestação de serviços, segundo a localização do prestador e do
 tomador. São os seguintes no Módulo Venda:
-
- __Modo 1 – Comércio Transfronteiriço:__ serviço prestado do território de um país ao território de
+>
+> __Modo 1 – Comércio Transfronteiriço:__ serviço prestado do território de um país ao território de
 outro país, por residente ou domiciliado no Brasil a residente ou domiciliado no exterior.  
-  
-
- Exemplos:    
-
-  - serviço vendido via Internet por empresa brasileira à empresa domiciliada no exterior;
-  - serviços de corretagem de ações prestados a cliente residente ou domiciliado no exterior;
-  - efetuados por empresa corretora domiciliada no Brasil;
-  - serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas;
-  - realizados no Brasil para cliente residente ou domiciliado no exterior;
-  - serviços de transporte internacional de cargas prestado por empresa domiciliada no Brasil a empresa domiciliada no exterior
-  - serviços de transporte internacional de passageiros prestado por empresa domiciliada no Brasil a residentes no exterior.
-
-
- __Modo 2 - Consumo no Brasil:__ serviço prestado por residente ou domiciliado no Brasil e consumido no
+>  
+>
+> Exemplos:    
+>
+>  - serviço vendido via Internet por empresa brasileira à empresa domiciliada no exterior;
+>  - serviços de corretagem de ações prestados a cliente residente ou domiciliado no exterior;
+>  - efetuados por empresa corretora domiciliada no Brasil;
+>  - serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas;
+>  - realizados no Brasil para cliente residente ou domiciliado no exterior;
+>  - serviços de transporte internacional de cargas prestado por empresa domiciliada no Brasil a empresa domiciliada no exterior
+>  - serviços de transporte internacional de passageiros prestado por empresa domiciliada no Brasil a residentes no exterior.
+>
+>
+> __Modo 2 - Consumo no Brasil:__ serviço prestado por residente ou domiciliado no Brasil e consumido no
 território brasileiro por residente ou domiciliado no exterior.  
-  
- 
- Exemplos:    
-
-  - serviços educacionais presenciais prestados no Brasil a residente no  exterior;
-  - capacitação no Brasil de funcionários de pessoa jurídica domiciliada no exterior;
-  - empresa estrangeira envia equipamento para reparo no Brasil;
-  - serviços médicos especializados prestados no Brasil a residente no exterior
-  - serviços de manuseio de cargas e contêineres prestados no Brasil a pessoa jurídica domiciliada no exterior;
-  - serviços de hospedagem prestados no Brasil a residente no exterior.
-
-
-
- __Modo 3 - Presença comercial no exterior:__ consiste na prestação de serviço por pessoa jurídica
+>  
+> 
+> Exemplos:    
+>
+>  - serviços educacionais presenciais prestados no Brasil a residente no  exterior;
+>  - capacitação no Brasil de funcionários de pessoa jurídica domiciliada no exterior;
+>  - empresa estrangeira envia equipamento para reparo no Brasil;
+>  - serviços médicos especializados prestados no Brasil a residente no exterior
+>  - serviços de manuseio de cargas e contêineres prestados no Brasil a pessoa jurídica domiciliada no exterior;
+>  - serviços de hospedagem prestados no Brasil a residente no exterior.
+>
+>
+>
+>  __Modo 3 - Presença comercial no exterior:__ consiste na prestação de serviço por pessoa jurídica
 domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do
 Siscoserv, considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal
 ou controlada, domiciliada no exterior.  
-
- __Exemplos:__
-
-- filial de empresa brasileira de construção estabelecida no exterior para execução de
+>
+> __Exemplos:__
+>
+> - filial de empresa brasileira de construção estabelecida no exterior para execução de
 obra;
-- filiais bancárias no exterior de banco brasileiro;
-- controlada de empresa brasileira de comércio varejista no exterior.
-
-
-
- __Modo 4 – Movimento temporário de pessoas físicas:__ residentes no Brasil deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no
+> - filiais bancárias no exterior de banco brasileiro;
+> - controlada de empresa brasileira de comércio varejista no exterior.
+>
+>
+>
+> __Modo 4 – Movimento temporário de pessoas físicas:__ residentes no Brasil deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no
 exterior.      
-
- __Exemplos:__
-
-  - arquiteto residente no Brasil desloca-se para desenvolver projeto de arquitetura no exterior;
-  - empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo empregatício no Brasil para construção de uma rodovia no exterior;
-  - advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria jurídica.”
+>
+> __Exemplos:__
+>
+>  - arquiteto residente no Brasil desloca-se para desenvolver projeto de arquitetura no exterior;
+>  - empreiteiras domiciliadas no Brasil enviam trabalhadores que mantêm vínculo empregatício no Brasil para construção de uma rodovia no exterior;
+>  - advogado residente no Brasil desloca-se para o exterior a fim de prestar consultoria jurídica.”
         
         
     
@@ -227,8 +231,7 @@ De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:
 > “Este campo deve ser obrigatoriamente preenchido no caso de operação amparada em um ou
 mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e demais
 operações. Todos os mecanismos de apoio que amparam a operação devem ser registrados
-neste campo em cumprimento ao previsto no art. 26 da Lei nº 12.546, de 14 de dezembro de
-2011.     
+neste campo em cumprimento ao previsto no art. 26 da Lei nº 12.546, de 14 de dezembro de 2011.     
   
   
 O órgão ou a entidade da administração pública que tenha atribuição legal de regulação,
@@ -284,10 +287,10 @@ De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1.1 do Capítulo 2
 incluído, quando houver complementação ou aditamento nos termos do contrato (negócio),
 que envolva execução de outra operação classificada em NBS diferente, outra etapa do
 negócio, ou ainda executada em outro modo de prestação, período ou mesmo em outro país.      
-  
-
-  
-Na inclusão de Aditivo, não é possível realizar alterações nos Dados do Adquirente, tendo em
+>  
+>
+>  
+> Na inclusão de Aditivo, não é possível realizar alterações nos Dados do Adquirente, tendo em
 vista tratar-se de dados do registro como um todo e que só podem ser alterados pela função
 Retificar RVS.”
 
@@ -308,19 +311,19 @@ As condições e os procedimentos para retificação desses registros estão des
 De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1.2 do Capítulo 2:  
 
 > “O Valor da Operação pode ser retificado para zero nos seguintes casos:  
-  
-
-a) o usuário tenha registrado a operação para um vendedor incorreto;  
-  
-
-b) a operação tenha sido informada em duplicidade; ou  
-  
-
-c) a operação tenha sido informada no módulo Venda indevidamente.  
-  
-
-
-Nesses casos, **o usuário deve obrigatoriamente justificar a referida retificação em Informações Complementares**. No caso das alíneas a e b, indicar o número do RVS correto. No caso da alínea c, indicar o número do RAS.”
+>  
+>
+>a) o usuário tenha registrado a operação para um vendedor incorreto;  
+>  
+>
+>b) a operação tenha sido informada em duplicidade; ou  
+>  
+>
+>c) a operação tenha sido informada no módulo Venda indevidamente.  
+>  
+>
+>
+> Nesses casos, __o usuário deve obrigatoriamente justificar a referida retificação em Informações Complementares__. No caso das alíneas a e b, indicar o número do RVS correto. No caso da alínea c, indicar o número do RAS.”
   
 
 Assim, o usuário deve realizar um novo RVS com a informação correta a respeito do vendedor da operação. Posteriormente, o valor da operação do RVS com o vendedor incorreto deve ser retificado para zero e a retificação deve ser justificada no campo Informações Complementares com a indicação do número do RVS com o vendedor correto.
@@ -332,16 +335,16 @@ De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1.2 do Capítulo 2
 
 > "Os RVS podem ter todos os campos retificados antes da inclusão de Faturamento da operação. Após o faturamento da operação não podem ser retificados os campos Código NBS e Moeda. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder
 previamente com o cancelamento do RF.  
-  
-
-  
-  Após a o término do prazo para inclusão do último RF o valor total faturado deve coincidir com o Valor da Operação.  
-  
-  Excepcionalmente, se, após o término do prazo para inclusão do último RF, ocorrer de os valores do RVS e do(s) RF não serem coincidentes:  
-  
-  a) caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RVS o Valor da Operação de forma a corresponder ao valor do serviço efetivamente prestado;  
-  
-  b) caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em Informações Complementares a justificativa para tanto.”  
+>  
+>
+>  
+>  Após a o término do prazo para inclusão do último RF o valor total faturado deve coincidir com o Valor da Operação.  
+>  
+>  Excepcionalmente, se, após o término do prazo para inclusão do último RF, ocorrer de os valores do RVS e do(s) RF não serem coincidentes:  
+>  
+>  a) caso o serviço prestado tenha valor diferente do inicialmente registrado, o usuário deve retificar no RVS o Valor da Operação de forma a corresponder ao valor do serviço efetivamente prestado;  
+>  
+>  b) caso o serviço tenha sido prestado e o faturamento tenha sido parcial ou inexistente, o usuário deve retificar o RVS para incluir em Informações Complementares a justificativa para tanto.”  
   
 
 
@@ -385,26 +388,26 @@ De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.3 do Capítulo 4
 
 > “As vendas de serviços, intangíveis e outras operações que produzam variações no patrimônio, em modo de prestação 2 (consumo no Brasil), realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês, para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no
 exterior. A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:            
-  
-  
-  I – Nome do Adquirente e Endereço do Adquirente, NIF - inserir a expressão: “DIVERSOS”;  
-  
-
-II – Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;  
-  
-
-III – Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.          
-
-A inclusão do RF será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:  
-  
-
-I – Data da Fatura: informar o último dia do mês;  
-  
-
-II – Valor da Fatura: informar o somatório do valor faturado no mês;  
-  
-
-III – Número da NF de Serviço ou documento equivalente: inserir a expressão: “DIVERSOS”.”  
+>  
+>  
+>  I – Nome do Adquirente e Endereço do Adquirente, NIF - inserir a expressão: “DIVERSOS”;  
+>  
+>
+> II – Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;  
+>  
+>
+> III – Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.          
+>
+> A inclusão do RF será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:  
+>  
+>
+> I – Data da Fatura: informar o último dia do mês;  
+>  
+>
+> II – Valor da Fatura: informar o somatório do valor faturado no mês;  
+>  
+>
+> III – Número da NF de Serviço ou documento equivalente: inserir a expressão: “DIVERSOS”.”  
 
           
           
@@ -414,60 +417,59 @@ III – Número da NF de Serviço ou documento equivalente: inserir a expressão
  De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.4 do Capítulo 4:
  
  > “As prestações de serviços de transporte de passageiros para pessoas físicas residentes no exterior podem ser registradas pelos seus montantes acumulados mensalmente, por NBS e por país de residência do passageiro.  
-  
-
-  Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês, para as operações ocorridas nesse período.  
-  
-
-  A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:  
-  
-
-  I – Nome do Adquirente, Endereço do Adquirente, e NIF - inserir a expressão: “DIVERSOS”;  
-  
-
-  
-II – País do Adquirente: indicar o país de residência dos passageiros;  
-  
-III – País de Destino: indicar o mesmo país inserido no campo País do Adquirente.  
-  
-IV – Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;  
-
-V – Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.  
-  
-
-
-A inclusão do RF será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:  
-  
-
-I – Data da Fatura: informar o último dia do mês;  
-  
-
-II – Valor da Fatura: informar o somatório do valor faturado no mês;  
-  
-
-III – Número da NF de Serviço ou documento equivalente: inserir a expressão: “DIVERSOS”.”  
-          
-          
+>  
+>
+>  Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês, para as operações ocorridas nesse período.  
+>  
+>
+>  A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:  
+>  
+>
+>  I – Nome do Adquirente, Endereço do Adquirente, e NIF - inserir a expressão: “DIVERSOS”;  
+>  
+>
+>  
+> II – País do Adquirente: indicar o país de residência dos passageiros;  
+>  
+> III – País de Destino: indicar o mesmo país inserido no campo País do Adquirente.  
+>  
+> IV – Valor da Operação: informar o somatório dos valores relacionados às operações cuja realização ocorreu no mês de referência;  
+>
+> V – Data de Início e Data de Conclusão: informar o primeiro e o último dia do mês de referência.  
+>  
+>
+>
+> A inclusão do RF será feita observadas adicionalmente as seguintes instruções específicas para preenchimento:  
+> 
+>
+>  – Data da Fatura: informar o último dia do mês;  
+>  
+>
+> I – Valor da Fatura: informar o somatório do valor faturado no mês;  
+>  
+>
+> II – Número da NF de Serviço ou documento equivalente: inserir a expressão: “DIVERSOS”.”  
+>          
+>          
           
  # B21. O que preencher no campo País de Destino?
 De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:
 > O campo País de Destino “identifica o país de destino da prestação do serviço, da aquisição de intangível ou da realização de outra operação que produza variação no patrimônio, podendo ser diferente do país do vendedor ou do adquirente.  
-  
-
-Exemplos:  
-  
-
-(1) Prestador de serviço residente ou domiciliado no Brasil é contratado por residente ou domiciliado na Argentina para prestação do serviço no Chile. O país de destino é o Chile.  
-  
-
-(2) Serviço vendido via Internet por empresa brasileira a empresa domiciliada na Coreia do Sul. O país de destino é a Coreia do Sul.  
-  
-
-(3) Serviços educacionais presenciais prestados no Brasil a residente ou domiciliado na Finlândia. O país de destino é o Brasil.  
-  
-
-(4) Advogado residente no Brasil desloca-se para o Canadá a fim de prestar consultoria jurídica. O país de destino é o Canadá.”  
-  
+>  
+>
+> Exemplos:  
+>  
+>
+> (1) Prestador de serviço residente ou domiciliado no Brasil é contratado por residente ou domiciliado na Argentina para prestação do serviço no Chile. O país de destino é o Chile.  
+>  
+>
+> (2) Serviço vendido via Internet por empresa brasileira a empresa domiciliada na Coreia do Sul. O país de destino é a Coreia do Sul.  
+>  
+>
+> (3) Serviços educacionais presenciais prestados no Brasil a residente ou domiciliado na Finlândia. O país de destino é o Brasil.  
+>  
+>
+> (4) Advogado residente no Brasil desloca-se para o Canadá a fim de prestar consultoria jurídica. O país de destino é o Canadá.”  
 
 
 No Módulo Venda, sempre que o usuário registrar que o serviço foi prestado em Modo 2 (Consumo no
@@ -502,19 +504,19 @@ No campo, deve ser indicado se a operação está vinculada à movimentação te
 De acordo com o Manual do Siscoserv – Módulo Venda, item 3 do Capítulo 2: 
 
 > “Essa funcionalidade foi desenvolvida para facilitar a prestação das informações solicitadas, bem como aproveitar os dados já disponíveis nos sistemas gerenciais utilizados pelas empresas.  
-  
-
-  
-  A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP. O Manual do Siscoserv trata apenas da transmissão dos arquivos após sua criação.   
-  
-
-  
- Para a criação dos arquivos que devem ser transmitidos estão disponibilizados os seguintes documentos: - Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição; 
-  
-  
-  [- Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip) e;  
-  [- Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).
-  
+>  
+>
+>  
+>  A transmissão em lote é feita por meio do envio de um ou mais arquivos do tipo XML, compactados no formato ZIP. O Manual do Siscoserv trata apenas da transmissão dos arquivos após sua criação.   
+>  
+>
+>  
+> Para a criação dos arquivos que devem ser transmitidos estão disponibilizados os seguintes documentos: - Orientações Técnicas para o desenvolvimento da funcionalidade Transmissão em Lote do SISCOSERV Módulos Venda e Aquisição; 
+>  
+>  
+>  [- Modelos dos Arquivos XML e XSD para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Modelos_dos_Arquivos_XML_e_XSD_para_Transmiss%C3%A3o_em_Lote_-_V_2.0.zip) e;  
+>  [- Tabelas de Códigos do Siscoserv para Transmissão em Lote](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Tabelas_de_C%C3%B3digos_do_Siscosev_para_Transmiss%C3%A3o_em_Lote.zip).
+>  
 > Cada arquivo XML contém informações referentes a uma funcionalidade: Inclusão de RVS, Aditivo ao RVS, Retificação do RVS, Retificação do Aditivo ao RVS, Inclusão do RF ou Cancelamento de RF. Não é possível incluir num mesmo arquivo XML informações de duas ou mais funcionalidades, por exemplo, informações sobre a Retificação de um RVS e sobre o Cancelamento de um RF. Os arquivos XML devem conter as mesmas informações requeridas no preenchimento manual do RVS.”  
   
 
@@ -530,15 +532,15 @@ Atualmente não existe plataforma de teste para a transmissão em lote.
 De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:  
 
 > “O valor a ser registrado no Registro de Vendas de Serviço (RVS) é o valor bruto pactuado entre as partes adicionado de todos os custos necessários para a efetiva prestação do serviço, transferência do intangível ou realização de outra operação que produza variação no patrimônio.  
-  
-
-De acordo com o Manual do Siscoserv – Módulo Venda, item 2.2 do Capítulo 2  
-  
-
-O valor a ser registrado no Registro de Faturamento (RF) é o valor indicado na nota fiscal ou documento equivalente (inclusive nota de despesa).  
-  
-
-Após a Data de Conclusão da operação o valor total faturado deve coincidir com o Valor da Operação, na moeda do RVS. Caso os valores sejam divergentes, o usuário deve retificar o Valor da Operação utilizando os passos descritos no item 3.1.4 e 3.1.5 (se for o caso).”  
+>  
+>
+> De acordo com o Manual do Siscoserv – Módulo Venda, item 2.2 do Capítulo 2  
+>  
+>
+> O valor a ser registrado no Registro de Faturamento (RF) é o valor indicado na nota fiscal ou documento equivalente (inclusive nota de despesa).  
+>  
+>
+> Após a Data de Conclusão da operação o valor total faturado deve coincidir com o Valor da Operação, na moeda do RVS. Caso os valores sejam divergentes, o usuário deve retificar o Valor da Operação utilizando os passos descritos no item 3.1.4 e 3.1.5 (se for o caso).”  
   
   
   
@@ -558,15 +560,15 @@ A funcionalidade de Relatório Gerencial disponibiliza para a empresa um relató
 
 De acordo com o Manual do Siscoserv – Módulo Venda, item 4 do Capítulo 2:  
 > “A partir de 1º de junho de 2016, o sistema permite a geração dos Relatórios Gerenciais cujas informações abranjam um período máximo de um (1) ano, retroativo ao início da operação do Siscoserv.  
-  
-
-O Siscoserv permite que o Usuário/Responsável pelo Registro gere os Relatórios gerenciais em três situações distintas, a saber:  
-  
-
-a) Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;  
-b) Usuário/Responsável pelo Registro representa uma Pessoa Física; e  
-c) Usuário/Responsável pelo Registro é o Próprio Vendedor  
-  
-
-O Usuário/Responsável pelo Registro é o que detém o e-CPF e/ou a procuração eletrônica da Pessoa Jurídica ou Pessoa Física e é o responsável pela inserção dos dados no sistema.”
+>  
+>
+> O Siscoserv permite que o Usuário/Responsável pelo Registro gere os Relatórios gerenciais em três situações distintas, a saber:  
+>  
+>
+> a) Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;  
+> b) Usuário/Responsável pelo Registro representa uma Pessoa Física; e  
+> c) Usuário/Responsável pelo Registro é o Próprio Vendedor  
+>  
+>
+> O Usuário/Responsável pelo Registro é o que detém o e-CPF e/ou a procuração eletrônica da Pessoa Jurídica ou Pessoa Física e é o responsável pela inserção dos dados no sistema.”
   
