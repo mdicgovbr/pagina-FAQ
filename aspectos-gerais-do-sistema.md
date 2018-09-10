@@ -94,7 +94,7 @@ De acordo com os Manuais do Siscoserv, item 3 do Capítulo 1:
    
  E no Módulo Aquisição são registradas as operações de aquisição de serviços², inclusive importações, realizada por residentes ou domiciliados no Brasil de residentes ou domiciliados no exterior.  
    
-  *Obs:*  
+  __Obs:__  
   ¹Neste caso, leia-se “venda de serviços” como “venda de serviços, transferência de intangível ou realização de Outras Operações que Produzam Variações no Patrimônio”.  
   ²Neste caso, leia-se “aquisição de serviços” como “aquisição de serviços, transferência de intangível ou realização de Outras Operações que Produzam Variações no Patrimônio”.  
   
@@ -139,6 +139,7 @@ O Siscoserv permite 3 tipos de Cadastro:
 a) Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;  
 b) Usuário/Responsável pelo Registro representa uma Pessoa física; e  
 c) Usuário/Responsável pelo Registro é o Próprio Vendedor.  
+
  O preenchimento do campo de Informações Cadastrais é de muita importância para o MDIC,
 pois garante a correta identificação do responsável pela inserção dos dados no SISCOSERV bem
 como os dados da empresa ou pessoa física.  
@@ -146,7 +147,7 @@ como os dados da empresa ou pessoa física.
 # A11. Quem é o Diretor de Relações Governamentais ou Equivalente?
  Um dos principais motivos para a existência do Siscoserv, conforme preconiza a legislação que
 o criou, é a obtenção de dados para a geração de políticas de fomento ao comércio
-internacional de serviços e propiciar a alavancagem das exportações brasileiras de serviços.
+internacional de serviços e propiciar a alavancagem das exportações brasileiras de serviços.  
 O MDIC participa de discussões internacionais sobre o comércio exterior de serviços e precisa
 identificar, no setor empresarial brasileiro, representantes que possam contribuir de forma
 efetiva com ideias, sugestões e, principalmente, informar a situação atual e expectativas de
@@ -183,6 +184,7 @@ Secretaria da Receita Federal do Brasil (RFB).
  Os usuários do Siscoserv têm solicitado uma lista oficial de países que possuem NIF (cujo
 termo em inglês é Taxpayer Identification Number - TIN, e que é o equivalente ao CNPJ no
 Brasil).  
+  
  Informamos, a título de referência, que a Organização para a Cooperação e Desenvolvimento
 Econômico (OCDE) disponibiliza, no link abaixo, a lista não exaustiva dos países que adotam o NIF:  
   
@@ -192,8 +194,7 @@ Econômico (OCDE) disponibiliza, no link abaixo, a lista não exaustiva dos paí
 
 # A16. Por que devo informar o “Motivo do Não Preenchimento do NIF”?
  O fornecimento do NIF é obrigatório nos casos de países que adotam códigos de identificação fiscal.  
-
- Caso não seja informado o NIF, a empresa deve explicar o motivo dentre as opções disponíveis, a saber: *Dispensado do NIF* ou *País não exige NIF*.
+ Caso não seja informado o NIF, a empresa deve explicar o motivo dentre as opções disponíveis, a saber: __Dispensado do NIF__ ou __País não exige NIF__.
   
 # A17. O que fazer em casos de dúvida sobre a classificação de um serviço?
  Em caso de dúvidas quanto à classificação, deverá ser realizada uma consulta à Nomenclatura
@@ -218,9 +219,8 @@ Receita Federal do Brasil em:
 [http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacaodalegislacao-tributaria](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacaodalegislacao-tributaria)
 
 # A18. Qual é o contato do MDIC para questões gerais referentes ao Siscoserv?
- Dúvidas gerais relacionadas ao Siscoserv devem ser encaminhadas para o Portal *COMEX
-RESPONDE*, disponível no endereço www.comexresponde.gov.br. Ao acessar o site, o contribuinte deve escolher a opção *“Sistemas e Ferramentas de Apoio”* no menu de Assuntos Gerais e, em seguida, a opção *“Siscoserv”* no menu de Assuntos Específicos, digitar sua
-mensagem no campo de *Mensagem*, inserir o *Código de Verificação* e *Enviar*. Esse procedimento de atendimento garante uma melhor qualidade nos serviços prestados bem como o gerenciamento das consultas por vários parâmetros como temas, tempo de resposta,
+ Dúvidas gerais relacionadas ao Siscoserv devem ser encaminhadas para o Portal __COMEX RESPONDE__, disponível no endereço www.comexresponde.gov.br. Ao acessar o site, o contribuinte deve escolher a opção __“Sistemas e Ferramentas de Apoio”__ no menu de Assuntos Gerais e, em seguida, a opção __“Siscoserv”__ no menu de Assuntos Específicos, digitar sua
+mensagem no campo de __Mensagem__, inserir o __Código de Verificação__ e __Enviar__. Esse procedimento de atendimento garante uma melhor qualidade nos serviços prestados bem como o gerenciamento das consultas por vários parâmetros como temas, tempo de resposta,
 satisfação do consulente, assuntos recorrentes, etc.
   
 # A19. O que fazer quando ocorrer, ao utilizar o Siscoserv, um erro relacionado ao acesso ao site ou a aspectos tecnológicos do sistema?
