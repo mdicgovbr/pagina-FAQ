@@ -1,3 +1,11 @@
+---
+published: true
+permalink: /modulo-aquisicao
+layout: slate
+filename: modulo-aquisicao.md
+title: Manual módulo aquisição
+---
+
 # D – Módulo Aquisição (RAS/RP)
 
 # D1. O que se deve registrar no Módulo Aquisição do Siscoserv?
