@@ -1,3 +1,13 @@
+---
+published: true
+permalink: /pagina-FAQ/modulo-de-venda
+layout: slate
+filename: modulo-de-venda.md
+title: Módulo venda
+---  
+  
+# B - Módulo Venda (RVS/RF)    
+
 [TOC]
 
 ----------
