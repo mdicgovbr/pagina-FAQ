@@ -3,7 +3,7 @@ published: true
 permalink: /modulo-de-venda-RPC
 layout: slate
 filename: modulo-de-venda-RPC.md
-title: Módulo Venda
+title: Módulo Venda RPC
 ---   
 
 # C – Módulo Venda (RPC)
