@@ -1,3 +1,7 @@
+[TOC]
+
+----------
+
 # C1. Em que Módulo do Siscoserv se efetua o Registro de Presença Comercial (RPC)?
 De acordo com o Manual do Siscoserv – Módulo Venda, item 3 do capítulo 1:
 > “No Módulo Venda são registrados os serviços, intangíveis e outras operações que
