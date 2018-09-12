@@ -8,6 +8,7 @@ title: Página FAQ
 
 # Perguntas Frequentes
 
+
 Revisadas conforme a 11ª Edição dos Manuais do Siscoserv.
 
 [A – Aspectos Gerais do Sistema](https://github.com/mdicgovbr/pagina-FAQ/blob/master/aspectos-gerais-do-sistema.md)  
