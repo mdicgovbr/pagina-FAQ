@@ -1,8 +1,10 @@
+---
 published: true
 permalink: /
 layout: slate
 filename: index.md
 title: Página FAQ
+---  
 
 # Perguntas Frequentes
 
