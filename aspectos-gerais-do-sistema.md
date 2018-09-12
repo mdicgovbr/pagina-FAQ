@@ -1,3 +1,13 @@
+---
+published: true
+permalink: /pagina-FAQ/aspectos-gerais-do-sistema
+layout: slate
+filename: aspectos-gerais-do-sistema.md
+title: Aspectos gerais do sistema
+---  
+
+# A – Aspectos Gerais do Siscoserv
+
 [TOC]
 
 ----------
