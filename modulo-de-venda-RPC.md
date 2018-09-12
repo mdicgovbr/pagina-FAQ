@@ -1,3 +1,13 @@
+---
+published: true
+permalink: /modulo-de-venda-RPC
+layout: slate
+filename: modulo-de-venda-RPC.md
+title: Módulo Venda
+---   
+
+# C – Módulo Venda (RPC)
+  
 [TOC]
 
 ----------
