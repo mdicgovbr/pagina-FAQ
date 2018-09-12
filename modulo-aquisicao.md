@@ -3,8 +3,8 @@ published: true
 permalink: /modulo-aquisicao
 layout: slate
 filename: modulo-aquisicao.md
-title: Manual módulo aquisição
----
+title: Módulo Aquisição
+--- 
 
 # D – Módulo Aquisição (RAS/RP)
 
