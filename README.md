@@ -5,7 +5,7 @@ Este repositório apresenta um site estático para perguntas e respostas(FAQ) do
 Para o desenvolvimentodo site, seguiu-se as seguintes etapas: 
 
 ## Etapa 1 - Construção do Markdown
-Converter os PDFs para markdown usando uma hashtag '#' para títulos e a tag "<blockquote>" para citações.
+Converter os PDFs para markdown usando uma hashtag '#' para títulos e a tag "blockquote" para citações.
   
 ## Etapa 2 - Entender o Funcionamento do Jekyll
 ## Etapa 3 - Configuração do GithubPages
