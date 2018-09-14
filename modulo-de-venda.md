@@ -1,3 +1,17 @@
+---
+published: true
+permalink: /modulo-de-venda
+layout: slate
+filename: modulo-de-venda.md
+title: Módulo venda
+---  
+  
+# B - Módulo Venda (RVS/RF)    
+
+[TOC]
+
+----------
+
 # B1. O que se deve registrar no Módulo Venda do Siscoserv?
 De acordo com o Manual do Siscoserv – Módulo Venda, itens 3 e 4 do Capítulo 1:
 
