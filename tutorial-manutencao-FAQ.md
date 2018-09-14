@@ -12,6 +12,7 @@ Depois de localizar você tem duas formas para editar:
 gerará uma build automaticamente e atualizará o site.  
 
 - Clique no lápis no canto superior direito para editar o arquivo pela própria interface do GitHub.
+
 ![](https://github.com/mdicgovbr/pagina-FAQ/blob/master/img/editar-markdown.png)
 
 Para mais detalhes da linguagem Markdown, 
