@@ -8,10 +8,11 @@ title: Página FAQ
 
 # Perguntas Frequentes
 
+Escolha o assunto:
 
-Revisadas conforme a 11ª Edição dos Manuais do Siscoserv.
+: [A – Aspectos Gerais do Sistema](/aspectos-gerais-do-sistema)  
+: [B – Módulo Venda (RVS/RF)](/modulo-de-venda)  
+: [C – Módulo Venda (RPC)](/modulo-de-venda-RPC)  
+: [D – Módulo Aquisição (RAS/RP)](/modulo-aquisicao)  
 
-[A – Aspectos Gerais do Sistema](/aspectos-gerais-do-sistema)  
-[B – Módulo Venda (RVS/RF)](/modulo-de-venda)  
-[C – Módulo Venda (RPC)](/modulo-de-venda-RPC)  
-[D – Módulo Aquisição (RAS/RP)](/modulo-aquisicao)  
+Respostas revisadas conforme a 11ª Edição dos Manuais do Siscoserv.
