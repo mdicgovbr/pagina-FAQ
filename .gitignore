@@ -1,0 +1,5 @@
+*~
+*.lock
+_site*
+.jekyll-metadata
+
