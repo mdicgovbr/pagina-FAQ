@@ -1526,18 +1526,11 @@ body {
   body:last-child:after {
     clear: both; }
   body > header.masthead {
-    padding: 14px 0 0 0;
-    background-color: #34378F;
-    background-image: -moz-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
-    background-image: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(1%, #1074BC), color-stop(100%, #34378F));
-    background-image: -webkit-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
-    background-image: -o-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
-    background-image: -ms-radial-gradient(center, ellipse cover, #1074BC 1%, #34378F 100%);
-    background-image: radial-gradient(ellipse at center, #1074BC 1%, #34378F 100%);
-    color: #fff;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1074BC", endColorstr="#34378F", GradientType=1);
-    background: radial-gradient(683.00px at 50% 50%, #0C9D18 0%, #0D5D27 100%);
-    box-shadow: 0px 3.6742px 3.6742px rgba(0, 0, 0, 0.25);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.29) 0%, rgba(255, 255, 255, 0) 100%), #219653;
+    background-image: url(../public/img/logo-topo-bg.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    position:relative;
 }
     body > header.masthead > .container {
       max-width: 980px;
@@ -1565,18 +1558,24 @@ body {
     body > header.masthead #zoom a:first-child {
           margin-left: 0px;
     }
-
-
-/* Logo */
+.menu-topo a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 16px;
+    color: #A0FFC8;
+}
+.menu-topo {
+    list-style: none;
+}
+/* Logo 2*/
 
     body > header.masthead #site_logo {
       float: left;
       margin: 8px 0 0;
-      width: 220px;
-      width: 430px;
       /*background-image: url("../img/logo.png"); luiz>*/
       background-repeat: no-repeat;
-      overflow: hidden;
       display: block;
       clear: left;
     }
@@ -1611,18 +1610,27 @@ body {
     }
 
     #portal-title {
-        font-weight: 800;
-        letter-spacing: -0.05em;
-        margin: 0;
-        margin-left: -2px;
-        height: 64px;
-    }
+
+	    font-family: Raleway;
+	    font-style: normal;
+	    font-weight: bold;
+	    line-height: normal;
+	    font-size: 3rem;
+	    position: absolute;
+	    bottom: -131px;
+	    left: -108px;
+
+	}
 
     #portal-description {
-        font-size: 14px;
-        color: #fff;
-        text-transform: uppercase;
-        font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 28.8853px;
+	color: #FFFFFF;
+	margin-top: 14px;
+	text-transform: uppercase;
     }
 
     #portal-type {
@@ -1632,7 +1640,22 @@ body {
     
 
 /* Fim logo  */
-
+ul.menu-topo li {
+    display: inline-block;
+    margin-left: 20px;
+    line-height: 52px;
+}
+.button a {
+    color: #ffffff;
+    border: 2px solid;
+    padding: 8px;
+    border-radius: 29px;
+    font-size: 14px;
+    opacity: 0.7;
+}
+.button a:hover {
+    opacity: 1;
+}
 body > header.masthead #news {
       clear: both;
       float: left;
@@ -1695,7 +1718,11 @@ body > header.masthead #news {
             background: -moz-linear-gradient(top, #548cc0 0%, #3e6992);
             background: -webkit-gradient(linear, left top, left bottom, from(#548cc0), to(#3e6992));
             /* Chrome,Safari4+ */
-            background: -webkit-linear-gradient(left, #548cc0 0%, #3e6992 100%);
+            background: -webkit-ul.menu-topo li {
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+}linear-gradient(left, #548cc0 0%, #3e6992 100%);
             /* Chrome10+,Safari5.1+ */
             background: -o-linear-gradient(left, #548cc0 0%, #3e6992 100%);
             /* Opera 11.10+ */
@@ -2184,10 +2211,9 @@ body.no-sidebar .row .content-outer {
 
 }
 
-.container,
-.inner{
+.container, .inner{
 	width: 100% !important;
-	max-width: 1074px !important;
+	max-width: 1140px !important;
 	padding-left: 0 !important;
 	padding-right: 0 !important;
 }
@@ -2198,19 +2224,11 @@ body.no-sidebar .row .content-outer {
 
 #portal-siteactions{
 	position: absolute;
-	right: 0;
+	right: 10px;
 	top: 0;
 	list-style-type: none;
-	border-bottom: 1px #fff dotted;
 	padding: 0;
 	margin: 0;
-}
-
-#portal-siteactions li a {
-	padding: 4px 0 4px 10px;
-	text-decoration: none;
-	text-transform: uppercase;
-	font-size: 11px;
 }
 
 #menu-de-navegacao {
@@ -2229,20 +2247,18 @@ body.no-sidebar .row .content-outer {
 	margin-left: 15px;
 }
 
-header.masthead .container {
-    background-image: url(../public/img/mask_group.svg);
-    background-position: right center;
-    background-repeat: no-repeat;
-    margin-top: -14px;
-    padding-top: 15px;
-}
-
 #main_content a:hover {
     color: #3F51B5;
 }
 
 
-
+#barra-brasil {
+    background-color: #0d4e29;
+    box-sizing: content-box;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
 @media (max-width:760px){
   #menu-de-navegacao {
       text-align: center;
@@ -2263,16 +2279,7 @@ header.masthead .container {
       background-size: 96%;
       background-position: 192px center;
   }
-  #portal-title {
-      font-weight: 800;
-      letter-spacing: -0.05em;
-      margin: 11px;
-      margin-left: 20px;
-      height: 46px;
-      width: 186px;
-      line-height: 25px;
-      font-size: 23px
-  }
+
   body > header.masthead #site_logo {
       float: left;
       margin: 8px 0 0;
@@ -2288,17 +2295,7 @@ header.masthead .container {
   ul#news {
       display: none;
   }
-  #portal-title {
-      font-weight: 800;
-      letter-spacing: -0.05em;
-      margin: 0;
-      margin-left: 20px;
-      height: 46px;
-      width: 186px;
-      position: relative;
-      line-height: 25px;
-      top: -4px;
-  }
+ 
   span#portal-description {
     display: block;
     width: 286px;
@@ -2328,4 +2325,38 @@ header.masthead .container {
 div#barra-brasil {
     position: relative;
     z-index: 1;
+}
+
+.masthead {
+    min-height: 328px;
+    max-width: 1608px;
+    margin: 0 auto;
+}
+#barra-brasil {
+    background-color: #0d4e29;
+    box-sizing: content-box;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.logo-do-siscoserv {
+    width: 43px;
+    height: 21px;
+    border: 0px;
+    box-shadow: none;
+    float: left;
+    margin-top: 7px;
+    margin-left: 21px;
+}
+
+.active a {
+    color: #fff;
+}
+#barra-brasil {
+    background-color: #0d4e29 !important;
+    box-sizing: content-box;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
 }
