@@ -19,41 +19,44 @@
     <script type="text/javascript" src="{{ site.baseurl }}/public/js/anchor.min.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/public/js/pdfmake.min.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/public/js/vfs_fonts.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Raleway|Roboto" rel="stylesheet"> 
 
 </head>
 
 <body class="index              DadosGovBrHomeController              False   ">
-    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;"> 
-	    <ul id="menu-barra-temp" style="list-style:none;">
-		    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li> 
-		    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://barra.governoeletronico.gov.br/atualize.html">Atualize sua Barra de Governo</a></li>
-	    </ul>
-    </div>
+<div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+  <ul id="menu-barra-temp" style="list-style:none;">
+    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED">
+        <a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a>
+    </li>
+  </ul>
+</div>
     <header class="masthead">
-        
+	<img class="logo-do-siscoserv" src="{{ site.baseurl }}/public/img/logo-bg-menu.svg" alt="logo do Siscoserv">
+	<ul class="menu-topo">
+		<li>
+			<a href="http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15" target="_blank">Sobre o Sistema</a>
+		</li>
+		<li>
+			<a href="http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-2" target="_blank">Manuais de Utilização</a>
+		</li>
+		<li class="active">
+			<a href="http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-6" target="_blank">Perguntas Frequentes - FAQ</a>
+		</li>
+		<li>
+			<a href="http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4" target="_blank">Normas</a>
+		</li>
+		<li class="button">
+			<a href="https://www.siscoserv.mdic.gov.br/" target="_blank">Acesse o Siscoserv</a>
+		</li>
+		
+	</ul>
+<ul id="portal-siteactions"> 
+		    <li>
+			<a href="#" title="Alto Contraste" accesskey="6" id="high-contrast">Alto Contraste</a>
+		    </li>
+		</ul>
         <div class="container">
-                <ul id="accessibility">
-					<li>
-						<a id="link-conteudo" href="#main_content" accesskey="1">
-							Ir para o conteúdo
-							<span>1</span>
-						</a>
-					</li>
-					<!-- layout está sem menu
-					<li>
-						<a id="link-navegacao" href="#menu-horizontal" accesskey="2">
-							Ir para o menu
-							<span>2</span>
-						</a>
-					</li>
-					-->
-					<li>
-						<a id="link-rodape" href="#footer_wrap" accesskey="4">
-							Ir para o rodapé
-							<span>4</span>
-						</a>
-					</li>
-				</ul>
             <div id="zoom">
               <a href="http://dados.gov.br/#" onclick="resizeText(1)">A+</a>
               <a href="http://dados.gov.br/#" onclick="resizeText(-1)">A-</a>
@@ -61,23 +64,17 @@
             <h1 id="site_logo">
                 <a href="/">
                     <span id="portal-type"></span>
-                    <span id="portal-title">Perguntas Frequentes</span>
-                    <span id="portal-description">sobre a utilização do SISCOSERV</span>
+                    <span id="portal-title">Perguntas frequentes de uso do Siscoserv</span>
+   
                 </a>
             </h1>
-		<ul id="portal-siteactions">
-		    <li>
-			<a href="#" title="Alto Contraste" accesskey="6" id="high-contrast">Alto Contraste</a>
-		    </li>
-		</ul>
+		
               <!--<ul id="news">
 
                   <li id="feed"><a rel="feed" href="http://www.planejamento.gov.br/noticias/ultimas-noticias/RSS" title="Feed de notícias do Ministério do Planejamento" class="hs-rss-link">feed</a></li>
                   <li id="twitter"><a href="https://twitter.com/planejamentobr" target="_blank" title="Microblog no Twitter">twitter</a></li>
                   <li id="github"><a href="https://github.com/planejamentoGovBr/PDA-institucional-MP" target="_blank" title="Código fonte do Plano de Dados Abertos do Ministério do Planejamento no Github">Código fonte do Plano de Dados Abertos do Ministério do Planejamento no Github</a></li>
               </ul>-->
-		<ul id="menu-de-navegacao" class="menu">
-		<li><a href="http://www.siscoserv.mdic.gov.br/" target="_blank">Acesse o Siscoserv</a></li>
-	</ul>
+		
         </div>
     </header>
