@@ -590,3 +590,5 @@ c) Usuário/Responsável pelo Registro é o Próprio Vendedor
 O Usuário/Responsável pelo Registro é o que detém o e-CPF e/ou a procuração eletrônica da
 Pessoa Jurídica ou Pessoa Física e é o responsável pela inserção dos dados no sistema.
 
+
+<a href="#">Voltar para o topo</a>
