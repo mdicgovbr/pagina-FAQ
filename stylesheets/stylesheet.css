@@ -415,6 +415,7 @@ Full-Width Styles
     max-width: 1608px;
     margin: 0 auto;
     min-height: 278px;
+    margin-top: -10px;
 }
 
 /*******************************************************************************
