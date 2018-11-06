@@ -2242,13 +2242,11 @@ body.no-sidebar .row .content-outer {
 }
 
 #portal-siteactions{
-	position: absolute;
-	right: 10px;
-	top: 0;
-	list-style-type: none;
-	padding: 0;
-	margin: 0;
+  float: right;
+  list-style-type: none;
+  margin-right: 10px;
 }
+	
 
 #menu-de-navegacao {
     width: 100%;
@@ -2278,7 +2276,7 @@ body.no-sidebar .row .content-outer {
     flex-direction: column-reverse;
     align-items: center;
 }
-/* @media (max-width:760px){
+@media (max-width:760px){
   #menu-de-navegacao {
       text-align: center;
   }
@@ -2339,7 +2337,7 @@ body.no-sidebar .row .content-outer {
   } 
 }
 
- */
+
 div#barra-brasil {
     position: relative;
     z-index: 1;
