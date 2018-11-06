@@ -1608,19 +1608,38 @@ body {
     #site_logo span {
         display: block;
     }
+/* 
+    @media only screen and (max-device-width: 1400px ) {
+      
+    } */
+/* 
+    @media only screen and (min-device-width: 1400px ) {
+      
+      #portal-title {
+        
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: bold;
+        line-height: 30px;
+        font-size: 3rem;
+        position: static;
+        align-self: flex-start;
+        bottom: -131px;
+        left: -108px;
+        
+      }
+    } */
 
     #portal-title {
-
-	    font-family: Raleway;
-	    font-style: normal;
-	    font-weight: bold;
-	    line-height: normal;
-	    font-size: 3rem;
-	    position: absolute;
-	    bottom: -131px;
-	    left: -108px;
-
-	}
+        
+      font-family: Raleway;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 3rem;
+      position: static;
+      line-height: 30px;
+      margin-top: 180px;      
+    }
 
     #portal-description {
 	font-family: Raleway;
@@ -2259,7 +2278,7 @@ body.no-sidebar .row .content-outer {
     flex-direction: column-reverse;
     align-items: center;
 }
-@media (max-width:760px){
+/* @media (max-width:760px){
   #menu-de-navegacao {
       text-align: center;
   }
@@ -2271,7 +2290,6 @@ body.no-sidebar .row .content-outer {
       display: none;
   }
   header.masthead .container {
-      background-image: url(../public/img/mask_group.svg);
       background-position: right center;
       background-repeat: no-repeat;
       margin-top: -36px;
@@ -2321,7 +2339,7 @@ body.no-sidebar .row .content-outer {
   } 
 }
 
-
+ */
 div#barra-brasil {
     position: relative;
     z-index: 1;
