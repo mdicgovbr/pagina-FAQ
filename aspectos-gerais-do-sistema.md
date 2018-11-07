@@ -3,7 +3,7 @@ published: true
 permalink: /aspectos-gerais-do-sistema
 layout: slate
 filename: aspectos-gerais-do-sistema.md
-title: Aspectos gerais do sistema
+title: Aspectos gerais
 ---  
 
 # A – Aspectos Gerais do Siscoserv

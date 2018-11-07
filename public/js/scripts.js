@@ -32,7 +32,7 @@ jQuery(document).ready(function ($) {
 
             // Capa do documento
             docDefinition.content.push({
-                text: 'Plano de dados abertos do Ministério do Planejamento, Desenvolvimento e Gestão',
+                text: 'Perguntas frequentes: ' + $('title').text() + ' do Siscoserv',
                 style: ['cover'],
                 pageBreak: 'after'
             });
