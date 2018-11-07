@@ -2324,10 +2324,13 @@ body.no-sidebar .row .content-outer {
     margin-left: 50px;
 }
 
-/*  #mySidenav{
-  float: right;
+ #mySidenav{
+  position:absolute;
+	top:0;
+  right:0;
+  margin-right: 2%;
 } 
- */
+
 /*
  * Make this absolute positioned
  * at the top left of the screen
