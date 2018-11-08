@@ -74,14 +74,11 @@ Utilizando Tema Slate, créditos: Jason Costello
 	jQuery(document).ready(function () {
 		jQuery('p:contains("[TOC]")').html('').before('<div id="toc"></div>');
 
-		$(document.links).filter(function () {
-			return this.hostname != window.location.hostname;
-		}).attr('target', '_blank');
+		// $(document.links).filter(function () {
+		// 	return this.hostname != window.location.hostname;
+		// }).attr('target', '_blank');
 
-		$('#barra-brasil').live('click', function (e) {
-			e.preventDefault;
-			return false;
-		});
+	
 		jQuery('#toc').toc({ listType: 'ul', showEffect: 'fadeIn', minimumHeaders: 0 });
 
 		// remove o 1º item do TOC, que na verdade é o título do cabeçalho do portal
