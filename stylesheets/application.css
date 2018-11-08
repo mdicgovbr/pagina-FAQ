@@ -123,6 +123,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block; }
 
+
 body {
   line-height: 1; }
 
@@ -155,7 +156,8 @@ body {
   font-size: 13px;
   line-height: 18px;
   color: #333333;
-  background-color: white; }
+  background-color: white; 
+}
 
 a {
   color: #0088cc;
@@ -1610,17 +1612,15 @@ body {
     }
 
     #portal-title {
-
-	    font-family: Raleway;
-	    font-style: normal;
-	    font-weight: bold;
-	    line-height: normal;
-	    font-size: 3rem;
-	    position: absolute;
-	    bottom: -131px;
-	    left: -108px;
-
-	}
+        
+      font-family: Raleway;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 3rem;
+      position: static;
+      line-height: 30px;
+      margin-top: 180px;      
+    }
 
     #portal-description {
 	font-family: Raleway;
@@ -2016,7 +2016,7 @@ body.index .span9.content-outer {
 	    float: left;
 	}
 	.outer .title {
-	    color: #fff;
+      color: #fff;
 	}
 	.outer ul.menu li {
 	    list-style: none;
@@ -2222,14 +2222,17 @@ body.no-sidebar .row .content-outer {
 	display: none !important;
 }
 
-#portal-siteactions{
-	position: absolute;
-	right: 10px;
-	top: 0;
-	list-style-type: none;
-	padding: 0;
-	margin: 0;
+.site-options {
+  margin-bottom: 20%;
+  margin-top: 12%;
 }
+
+#portal-siteactions{
+  float: right;
+  list-style-type: none;
+  margin-right: 5px;
+}
+	
 
 #menu-de-navegacao {
     width: 100%;
@@ -2259,7 +2262,178 @@ body.no-sidebar .row .content-outer {
     flex-direction: column-reverse;
     align-items: center;
 }
-@media (max-width:760px){
+.menu-topo{
+  visibility: visible;
+}
+#Mysidenav{
+  visibility: hidden;
+  display: none;
+}
+
+#spanSidenav{
+  visibility: hidden;
+  display: none;
+}
+
+.vlibras {
+  border-left: 1px solid hsla(0,0%,100%,.2);
+  padding-left: 20px;
+}
+
+@media (max-width: 700px) {
+  .footer {
+    display: flex;  
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+  }
+
+  .outer .rodape {
+    width: 90%;
+    float: unset;
+  }
+
+  .menu {
+    width: 90%;
+  }
+}
+
+.site_logo_mobile{
+  visibility: hidden;
+  display: none;
+}
+@media (max-width:1200px){
+
+  .container{
+    visibility: visible;
+    display: unset;
+  }
+
+  .site_logo_mobile{
+    visibility: visible;
+    display: block;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3rem;
+    position: static;
+    padding: 25px;
+  }
+
+  .site_logo_mobile span{
+    text-align: start;
+  }
+
+  #acesso-siscoserv{
+    align-self: center;
+  }
+
+  img .logo-do-siscoserv {
+    visibility: hidden;
+  }
+
+  .menu-topo{
+    visibility: hidden;
+  }
+
+  #Mysidenav{
+    visibility: visible;
+    display: unset;
+  }
+
+  #spanSidenav{
+    visibility: visible;
+    display: unset;
+  }
+
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: relative;
+    z-index: 2;
+    top: 0;
+    right: 0;
+    background-color: #0d4e29;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    text-align: center;
+  
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.sidenav ul, li {
+  list-style-type: none;
+}
+
+ #mySidenav{
+  position:fixed;
+	top:0;
+  right:0;
+  margin-right: 0%;
+
+} 
+
+#spanSidenav{
+  position:absolute;
+	top:0;
+  right:15px;
+  margin-right: 0%;
+}
+
+/*
+ * Make this absolute positioned
+ * at the top left of the screen
+ */
+#menu
+{
+  position: absolute;
+  width: 100%;
+  margin: -100px 0 0 -50px;
+  padding: 50px;
+  padding-top: 125px;
+  
+  background: #1f670980;
+  list-style-type: none;
+  -webkit-font-smoothing: antialiased;
+  /* to stop flickering of text in safari */
+  
+  transform-origin: 0% 0%;
+  transform: translate(-100%, 0);
+  
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+}
+
+#menu li
+{
+  padding: 10px 0;
+  font-size: 22px;
+}
+
+/*
+ * And let's slide it in from the left
+ */
   #menu-de-navegacao {
       text-align: center;
   }
@@ -2271,7 +2445,6 @@ body.no-sidebar .row .content-outer {
       display: none;
   }
   header.masthead .container {
-      background-image: url(../public/img/mask_group.svg);
       background-position: right center;
       background-repeat: no-repeat;
       margin-top: -36px;
@@ -2316,10 +2489,12 @@ body.no-sidebar .row .content-outer {
     display: none !important;
   }
 
-  section#main_content p:first-of-type {
-    margin-right: 40px;
-  } 
+  #main_content{
+    padding: -1px;
+  }
 }
+
+/* final media */
 
 
 div#barra-brasil {
@@ -2333,7 +2508,7 @@ div#barra-brasil {
     margin: 0 auto;
 }
 #barra-brasil {
-    background-color: #0d4e29;
+    background-color: #0d4e29 !important;
     box-sizing: content-box;
     display: flex;
     flex-direction: column-reverse;
@@ -2352,11 +2527,4 @@ div#barra-brasil {
 
 .active a {
     color: #fff;
-}
-#barra-brasil {
-    background-color: #0d4e29 !important;
-    box-sizing: content-box;
-    display: flex;
-    flex-direction: column-reverse;
-    align-items: center;
 }

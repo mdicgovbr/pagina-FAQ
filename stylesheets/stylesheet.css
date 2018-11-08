@@ -470,8 +470,6 @@ Small Device Styles
   }
 
 }
-
-}
 /**
  * Link placement and hover behavior.
  */
@@ -511,7 +509,7 @@ h1:hover a.anchorjs-link, h2:hover a.anchorjs-link, h3:hover a.anchorjs-link, h4
 
 #download-btn {
   padding: 0;
-  position: relative;
+  position: relative; 
 }
 
 #download-btn a {
