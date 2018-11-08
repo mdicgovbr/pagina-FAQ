@@ -72,3 +72,7 @@
 .contrast img.on-contrast-force-white {
     filter: brightness(0) invert(1);
 }
+
+.contrast #barra-brasil {
+    background-color: black !important;
+}   

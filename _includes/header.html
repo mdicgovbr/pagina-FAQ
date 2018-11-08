@@ -29,7 +29,7 @@
 </head>
 
 <body class="index              DadosGovBrHomeController              False   ">
-    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+    <div id="barra-brasil">
         <ul id="menu-barra-temp" style="list-style:none;">
             <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED">
                 <a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal
@@ -52,11 +52,17 @@
                 <li class="button" id="acesso-siscoserv">
                     <a href="https://www.siscoserv.mdic.gov.br/" target="_blank">Acesse o Siscoserv</a>
                 </li>
-                <a href="#altocontraste" id="altocontraste" style="margin-bottom: 20%;margin-top: 12%" onclick="window.toggleContrast()"
-                    onkeydown="window.toggleContrast()">
-                    <i class="fas fa-adjust"></i>
-                    Alto contraste
-                </a>
+                <li class="site-options">
+                    <a style="text-transform: uppercase" href="#altocontraste" onclick="window.toggleContrast()"
+                        onkeydown="window.toggleContrast()">
+                        <i class="fas fa-adjust"></i>
+                        Alto contraste
+                    </a>
+                    <a href="http://www.vlibras.gov.br/" id="vlibras" target="_blank">
+                        <i class="fas fa-deaf"></i>
+                        VLIBRAS
+                    </a>
+                </li>
             </div>
         </div>
 
@@ -84,13 +90,22 @@
             <li class="button">
                 <a href="https://www.siscoserv.mdic.gov.br/" target="_blank">Acesse o Siscoserv</a>
             </li>
-
-            <a href="#altocontraste" id="altocontraste" accesskey="3" onclick="window.toggleContrast()" onkeydown="window.toggleContrast()">
+            <li>
+            <a style="text-transform: uppercase;font-size: 70%; margin-right: 15px" href="http://www.vlibras.gov.br/" id="altocontraste"
+            target="_blank">
+            <li id="portal-siteactions">
+                <i class="fas fa-deaf vlibras"></i>
+                VLIBRAS
+            </li>
+            </a>
+            <a style="text-transform: uppercase;font-size: 70%" href="#altocontraste" accesskey="3" onclick="window.toggleContrast()"
+                onkeydown="window.toggleContrast()">
                 <li id="portal-siteactions">
                     <i class="fas fa-adjust"></i>
                     Alto contraste
                 </li>
             </a>
+            </li>
             <span id="spanSidenav" style="font-size:33px;cursor:pointer" onclick="openNav()">&#9776;</span>
         </ul>
         <div class="container">
