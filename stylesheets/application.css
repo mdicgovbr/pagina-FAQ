@@ -2260,9 +2260,6 @@ body.no-sidebar .row .content-outer {
 .menu-topo{
   visibility: visible;
 }
-#portal-title{
-  visibility: visible;
-}
 #Mysidenav{
   visibility: hidden;
   display: none;
@@ -2292,7 +2289,35 @@ body.no-sidebar .row .content-outer {
   }
 }
 
-@media (max-width:1000px){
+.site_logo_mobile{
+  visibility: hidden;
+  display: none;
+}
+@media (max-width:1100px){
+
+  #main_content{
+    margin-left: 25px;
+  }
+
+  .container{
+    visibility: visible;
+    display: unset;
+  }
+
+  .site_logo_mobile{
+    visibility: visible;
+    display: block;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3rem;
+    position: static;
+    padding: 25px;
+  }
+
+  .site_logo_mobile span{
+    text-align: start;
+  }
 
   #acesso-siscoserv{
     align-self: center;
@@ -2403,10 +2428,6 @@ body.no-sidebar .row .content-outer {
 /*
  * And let's slide it in from the left
  */
-#menuToggle input:checked ~ ul
-{
-  transform: none;
-}
   #menu-de-navegacao {
       text-align: center;
   }
