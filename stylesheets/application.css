@@ -2266,8 +2266,12 @@ body.no-sidebar .row .content-outer {
   display: none;
 }
 
-
+#spanSidenav{
+  visibility: hidden;
+  display: none;
+}
 @media (max-width:1100px){
+
 
   #acesso-siscoserv{
     align-self: center;
@@ -2281,11 +2285,12 @@ body.no-sidebar .row .content-outer {
     visibility: hidden;
   }
 
-  #portal-title{
-    visibility: hidden;
+  #Mysidenav{
+    visibility: visible;
+    display: unset;
   }
 
-  #Mysidenav{
+  #spanSidenav{
     visibility: visible;
     display: unset;
   }
@@ -2293,8 +2298,8 @@ body.no-sidebar .row .content-outer {
   .sidenav {
     height: 100%;
     width: 0;
-    position: fixed;
-    z-index: 1;
+    position: relative;
+    z-index: 2;
     top: 0;
     right: 0;
     background-color: #0d4e29;
@@ -2302,6 +2307,7 @@ body.no-sidebar .row .content-outer {
     transition: 0.5s;
     padding-top: 60px;
     text-align: center;
+  
 }
 
 .sidenav a {
@@ -2330,12 +2336,19 @@ body.no-sidebar .row .content-outer {
 }
 
  #mySidenav{
-  position:absolute;
+  position:fixed;
 	top:0;
   right:0;
   margin-right: 0%;
 
 } 
+
+#spanSidenav{
+  position:absolute;
+	top:0;
+  right:15px;
+  margin-right: 0%;
+}
 
 /*
  * Make this absolute positioned
