@@ -22,7 +22,7 @@ De acordo com os Manuais do Siscoserv, item 1.1:
 > “O Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis, bem como para a orientação de estratégias
 >empresariais de comércio exterior de serviços e intangíveis.  
 >  
-> Esse Sistema guarda conformidade com as diretrizes do Acordo Geral sobre Comércio de Serviços (GATS) da Organização Mundial do Comércio (OMC), aprovado pelo Decreto Legislativo nº 30, de 15 de dezembro de 1994, e promulgado pelo Decreto no 1.355, de 30 de dezembro de 1994.”
+> Esse Sistema guarda conformidade com as diretrizes do [Acordo Geral sobre Comércio de Serviços (GATS)](http://www.mdic.gov.br/comercio-exterior/negociacoes-internacionais/1885-omc-acordos-da-omc) da Organização Mundial do Comércio (OMC), aprovado pelo [Decreto Legislativo nº 30, de 15 de dezembro de 1994](http://www2.camara.leg.br/legin/fed/decleg/1994/decretolegislativo-30-15-dezembro-1994-358328-norma-pl.html), e promulgado pelo [Decreto no 1.355, de 30 de dezembro de 1994](https://www.planalto.gov.br/ccivil_03/decreto/Antigos/D1355.htm).”
 
 
 # A2. Qual é o público-alvo do Siscoserv?  
@@ -31,9 +31,9 @@ De acordo com os Manuais do Siscoserv, item 1.1:
  
 # A3. Qual é a base legal do Siscoserv?  
 
-Lei nº 12.546 de 14 de dezembro de 2011, arts 24 a 27.  
+[Lei nº 12.546 de 14 de dezembro de 2011](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/Lei/L12546.htm), arts [24](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/Lei/L12546.htm#art24) a [27](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/Lei/L12546.htm#art27).  
 
-Decreto nº 7.708 de 2 de abril de 2012.  
+[Decreto nº 7.708 de 2 de abril de 2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7708.htm).
 
 * [Portaria MDIC no 113, de 17 de maio de 2012, com suas alterações posteriores](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4)
 * [Instrução Normativa RFB no 1.277, de 28 de junho de 2012, com suas alterações posteriores](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=40&data=29/06/2012)
@@ -55,7 +55,7 @@ políticas públicas de forma integrada.
 
  A NBS propicia a harmonização de ações relacionadas com as políticas de fomento ao empreendedorismo, de compras públicas, de comércio exterior, entre outras.  
  
- A Nomenclatura é o classificador utilizado pelo Siscoserv, bem como na definição dos serviços elegíveis ao financiamento no âmbito do Programa de Financiamento às Exportações (PROEX), do BNDES – Exim, do Adiantamento sobre Contrato de Câmbio (ACC) e do Adiantamento sobre Cambiais Entregues (ACE).  
+ A Nomenclatura é o classificador utilizado pelo Siscoserv, bem como na definição dos serviços elegíveis ao financiamento no âmbito do [Programa de Financiamento às Exportações (PROEX)](http://camex.gov.br/financiamento-e-garantia-as-exportacoes/programa-de-financiamento-as-exportacoes-proex), do [BNDES – Exim](https://www.bndes.gov.br/wps/portal/site/home/financiamento/produto/BNDES-Exim), do [Adiantamento sobre Contrato de Câmbio (ACC)](https://www.bcb.gov.br/pre/bc_atende/port/expImp.asp#5) e do [Adiantamento sobre Cambiais Entregues (ACE)](https://www.bcb.gov.br/pre/bc_atende/port/expImp.asp#5).  
  
 # A6. O que são intangíveis?  
 
@@ -124,8 +124,8 @@ De acordo com os Manuais do Siscoserv, item 2.1:
 
 
 > “O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao Contribuinte (e-CAC) da RFB na Internet, no 
-endereço: http://www.receita.fazenda.gov.br, e no sítio da Secretaria de Comércio e Serviços (SCS) na Internet, 
-no endereço: http://www.siscoserv.mdic.gov.br; exceto no horário de manutenção diária do sistema (01:00 às 03:00 horas).  
+endereço: [http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br), e no sítio da Secretaria de Comércio e Serviços (SCS) na Internet, 
+no endereço: [http://www.siscoserv.mdic.gov.br](http://www.siscoserv.mdic.gov.br); exceto no horário de manutenção diária do sistema (01:00 às 03:00 horas).  
 >  
 > O acesso ao Siscoserv é sempre feito por certificado digital e-CPF. Quando a informação for prestada por pessoa jurídica ou representante 
 legal de terceiros, além do e-CPF do representante legal, também se exige procuração eletrônica. 
@@ -142,7 +142,7 @@ Essa procuração deve ser emitida por estabelecimento. Não é possível o aces
 > A Procuração Eletrônica, emitida exclusivamente pela RFB, é o instrumento que permite que uma pessoa física represente outra pessoa (física ou jurídica) no Siscoserv.  
 >  
 > As orientações para obtenção da procuração estão disponíveis em: 
-http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes.”.  
+[http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes](http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-eprocuracoes/procuracoes).”.  
 
 # A10. Como incluir os dados da empresa no campo “Informações Cadastrais”?
  A partir de 1º de junho de 2016 o sistema passou a oferecer dois fluxos para inserção dos dados cadastrais das empresas que registram operações no Siscoserv, o Fluxo de Registro Inicial, que ocorre quando não existem informações inseridas e o Fluxo de Manutenção das
@@ -233,7 +233,7 @@ Receita Federal do Brasil em:
 [http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacaodalegislacao-tributaria](http://idg.receita.fazenda.gov.br/acesso-rapido/legislacao/consulta-sobre-interpretacaodalegislacao-tributaria)
 
 # A18. Qual é o contato do MDIC para questões gerais referentes ao Siscoserv?
- Dúvidas gerais relacionadas ao Siscoserv devem ser encaminhadas para o Portal __COMEX RESPONDE__, disponível no endereço www.comexresponde.gov.br. Ao acessar o site, o contribuinte deve escolher a opção __“Sistemas e Ferramentas de Apoio”__ no menu de Assuntos Gerais e, em seguida, a opção __“Siscoserv”__ no menu de Assuntos Específicos, digitar sua
+ Dúvidas gerais relacionadas ao Siscoserv devem ser encaminhadas para o Portal __COMEX RESPONDE__, disponível no endereço [comexresponde.gov.br](http://comexresponde.gov.br). Ao acessar o site, o contribuinte deve escolher a opção __“Sistemas e Ferramentas de Apoio”__ no menu de Assuntos Gerais e, em seguida, a opção __“Siscoserv”__ no menu de Assuntos Específicos, digitar sua
 mensagem no campo de __Mensagem__, inserir o __Código de Verificação__ e __Enviar__. Esse procedimento de atendimento garante uma melhor qualidade nos serviços prestados bem como o gerenciamento das consultas por vários parâmetros como temas, tempo de resposta,
 satisfação do consulente, assuntos recorrentes, etc.
   
@@ -242,9 +242,9 @@ satisfação do consulente, assuntos recorrentes, etc.
 pelo telefone 0800-978-2331, conforme item 11 do Capitulo 1 dos Manuais do Siscoserv.
   
 # A20. Onde obtenho informações sobre multas relacionadas ao Siscoserv?
- Recomendamos a leitura atenta da Portaria Conjunta RFB / SCS n° 1.908, de 19 de julho de 2012 através do link http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=38371, que institui o Siscoserv e define prazos, limites e condições do registro relativas às transações entre residentes ou domiciliados no Brasil e residentes ou domiciliados no exterior que compreendam serviços, intangíveis e outras operações que produzam variações no patrimônio das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados.
+ Recomendamos a leitura atenta da [Portaria Conjunta RFB / SCS n° 1.908, de 19 de julho de 2012](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=38371), que institui o Siscoserv e define prazos, limites e condições do registro relativas às transações entre residentes ou domiciliados no Brasil e residentes ou domiciliados no exterior que compreendam serviços, intangíveis e outras operações que produzam variações no patrimônio das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados.
   
- Caso permaneçam as dúvidas, por se tratar de um assunto de natureza tributária, os questionamentos devem ser encaminhados à Secretaria da Receita Federal do Brasil (http://www.receita.fazenda.gov.br/).
+ Caso permaneçam as dúvidas, por se tratar de um assunto de natureza tributária, os questionamentos devem ser encaminhados à Secretaria da Receita Federal do Brasil ([http://www.receita.fazenda.gov.br/](http://www.receita.fazenda.gov.br/)).
 
 # A21. O MDIC promove Cursos ou Palestras sobre o Siscoserv?
  O MDIC não possui um calendário de cursos e palestras sobre o Siscoserv. Contudo, atende às

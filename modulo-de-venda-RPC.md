@@ -19,7 +19,7 @@ produzam variações no patrimônio, vendidos por residentes ou domiciliados no 
 residentes ou domiciliados no exterior. Este módulo abrange também o registro
 das operações realizadas por meio de presença comercial no exterior.”
 >
-> Registro de Presença Comercial (RPC): dados referentes às operações realizadas por
+> Registro de Presença Comercial (RPC): "dados referentes às operações realizadas por
 meio de Presença Comercial no Exterior relacionada à pessoa jurídica domiciliada no
 Brasil.”
 
