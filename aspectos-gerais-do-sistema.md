@@ -48,10 +48,9 @@ Tais dispositivos legais e demais normas complementares estão disponíveis para
        
  Os Manuais do Siscoserv estão disponíveis em: [http://www.mdic.gov.br/comercioservicos/asecretaria-de-comercio-e-servicos-scs-15/estatisticas-2](http://www.mdic.gov.br/comercioservicos/asecretaria-de-comercio-e-servicos-scs-15/estatisticas-2).
 
-# A5.  O que é a Nomenclatura Brasileira de Serviços, Intangíveis e outras Operaçõesque Produzam Variações no Patrimônio (NBS)?  
+# A5. O que é a Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio (NBS)?  
 
- A Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio (NBS) é o classificador nacional para a identificação dos serviços e intangíveis como Produtos, que viabiliza a adequada elaboração, fiscalização e avaliação de
-políticas públicas de forma integrada.  
+ A Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio (NBS) é o classificador nacional para a identificação dos serviços e intangíveis como Produtos, que viabiliza a adequada elaboração, fiscalização e avaliação de políticas públicas de forma integrada.  
 
  A NBS propicia a harmonização de ações relacionadas com as políticas de fomento ao empreendedorismo, de compras públicas, de comércio exterior, entre outras.  
  
