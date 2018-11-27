@@ -148,9 +148,7 @@ comercialização de intangível, ou da realização da operação que produza v
 patrimônio, o usuário deverá efetuar o RP até o último dia útil do mês subsequente ao do
 pagamento.
 
-2) quando o pagamento ocorrer antes do início da prestação de serviço, da transferência
-de intangível, ou da realização da operação que produza variação no patrimônio, o usuário
-deve efetuar o RP até o último dia útil do mês subsequente ao de inclusão do RAS.
+2) quando o pagamento ocorrer antes da inclusão do RAS, o usuário deve efetuar o RP até o último dia útil do mês subsequente ao de inclusão desse RAS.
 
 Cabe destacar que o cumprimento da obrigação de registro no Siscoserv está condicionado ao
 registro do(s) RP(s) correspondente(s) que comprove(m) o pagamento do valor total de cada
