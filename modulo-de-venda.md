@@ -141,24 +141,13 @@ De acordo com o Manual do Siscoserv – Módulo Venda item 4.1.1 do Capítulo 1:
 > “O prazo para incluir o RVS é até o último dia útil do 3º mês subsequente à data de início da
 prestação de serviço, da comercialização de intangível, ou da realização de operação que produza variação no patrimônio.”  
   
-Para o RF, Registro de Faturamento, há dois prazos possíveis, dependendo da data de emissão da nota
-fiscal ou documento equivalente:  
-  
+Para o registro de faturamento, há dois prazos possíveis, dependendo da data de emissão da nota fiscal ou documento equivalente:
 
- 1) quando a nota fiscal ou documento equivalente forem emitidos depois do início da prestação
-de serviço, da comercialização de intangível, ou da realização de operação que produza variação no
-patrimônio, o usuário deverá efetuar o RF até o último dia útil do mês subsequente ao da emissão
-da NF ou documento equivalente.  
+   1) quando a nota fiscal ou documento equivalente forem emitidos depois da inclusão do RVS, o usuário deve efetuar o RF até o último dia útil do mês subsequente ao da emissão da NF ou documento equivalente.
 
- 2) quando a nota fiscal ou documento equivalente forem emitidos antes do início da prestação de
-serviço, da comercialização de intangível, ou da realização da operação que produza variação no
-patrimônio, o usuário deverá efetuar o RF até o último dia útil do mês subsequente ao de
-inclusão do RVS.      
+Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item 4.1.1. Prazo para o RVS.
 
-Cabe destacar que o cumprimento da obrigação de registro no Siscoserv está condicionado ao registro
-do(s) RF(s) correspondente(s) que comprove(m) o faturamento do valor total de cada RVS incluído no
-Sistema.
-
+![Imgur](https://i.imgur.com/6Sald0l.png)
 
 # B7. O que são os Modos de Prestação?
 De acordo com o Manual do Siscoserv – Módulo Venda, item 8 do Capítulo 1:
