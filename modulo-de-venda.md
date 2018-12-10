@@ -149,6 +149,12 @@ Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previ
 
 ![Imgur](https://i.imgur.com/6Sald0l.png)
 
+   2) quando a nota fiscal ou documento equivalente forem emitidos antes da inclusão do RVS, o usuário deve efetuar o RF até o último dia útil do mês subsequente ao de inclusão desse RVS.
+
+Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item 4.1.1. Prazo para o RVS.
+
+
+
 # B7. O que são os Modos de Prestação?
 De acordo com o Manual do Siscoserv – Módulo Venda, item 8 do Capítulo 1:
 > “Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio
