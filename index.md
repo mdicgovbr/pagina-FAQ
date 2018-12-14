@@ -19,3 +19,10 @@ Escolha o assunto:
 : [D – Módulo Aquisição (RAS/RP)](/modulo-aquisicao)
 
 Respostas revisadas conforme a 11ª Edição dos Manuais do Siscoserv.
+
+
+<script>
+$(document).ready(function () {
+    document.getElementById("download-btn").style.visibility = "hidden";
+});
+</script>
