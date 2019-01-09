@@ -1,7 +1,7 @@
 markdown: kramdown
 highlighter: pygments
 github: [Repository metadata]
-title: Plano de Dados Abertos do Ministério do Planejamento
+title: Perguntas Frequentes do Siscoserv
 permalink: pretty
 baseurl:
 theme: jekyll-theme-slate
