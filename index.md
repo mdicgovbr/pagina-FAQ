@@ -43,7 +43,7 @@ title: Página FAQ
         <!--Text-->
         <p class="card-text">Dúvidas frequentes relativas aos Registros de Venda de Serviços - RVS e aos respectivos Registros de Faturamento - RF.</p>
         <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-        <a href="/modulo-de-venda"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a>
+        <a href="/aspectos-gerais-do-sistema"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a>
 
       </div>
 
@@ -63,7 +63,7 @@ title: Página FAQ
         <!--Text-->
         <p class="card-text">Dúvidas frequentes relativas aos Registros de Presença Comercial - RPC.</p>
         <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-        <a href="/modulo-de-venda-RPC"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a>
+        <a href="/aspectos-gerais-do-sistema"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a>
 
       </div>
 
@@ -82,7 +82,7 @@ title: Página FAQ
     <!--Text-->
     <p class="card-text">Dúvidas frequentes relativas aos Registros de Aquisição de Serviços - RAS e aos respectivos Registros de Pagamento - RP.</p>
     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-    <a href="/modulo-aquisicao"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a>
+    <a href="/aspectos-gerais-do-sistema"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a>
 
   </div>
 
