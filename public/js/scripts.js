@@ -216,7 +216,7 @@ jQuery(document).ready(function ($) {
 
             docDefinition.pageMargins = [ 60, 75 ];
 
-            pdfMake.createPdf(docDefinition).download('plano-dados.pdf');
+            pdfMake.createPdf(docDefinition).download('perguntas-frequentes-Siscoserv.pdf');
             $('#modal').fadeOut('fast');
         });
     });
