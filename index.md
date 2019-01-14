@@ -16,14 +16,14 @@ title: Página FAQ
       <!--Card image-->
       
       <!--Card content-->
-      <div class="card-body">
+      <div class="card-body d-flex align-items-end flex-column">
 
         <!--Title-->
         <h4 class="card-title">Aspectos Gerais do Sistema</h4>
         <!--Text-->
         <p class="card-text">Dúvidas frequentes relativas à aspectos gerais do Siscoserv.</p>
         <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-        <a href="/aspectos-gerais-do-sistema"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a>
+        <div class="mt-auto p-2"><a href="/aspectos-gerais-do-sistema"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a></div>
 
       </div>
 
@@ -36,14 +36,14 @@ title: Página FAQ
       <!--Card image-->
       
       <!--Card content-->
-      <div class="card-body">
+      <div class="card-body d-flex align-items-end flex-column">
 
         <!--Title-->
         <h4 class="card-title">Módulo Venda (RVS/RF)</h4>
         <!--Text-->
         <p class="card-text">Dúvidas frequentes relativas aos Registros de Venda de Serviços - RVS e aos respectivos Registros de Faturamento - RF.</p>
         <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-        <a href="/aspectos-gerais-do-sistema"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a>
+        <div class="mt-auto p-2"><a href="/modulo-venda"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a></div>
 
       </div>
 
@@ -56,14 +56,14 @@ title: Página FAQ
       <!--Card image-->
       
       <!--Card content-->
-      <div class="card-body">
+      <div class="card-body d-flex align-items-end flex-column">
 
         <!--Title-->
         <h4 class="card-title">Módulo Venda (RPC)</h4>
         <!--Text-->
         <p class="card-text">Dúvidas frequentes relativas aos Registros de Presença Comercial - RPC.</p>
         <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-        <a href="/aspectos-gerais-do-sistema"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a>
+        <div class="mt-auto p-2"><a href="/modulo-venda-RPC"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a></div>
 
       </div>
 
@@ -75,14 +75,14 @@ title: Página FAQ
   <!--Card image-->
   
   <!--Card content-->
-  <div class="card-body">
+  <div class="card-body d-flex align-items-end flex-column">
 
     <!--Title-->
     <h4 class="card-title">Módulo Aquisição (RAS/RP)</h4>
     <!--Text-->
     <p class="card-text">Dúvidas frequentes relativas aos Registros de Aquisição de Serviços - RAS e aos respectivos Registros de Pagamento - RP.</p>
     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-    <a href="/aspectos-gerais-do-sistema"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a>
+    <div class="mt-auto p-2"><a href="/modulo-aquisicao"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a></div>
 
   </div>
 

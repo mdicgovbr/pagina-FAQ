@@ -1,6 +1,6 @@
 ---
 published: true
-permalink: /modulo-de-venda
+permalink: /modulo-venda
 layout: slate
 filename: modulo-de-venda.md
 title: Módulo venda

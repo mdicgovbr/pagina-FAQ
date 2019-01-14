@@ -1,6 +1,6 @@
 ---
 published: true
-permalink: /modulo-de-venda-RPC
+permalink: /modulo-venda-RPC
 layout: slate
 filename: modulo-de-venda-RPC.md
 title: Módulo Venda RPC
