@@ -92,8 +92,12 @@ Utilizando Tema Slate, créditos: Jason Costello
 			window.scrollTop = hashTop;
 		   }
 		*/
-		anchors.options.placement = 'right';
-		anchors.add('h1, h2, h3, h4, h5, h6').remove('#site_logo');
+
+		//Adiciona âncoras nas páginas exceto na homepage (index)
+		if ( window.location.pathname != '/' ){
+			anchors.options.placement = 'right';
+			anchors.add('h1, h2, h3, h4, h5, h6').remove('#site_logo');
+		}
 
 	});
 </script>
