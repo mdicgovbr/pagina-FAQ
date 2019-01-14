@@ -1529,7 +1529,7 @@ body {
     clear: both; }
   body > header.masthead {
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.29) 0%, rgba(255, 255, 255, 0) 100%), #219653;
-    background-image: url(../public/img/logo-topo-bg.svg);
+    background-image: url(../img/logo-topo-bg.svg);
     background-repeat: no-repeat;
     background-position: right bottom;
     position:relative;
@@ -2523,6 +2523,7 @@ div#barra-brasil {
     float: left;
     margin-top: 7px;
     margin-left: 21px;
+    box-sizing: unset;
 }
 
 .active a {
