@@ -2017,6 +2017,9 @@ body.index .span9.content-outer {
 	}
 	.outer .title {
       color: #fff;
+      font-weight: 700;
+      font-size: 21px;
+      margin-top: 40px;
 	}
 	.outer ul.menu li {
 	    list-style: none;
@@ -2292,6 +2295,10 @@ body.no-sidebar .row .content-outer {
   .outer .rodape {
     width: 90%;
     float: unset;
+  }
+
+  .outer a{
+    font-weight: 400;
   }
 
   .menu {
