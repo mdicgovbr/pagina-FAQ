@@ -2012,8 +2012,8 @@ body.index .span9.content-outer {
       clear: both;
       margin-top: 2em; }
 	.outer .rodape {
-	    width: 33%;
-	    float: left;
+	    width: 50%;
+      float: left;
 	}
 	.outer .title {
       color: #fff;
