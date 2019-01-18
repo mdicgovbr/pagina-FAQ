@@ -235,14 +235,14 @@ das operações no Siscoserv.”
 Há duas formas para efetuar a inclusão dos registros no Siscoserv:  
 
 1) Por meio do site do Siscoserv (que pode ser acessado por meio do site do MDIC ou do ecac
-da RFB) e seguir os passos de preenchimento descritos no Capítulo 3 dos Manuais.
+da RFB) e seguir os passos de preenchimento descritos no item 2 do Capítulo 2 dos Manuais.
 Após acionado o botão Incluir, o Sistema retornará uma mensagem de confirmação da inclusão dos dados no Siscoserv e apresentará o número de identificação do registro. Após esse
 procedimento, o registro é efetuado, não sendo necessário gravar e nem transmitir o arquivo
 usando a ferramenta de Transmissão em Lote; e  
 
 2) Por meio da transmissão em lote, que depende do usuário efetuar ajustes em seus sistemas
 para que gerem os arquivos que deverão ser transmitidos pelo e-CPF que tenha a devida
-procuração eletrônica, usando a aba “Transmissão em Lote”, de acordo com o item 4 dos
+procuração eletrônica, usando a aba “Transmissão em Lote”, de acordo com o item 3 dos
 Manuais.  
 
 A transmissão em lote é uma das alternativas de registro e não um passo complementar ao
@@ -332,7 +332,7 @@ para tanto.
 # D15. Posso retificar um registro para o valor zero?
 O Valor da Operação pode ser retificado para zero nos seguintes casos:  
 
-a) o usuário tenha registrado a operação para um vendedor incorreto;  
+a) o usuário tenha registrado a operação para um adquirente incorreto;  
 
 b) a operação tenha sido informada em duplicidade; ou  
 
@@ -437,12 +437,7 @@ deste Manual.
 # D20. Como proceder se a operação tem data de conclusão indeterminada?
 De acordo com o Manual do Siscoserv – Módulo Aquisição, item 4.3.1 do Capítulo 1:  
 
-> “A operação cuja data de conclusão não seja conhecida por ocasião do seu registro,
-em razão de não ter sido pactuada entre as partes, pode ser objeto de registros
-periódicos, conforme itens 3.1.2 ou 3.1.3. Nesse caso, a data de início e a data de
-conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a
-data de conclusão pode ser ajustada, mediante retificação, conforme descrito nos itens
-3.1.4 ou 3.1.5.”
+> “A operação cuja data de conclusão não seja conhecida por ocasião do seu registro, em razão de não ter sido pactuada entre as partes, pode ser objeto de registros periódicos, conforme itens 2.1. ou 2.1.1 do Capítulo 2 deste Manual. Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão pode ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2 ou 2.1.3.”
 
 # D21. Como proceder se a operação se iniciar sem que o valor esteja definido?
 De acordo com o Manual do Siscoserv – Módulo Aquisição, item 4.3.2 do Capítulo 1:  
@@ -458,7 +453,7 @@ De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 2.1 do Capít
 
 > O campo País de Destino “identifica o país de destino da prestação do serviço, da
 aquisição de intangível ou da realização de outra operação que produza variação no
-patrimônio, podendo ser diferente do país do vendedor.  
+patrimônio, podendo ser diferente do país do adquirente.  
 > 
 > Exemplos:  
 >
@@ -492,10 +487,7 @@ Qualquer tipo de vinculação, em qualquer grau, deve ser informado no RAS.
 
 # D24. O que é a “vinculação à movimentação temporária de bens”?
 
-A “Vinculação à Movimentação Temporária de Bens” já estava presente no Registro de
-Pagamento, mas à época o RP não podia ser retificado, mas somente cancelado. Como muitas
-vezes o usuário não tinha a informação da Declaração de Importação (DI) e do Registro de
-Exportação (RE) no momento de preencher o RP, a empresa poderia ficar com o registro
+A “Vinculação à Movimentação Temporária de Bens” já estava presente no Registro de Pagamento, mas à época o RP não podia ser retificado, mas somente cancelado. Como muitas vezes o usuário não tinha a informação da Declaração de Importação (DI) e/ou da Declaração Única de exportação (DU-E) ou do Registro de Exportação (RE) no momento de preencher o RP, a empresa poderia ficar com o registro
 incompleto. Para solucionar esta questão, simplificando ao mesmo tempo o registro, a
 Comissão do Siscoserv executou duas medidas: excluiu a funcionalidade da vinculação à
 exportação de bens (que ficava no RAS e já estava como campo facultativo) e moveu a
@@ -503,9 +495,7 @@ vinculação à movimentação temporária para o RAS. Mas foi além e criou a f
 cancelamento do registro o que traz maior segurança aos usuários pois não implica uma “perda
 de prazo”.  
 
-No campo deve ser indicado se a operação está vinculada à movimentação temporária de bens
-indicando o número da Declaração de Importação (DI) ou com o número do Registro de
-Exportação (RE) averbado, o que houver.
+No campo deve ser indicado se a operação está vinculada à movimentação temporária de bens indicando o número da Declaração de Importação (DI) e/ou com o número da Declaração Única de exportação (DU-E) ou do Registro de Exportação (RE) averbado, se o registro ainda tiver sido realizado no Siscomex.
 
 # D25. Qual o procedimento para realizar o registro por transmissão em lote?
 
@@ -538,7 +528,7 @@ funcionalidades, por exemplo, informações sobre a retificação de um RAS e so
 cancelamento de um RP. Os arquivos XML devem conter as mesmas informações
 requeridas no preenchimento manual do RAS.”  
 
-Para mais informações a respeito da transmissão em lote sugerimos a leitura do item 4.
+Para mais informações a respeito da transmissão em lote sugerimos a leitura do item 3 do Capítulo 2.
 Transmissão em Lote presente no Manual do Siscoserv – Módulo Aquisição.
 
 # D26. É possível realizar testes de transmissão em lote no Siscoserv?
@@ -548,7 +538,7 @@ Atualmente não existe plataforma de teste para a transmissão em lote.
 
 # D27. Preciso cancelar o RP para retificar o RAS, entretanto o prazo de registro do novo RP já se esgotou. Qual procedimento a ser tomado nessa situação?
 
-De acordo com o Manual do Siscoserv – Módulo venda, item 2.2.2 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, item 2.2.2 do Capítulo 2:  
 
 > “Caso, devido à necessidade de cancelamento do RP para retificar o RAS, o
 usuário perca o prazo de inclusão de RP, o número do RP cancelado e o número do RP
@@ -583,7 +573,7 @@ três situações distintas, a saber:
 
 a) Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;  
 b) Usuário/Responsável pelo Registro representa uma Pessoa Física; e  
-c) Usuário/Responsável pelo Registro é o Próprio Vendedor  
+c) Usuário/Responsável pelo Registro é o Próprio Adquirente  
 
 O Usuário/Responsável pelo Registro é o que detém o e-CPF e/ou a procuração eletrônica da
 Pessoa Jurídica ou Pessoa Física e é o responsável pela inserção dos dados no sistema.

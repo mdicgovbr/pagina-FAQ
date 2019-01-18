@@ -38,7 +38,8 @@ De acordo com os Manuais do Siscoserv, item 1.1:
 * [Portaria MDIC no 113, de 17 de maio de 2012, com suas alterações posteriores](http://www.mdic.gov.br/index.php/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4)
 * [Instrução Normativa RFB no 1.277, de 28 de junho de 2012, com suas alterações posteriores](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=40&data=29/06/2012)
 * [Portaria Conjunta RFB/SCS no 1.908, de 19 de julho de 2012, com suas alterações posteriores](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=31&data=20/07/2012)
-* [Portaria Conjunta RFB/SCS no 768, de 13 de maio de 2016](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2016&jornal=1&pagina=21&totalArquivos=152)  
+* [Portaria Conjunta RFB/SCS no 768, de 13 de maio de 2016](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/05/2016&jornal=1&pagina=21&totalArquivos=152)
+* [Portaria Conjunta RFB/SCS no 2066, de 21 de dezembro de 2018](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/12/2018&jornal=515&pagina=27&totalArquivos=83)
   
 Tais dispositivos legais e demais normas complementares estão disponíveis para consulta [neste link](http://www.mdic.gov.br/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-15/estatisticas-4).
 
@@ -46,7 +47,7 @@ Tais dispositivos legais e demais normas complementares estão disponíveis para
 
  Sim. Os Manuais do Siscoserv têm força de Norma Complementar, conforme previsto na Portaria Conjunta 1.908/2102. Além de complementar a legislação pertinente, eles esclarecem aspectos legais e operacionais do Siscoserv.
        
- Os Manuais do Siscoserv estão disponíveis em: [http://www.mdic.gov.br/comercioservicos/asecretaria-de-comercio-e-servicos-scs-15/estatisticas-2](http://www.mdic.gov.br/comercioservicos/asecretaria-de-comercio-e-servicos-scs-15/estatisticas-2).
+ Os Manuais do Siscoserv estão disponíveis em: [http://manuais.siscoserv.mdic.gov.br](http://manuais.siscoserv.mdic.gov.br).
 
 # A5. O que é a Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio (NBS)?  
 
@@ -90,7 +91,7 @@ De acordo com o glossário dos Manuais do Siscoserv, item 12:
 >- Operações que envolvem simultaneamente a prestação de serviço e o fornecimento de mercadoria, , como Fornecimento de alimentos – código NBS 1.0301;  
 >- Operações de arrendamento mercantil financeiro, código NBS 1.0901.5;  
 >- Arrendamento mercantil operacional, código NBS 1.1101 e 1.1102;
->- Contratos de franquias, código NBS 1.1110.30.00; e  
+>- Contratos de franquias, código NBS 1.1110.00.00; e  
 >- Fomento comercial (factoring), código NBS- 1.0908.00.00, etc.”
 
 # A8. O que são os Módulos Venda e Aquisição do Siscoserv?  
@@ -151,7 +152,7 @@ O Siscoserv permite 3 tipos de Cadastro:
 
 a) Usuário/Responsável pelo Registro representa uma Pessoa Jurídica;  
 b) Usuário/Responsável pelo Registro representa uma Pessoa física; e  
-c) Usuário/Responsável pelo Registro é o Próprio Vendedor.  
+c) Usuário/Responsável pelo Registro é o Próprio Vendedor/Adquirente.  
 
  O preenchimento do campo de Informações Cadastrais é de muita importância para o MDIC,
 pois garante a correta identificação do responsável pela inserção dos dados no SISCOSERV bem
@@ -241,7 +242,7 @@ satisfação do consulente, assuntos recorrentes, etc.
 pelo telefone 0800-978-2331, conforme item 11 do Capitulo 1 dos Manuais do Siscoserv.
   
 # A20. Onde obtenho informações sobre multas relacionadas ao Siscoserv?
- Recomendamos a leitura atenta da [Portaria Conjunta RFB / SCS n° 1.908, de 19 de julho de 2012](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=38371), que institui o Siscoserv e define prazos, limites e condições do registro relativas às transações entre residentes ou domiciliados no Brasil e residentes ou domiciliados no exterior que compreendam serviços, intangíveis e outras operações que produzam variações no patrimônio das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados.
+ Recomendamos a leitura atenta da [Portaria Conjunta RFB / SCS n° 1.908, de 19 de julho de 2012 e suas alterações](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=38371), que institui o Siscoserv e define prazos, limites e condições do registro relativas às transações entre residentes ou domiciliados no Brasil e residentes ou domiciliados no exterior que compreendam serviços, intangíveis e outras operações que produzam variações no patrimônio das pessoas físicas, das pessoas jurídicas ou dos entes despersonalizados.
   
  Caso permaneçam as dúvidas, por se tratar de um assunto de natureza tributária, os questionamentos devem ser encaminhados à Secretaria da Receita Federal do Brasil ([http://www.receita.fazenda.gov.br/](http://www.receita.fazenda.gov.br/)).
 

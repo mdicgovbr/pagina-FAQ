@@ -143,13 +143,16 @@ prestação de serviço, da comercialização de intangível, ou da realização
   
 Para o registro de faturamento, há dois prazos possíveis, dependendo da data de emissão da nota fiscal ou documento equivalente:
 
-   1) quando a nota fiscal ou documento equivalente forem emitidos depois da inclusão do RVS, o usuário deve efetuar o RF até o último dia útil do mês subsequente ao da emissão da NF ou documento equivalente.
+   1\) quando a nota fiscal ou documento equivalente forem emitidos **depois** [da inclusão do RVS](#21-inclusão-do-rvs), o usuário deve efetuar o RF até o último dia útil do mês subsequente ao da emissão da NF ou documento equivalente.
+   Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#411-prazo-para-o-rvs).   
+   
+   ![](/public/img/prazo-RF-caso1.png)   
 
-Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item 4.1.1. Prazo para o RVS.
+   2\) quando a nota fiscal ou documento equivalente forem emitidos **antes** [da inclusão do RVS](#21-inclusão-do-rvs), o usuário deve efetuar o RF até [o último dia útil do mês subsequente ao de inclusão desse RVS.
 
-![Imgur](https://i.imgur.com/6Sald0l.png)
+   Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item [4.1.1. Prazo para o RVS](#411-prazo-para-o-rvs).   
 
-   2) quando a nota fiscal ou documento equivalente forem emitidos antes da inclusão do RVS, o usuário deve efetuar o RF até o último dia útil do mês subsequente ao de inclusão desse RVS.
+   ![](/public/img/prazo-RF-caso2.png)   
 
 Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previsto no item 4.1.1. Prazo para o RVS.
 
@@ -257,14 +260,14 @@ no Siscoserv.”
 Há duas formas para efetuar a inclusão dos registros no Siscoserv:  
 
  1) Por meio do site do Siscoserv (que pode ser acessado por meio do site do MDIC ou do e-CAC da RFB)
-e seguir os passos de preenchimento descritos no item 2 do Capítulo 2 dos Manuais. Após acionado o
+e seguir os passos de preenchimento descritos nos itens 2.1 e 2.2 do Capítulo 2 dos Manuais. Após acionado o
 botão Incluir, o Sistema retornará uma mensagem de confirmação da inclusão dos dados no Siscoserv e
 apresentará o número de identificação do registro. Após esse procedimento, o registro é efetuado, não
 sendo necessário gravar e nem transmitir o arquivo usando a ferramenta de Transmissão em Lote; e
 
  2) Por meio da transmissão em lote, que depende do usuário efetuar ajustes em seus sistemas para que
 gerem os arquivos que deverão ser transmitidos pelo e-CPF que tenha a devida procuração eletrônica,
-usando a aba “Transmissão em Lote”, de acordo com o item 2.3 do Capítulo 2 dos Manuais.
+usando a aba “Transmissão em Lote”, de acordo com o item 3 do Capítulo 2 dos Manuais.
 
  A transmissão em lote é uma das alternativas de registro e não um passo complementar ao registro por
 meio do site. No caso do lançamento manual pelo site, assim que o RVS for gravado, juntamente com
@@ -500,10 +503,9 @@ Qualquer tipo de vinculação, em qualquer grau, deve ser informado no RVS.
 
 # B23. O que é a “vinculação à movimentação temporária de bens”? 
 
-A “Vinculação à Movimentação Temporária de Bens” já estava presente no Registro de Faturamento, mas à época o RF não podia ser retificado, mas somente cancelado. Como muitas vezes o usuário não tinha a informação da Declaração de Importação e do Registro de Exportação no momento de preencher o RF, a empresa poderia ficar com o registro incompleto. Para solucionar esta questão, simplificando ao mesmo tempo o registro, a Comissão do Siscoserv executou duas medidas: excluiu a funcionalidade da vinculação à exportação de bens (que ficava no RVS e já estava como campo facultativo) e moveu a vinculação à movimentação temporária para o RVS. Mas foi além e criou a funcionalidade de “Retificação do RF”. Assim, eventuais erros podem ser corrigidos sem a necessidade de cancelamento do registro o que traz maior segurança aos usuários.  
-  
+A “Vinculação à Movimentação Temporária de Bens” já estava presente no Registro de Faturamento, mas à época o RF não podia ser retificado, mas somente cancelado. Como muitas vezes o usuário não tinha a informação da Declaração de Importação e/ou do número da Declaração Única de Exportação ou do Registro de Exportação no momento de preencher o RF, a empresa poderia ficar com o registro incompleto. Para solucionar esta questão, simplificando ao mesmo tempo o registro, a Comissão do Siscoserv executou duas medidas: excluiu a funcionalidade da vinculação à exportação de bens (que ficava no RVS e já estava como campo facultativo) e moveu a vinculação à movimentação temporária para o RVS. Mas foi além e criou a funcionalidade de “Retificação do RF”. Assim, eventuais erros podem ser corrigidos sem a necessidade de cancelamento do registro o que traz maior segurança aos usuários.  
 
-No campo, deve ser indicado se a operação está vinculada à movimentação temporária de bens indicando o número da Declaração de Importação (DI) ou o número do Registro de Exportação (RE) averbado, o que houver.
+No campo, deve ser indicado se a operação está vinculada à movimentação temporária de bens indicando o número da Declaração de Importação (DI) e/ou do número da Declaração Única de Exportação ou do número do Registro de Exportação (RE) averbado, o que houver.
 
 
 
