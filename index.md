@@ -23,7 +23,7 @@ title: Página FAQ
         <!--Text-->
         <p class="card-text">Dúvidas frequentes relativas à aspectos gerais do Siscoserv.</p>
         <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-        <div class="mt-auto p-2"><a href="/aspectos-gerais-do-sistema"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a></div>
+        <div class="mt-auto p-2"><a href="/aspectos-gerais-do-sistema"> <button type="button" class="btn primary-color-dark btn-md">Acesse</button></a></div>
 
       </div>
 
@@ -43,7 +43,7 @@ title: Página FAQ
         <!--Text-->
         <p class="card-text">Dúvidas frequentes relativas aos Registros de Venda de Serviços - RVS e aos respectivos Registros de Faturamento - RF.</p>
         <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-        <div class="mt-auto p-2"><a href="/modulo-venda"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a></div>
+        <div class="mt-auto p-2"><a href="/modulo-venda"> <button type="button" class="btn primary-color-dark btn-md">Acesse</button></a></div>
 
       </div>
 
@@ -63,7 +63,7 @@ title: Página FAQ
         <!--Text-->
         <p class="card-text">Dúvidas frequentes relativas aos Registros de Presença Comercial - RPC.</p>
         <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-        <div class="mt-auto p-2"><a href="/modulo-venda-RPC"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a></div>
+        <div class="mt-auto p-2"><a href="/modulo-venda-RPC"> <button type="button" class="btn primary-color-dark btn-md">Acesse</button></a></div>
 
       </div>
 
@@ -82,7 +82,7 @@ title: Página FAQ
     <!--Text-->
     <p class="card-text">Dúvidas frequentes relativas aos Registros de Aquisição de Serviços - RAS e aos respectivos Registros de Pagamento - RP.</p>
     <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-    <div class="mt-auto p-2"><a href="/modulo-aquisicao"> <button type="button" class="btn btn-light-blue btn-md">Acesse</button></a></div>
+    <div class="mt-auto p-2"><a href="/modulo-aquisicao"> <button type="button" class="btn primary-color-dark btn-md">Acesse</button></a></div>
 
   </div>
 
