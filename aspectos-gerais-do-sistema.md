@@ -96,7 +96,7 @@ Tais dispositivos legais e demais normas complementares estão disponíveis para
 
 # A8. O que são os Módulos Venda e Aquisição do Siscoserv?  
 
-De acordo com os Manuais do Siscoserv, [item 3 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#3-m%C3%B3dulos-venda-e-aquisi%C3%A7%C3%A3o-do-siscoserv):  
+De acordo com os Manuais do Siscoserv, [item 3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#3-m%C3%B3dulos-venda-e-aquisi%C3%A7%C3%A3o-do-siscoserv) do Capítulo 1:  
 
 > “O Siscoserv conta com dois Módulos: Venda e Aquisição.  
 >  
