@@ -16,7 +16,7 @@ title: Aspectos gerais
 É um sistema disponível na Internet que viabiliza o registro obrigatório das transações do Comércio Exterior de Serviços do Brasil, abrangendo inclusive as operações de exportações e importações de serviços e intangíveis.  
   
   
-De acordo com os Manuais do Siscoserv, item 1.1:  
+De acordo com os Manuais do Siscoserv, [item 1.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#1-introdu%C3%A7%C3%A3o):  
 
 
 > “O Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv) é um sistema informatizado, desenvolvido pelo Governo Federal como ferramenta para o aprimoramento das ações de estímulo, formulação, acompanhamento e aferição das políticas públicas relacionadas a serviços e intangíveis, bem como para a orientação de estratégias
@@ -59,7 +59,7 @@ Tais dispositivos legais e demais normas complementares estão disponíveis para
  
 # A6. O que são intangíveis?  
 
- De acordo com o glossário dos Manuais do Siscoserv, item 12:  
+ [De acordo com o glossário](https://manuais.siscoserv.mdic.gov.br/glossario#intang%C3%ADvel) dos Manuais do Siscoserv:  
  
 > “São considerados intangíveis para fins do registro no SISCOSERV, entre outros:  
 >  
@@ -82,7 +82,7 @@ Tais dispositivos legais e demais normas complementares estão disponíveis para
   
 # A7. O que são “Outras Operações que Produzam Variações no Patrimônio”?  
 
-De acordo com o glossário dos Manuais do Siscoserv, item 12:  
+[De acordo com o glossário](https://manuais.siscoserv.mdic.gov.br/glossario#outras-opera%C3%A7%C3%B5es-que-produzam-varia%C3%A7%C3%B5es-no-patrim%C3%B4nio) dos Manuais do Siscoserv:
   
 > “São operações classificadas na NBS que não se enquadram nem como serviços nem como intangíveis.  
 >  
@@ -96,7 +96,7 @@ De acordo com o glossário dos Manuais do Siscoserv, item 12:
 
 # A8. O que são os Módulos Venda e Aquisição do Siscoserv?  
 
-De acordo com os Manuais do Siscoserv, item 3 do Capítulo 1:  
+De acordo com os Manuais do Siscoserv, [item 3 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#3-m%C3%B3dulos-venda-e-aquisi%C3%A7%C3%A3o-do-siscoserv):  
 
 > “O Siscoserv conta com dois Módulos: Venda e Aquisição.  
 >  
@@ -120,7 +120,7 @@ Secretaria da Receita Federal do Brasil e Certificado Digital emitido por autori
 certificadora.  
 
 
-De acordo com os Manuais do Siscoserv, item 2.1:  
+De acordo com os Manuais do Siscoserv, [item 2.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#1-acesso-ao-siscoserv):  
 
 
 > “O acesso ao Siscoserv está disponível no Centro Virtual de Atendimento ao Contribuinte (e-CAC) da RFB na Internet, no 
@@ -185,7 +185,7 @@ houver uma modificação e, caso não haja alterações, o sistema exigirá um n
 após um ano da última alteração/inscrição.
   
 # A14. O que é o Número de Identificação Fiscal – NIF e como posso obtê-lo?
- De acordo com o glossário dos Manuais do Siscoserv, item 12:  
+ [De acordo com o glossário](https://manuais.siscoserv.mdic.gov.br/glossario#nif--n%C3%BAmero-de-identifica%C3%A7%C3%A3o-fiscal) dos Manuais do Siscoserv:  
 > “O NIF é o número fornecido pelo órgão de administração tributária no exterior indicador de pessoa física ou jurídica.” 
 
  Em razão da competência legal de cada órgão da Administração Pública, compete às
