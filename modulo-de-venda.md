@@ -29,7 +29,7 @@ realizadas por meio de Presença Comercial no Exterior.”
 
 
 # B2. Quem deve efetuar registros no Módulo Venda do Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda, [item 5 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-venda):
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 5](https://manuais.siscoserv.mdic.gov.br/modulo-venda#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-venda) do Capítulo 1:
 
 
 > “Estão obrigados a registrar as informações nesse Módulo, os residentes ou domiciliados no
@@ -53,7 +53,7 @@ direta e indireta, da União, dos Estados, dos Municípios e do Distrito Federal
  
 
 # B3. De quem é a responsabilidade pelos registros RVS/RF no Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda, [item 5 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-venda):  
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 5](https://manuais.siscoserv.mdic.gov.br/modulo-venda#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-venda) do Capítulo 1:  
 
 > “A responsabilidade pelos registros RVS/RF do Módulo Venda do Siscoserv é do residente ou
 domiciliado no País que mantenha relação contratual com residente ou domiciliado no exterior
@@ -137,7 +137,7 @@ especulativo de lucro, desde que não realizem operações em valor superior a U
 
 
 # B6. Quando eu devo efetivar os registros RVS/RF no Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda [item 4.1.1 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#411-prazo-para-o-rvs):  
+De acordo com o Manual do Siscoserv – Módulo Venda [item 4.1.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#411-prazo-para-o-rvs) do Capítulo 1:  
 > “O prazo para incluir o RVS é até o último dia útil do 3º mês subsequente à data de início da
 prestação de serviço, da comercialização de intangível, ou da realização de operação que produza variação no patrimônio.”  
   
@@ -159,7 +159,7 @@ Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previ
 
 
 # B7. O que são os Modos de Prestação?
-De acordo com o Manual do Siscoserv – Módulo Venda, [item 8 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#8-modos-de-presta%C3%A7%C3%A3o-de-servi%C3%A7os--m%C3%B3dulo-venda):
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 8](https://manuais.siscoserv.mdic.gov.br/modulo-venda#8-modos-de-presta%C3%A7%C3%A3o-de-servi%C3%A7os--m%C3%B3dulo-venda) do Capítulo 1:
 > “Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio
 de Serviços da OMC (GATS), a prestação de serviços, segundo a localização do prestador e do
 tomador. São os seguintes no Módulo Venda:
@@ -238,7 +238,7 @@ Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido(s) intr
 
 # B8. Qual a função do campo “Enquadramento” do Siscoserv?
 
-De acordo com o Manual do Siscoserv – Módulo Venda, [item 10 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#10-mecanismos-de-apoio--fomento-ao-com%C3%A9rcio-exterior-de-servi%C3%A7os-e-intang%C3%ADveis):   
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 10](https://manuais.siscoserv.mdic.gov.br/modulo-venda#10-mecanismos-de-apoio--fomento-ao-com%C3%A9rcio-exterior-de-servi%C3%A7os-e-intang%C3%ADveis) do Capítulo 1:   
 > “Este campo deve ser obrigatoriamente preenchido no caso de operação amparada em um ou
 mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e demais
 operações. Todos os mecanismos de apoio que amparam a operação devem ser registrados
