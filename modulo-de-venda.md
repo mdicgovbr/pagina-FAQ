@@ -13,7 +13,7 @@ title: Módulo venda
 ----------
 
 # B1. O que se deve registrar no Módulo Venda do Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda, itens 3 e 4 do Capítulo 1:
+De acordo com o Manual do Siscoserv – Módulo Venda, itens [3 e](https://manuais.siscoserv.mdic.gov.br/modulo-venda#3-m%C3%B3dulos-venda-e-aquisi%C3%A7%C3%A3o-do-siscoserv) [4 do](https://manuais.siscoserv.mdic.gov.br/modulo-venda#4-registros-no-m%C3%B3dulo-venda) Capítulo 1:
 
 > “No Módulo Venda são registrados os serviços, intangíveis e outras operações que produzam variações no patrimônio, vendidos por residentes ou domiciliados no País a residentes ou domiciliados no exterior. Este módulo abrange também o registro das operações realizadas por meio de presença comercial no exterior.
 >
@@ -29,7 +29,7 @@ realizadas por meio de Presença Comercial no Exterior.”
 
 
 # B2. Quem deve efetuar registros no Módulo Venda do Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 5 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-venda):
 
 
 > “Estão obrigados a registrar as informações nesse Módulo, os residentes ou domiciliados no
@@ -53,7 +53,7 @@ direta e indireta, da União, dos Estados, dos Municípios e do Distrito Federal
  
 
 # B3. De quem é a responsabilidade pelos registros RVS/RF no Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 5 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-venda):  
 
 > “A responsabilidade pelos registros RVS/RF do Módulo Venda do Siscoserv é do residente ou
 domiciliado no País que mantenha relação contratual com residente ou domiciliado no exterior
@@ -93,33 +93,33 @@ Pessoa Física, em relação a essa operação.”
 
 
 # B4. De quem é a responsabilidade pelos registros de serviços de transporte de cargas e seguros no Siscoserv?
- O Capítulo 3 dos Manuais do Siscoserv apresenta os seguintes Cenários Exemplificativos do Registro no
+ O [Capítulo 3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#cap%C3%ADtulo-3---cen%C3%A1rios-exemplificativos-de-registro-no-siscoserv) dos Manuais do Siscoserv apresenta os seguintes Cenários Exemplificativos do Registro no
 Siscoserv:  
   
 
 1- Registro de Transporte Internacional de Cargas (Frete):  
   
 
-Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas  
+[Cenário 1.1.](https://manuais.siscoserv.mdic.gov.br/modulo-venda#cen%C3%A1rio-11-transporte-internacional-de-cargas-intermediado-por-agente-de-cargas) Transporte internacional de cargas intermediado por agente de cargas  
 - Exportação brasileira com a obrigação de transportar da empresa brasileira
 
-Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas  
+[Cenário 1.2.](https://manuais.siscoserv.mdic.gov.br/modulo-venda#cen%C3%A1rio-12-transporte-internacional-de-cargas-intermediado-por-agente-de-cargas) Transporte internacional de cargas intermediado por agente de cargas  
 - Importação brasileira com a obrigação de transportar da empresa brasileira
 
-Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas  
+[Cenário 1.3.](https://manuais.siscoserv.mdic.gov.br/modulo-venda#cen%C3%A1rio-13-transporte-internacional-de-cargas-com-consolida%C3%A7%C3%A3o-e-desconsolida%C3%A7%C3%A3o-de-cargas) Transporte internacional de cargas com consolidação e desconsolidação de cargas  
 - Importação brasileira com a obrigação de transportar da empresa estrangeira  
 
-Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas  
+[Cenário 1.4.](https://manuais.siscoserv.mdic.gov.br/modulo-venda#cen%C3%A1rio-14-transporte-internacional-de-cargas-com-consolida%C3%A7%C3%A3o-e-desconsolida%C3%A7%C3%A3o-de-cargas) Transporte internacional de cargas com consolidação e desconsolidação de cargas  
 - Exportação brasileira com a obrigação de transportar da empresa brasileira  
 
 2- Seguros:  
 
-Cenário 2.1. Contratação de seguro com intermediação de corretora  
+[Cenário 2.1.](https://manuais.siscoserv.mdic.gov.br/modulo-venda#cen%C3%A1rio-21-contrata%C3%A7%C3%A3o-de-seguro-com-intermedia%C3%A7%C3%A3o-de-corretora) Contratação de seguro com intermediação de corretora  
 
-Cenário 2.2. Contratação de seguro de estipulante domiciliada ou residente no Brasil
+[Cenário 2.2.](https://manuais.siscoserv.mdic.gov.br/modulo-venda#cen%C3%A1rio-22-contrata%C3%A7%C3%A3o-de-seguro-de-estipulante-domiciliada-ou-residente-no-brasil) Contratação de seguro de estipulante domiciliada ou residente no Brasil
 
 # B5. Quem está dispensado de efetuar registro no Siscoserv?
- De acordo com o Manual do Siscoserv – Módulo Venda, item 6 do Capítulo 1:
+ De acordo com o Manual do Siscoserv – Módulo Venda, [item 6 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#6-quem-est%C3%A1-dispensado-de-efetuar-registro-no-siscoserv--m%C3%B3dulo-venda):
 
 > “Estão dispensadas do registro no Sistema, nas operações que não tenham utilizado
 mecanismos de apoio ao comércio exterior de serviços, de intangíveis e demais operações de
@@ -137,7 +137,7 @@ especulativo de lucro, desde que não realizem operações em valor superior a U
 
 
 # B6. Quando eu devo efetivar os registros RVS/RF no Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda item 4.1.1 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Venda [item 4.1.1 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#411-prazo-para-o-rvs):  
 > “O prazo para incluir o RVS é até o último dia útil do 3º mês subsequente à data de início da
 prestação de serviço, da comercialização de intangível, ou da realização de operação que produza variação no patrimônio.”  
   
@@ -159,12 +159,12 @@ Cabe observar que o prazo de inclusão do RVS deve ser respeitado conforme previ
 
 
 # B7. O que são os Modos de Prestação?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 8 do Capítulo 1:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 8 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#8-modos-de-presta%C3%A7%C3%A3o-de-servi%C3%A7os--m%C3%B3dulo-venda):
 > “Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre Comércio
 de Serviços da OMC (GATS), a prestação de serviços, segundo a localização do prestador e do
 tomador. São os seguintes no Módulo Venda:
 >
-> __Modo 1 – Comércio Transfronteiriço:__ serviço prestado do território de um país ao território de
+> __[Modo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#modo-1---com%C3%A9rcio-transfronteiri%C3%A7o) – Comércio Transfronteiriço:__ serviço prestado do território de um país ao território de
 outro país, por residente ou domiciliado no Brasil a residente ou domiciliado no exterior.  
 >  
 >
@@ -178,7 +178,7 @@ outro país, por residente ou domiciliado no Brasil a residente ou domiciliado n
 >  - serviços de transporte internacional de passageiros prestado por empresa domiciliada no Brasil a residentes no exterior.
 >
 >
-> __Modo 2 - Consumo no Brasil:__ serviço prestado por residente ou domiciliado no Brasil e consumido no
+> __[Modo 2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#modo-2---consumo-no-brasil) - Consumo no Brasil:__ serviço prestado por residente ou domiciliado no Brasil e consumido no
 território brasileiro por residente ou domiciliado no exterior.  
 >  
 > 
@@ -193,7 +193,7 @@ território brasileiro por residente ou domiciliado no exterior.
 >
 >
 >
->  __Modo 3 - Presença comercial no exterior:__ consiste na prestação de serviço por pessoa jurídica
+>  __[Modo 3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#modo-3---presen%C3%A7a-comercial-no-exterior) - Presença comercial no exterior:__ consiste na prestação de serviço por pessoa jurídica
 domiciliada no exterior relacionada a uma pessoa jurídica domiciliada no Brasil. Para fins do
 Siscoserv, considera-se relacionada à pessoa jurídica domiciliada no Brasil a sua filial, sucursal
 ou controlada, domiciliada no exterior.  
@@ -207,7 +207,7 @@ obra;
 >
 >
 >
-> __Modo 4 – Movimento temporário de pessoas físicas:__ residentes no Brasil deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no
+> __[Modo 4](https://manuais.siscoserv.mdic.gov.br/modulo-venda#modo-4---movimento-tempor%C3%A1rio-de-pessoas-f%C3%ADsicas) – Movimento temporário de pessoas físicas:__ residentes no Brasil deslocam-se por tempo limitado ao exterior com vistas a prestar um serviço a residente ou domiciliado no
 exterior.      
 >
 > __Exemplos:__
@@ -238,7 +238,7 @@ Pessoa Jurídica no exterior a ela relacionada (por exemplo, transferido(s) intr
 
 # B8. Qual a função do campo “Enquadramento” do Siscoserv?
 
-De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:   
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 10 do Capítulo 1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#10-mecanismos-de-apoio--fomento-ao-com%C3%A9rcio-exterior-de-servi%C3%A7os-e-intang%C3%ADveis):   
 > “Este campo deve ser obrigatoriamente preenchido no caso de operação amparada em um ou
 mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e demais
 operações. Todos os mecanismos de apoio que amparam a operação devem ser registrados
@@ -260,14 +260,14 @@ no Siscoserv.”
 Há duas formas para efetuar a inclusão dos registros no Siscoserv:  
 
  1) Por meio do site do Siscoserv (que pode ser acessado por meio do site do MDIC ou do e-CAC da RFB)
-e seguir os passos de preenchimento descritos nos itens 2.1 e 2.2 do Capítulo 2 dos Manuais. Após acionado o
+e seguir os passos de preenchimento descritos nos itens [2.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#21-inclus%C3%A3o-do-rvs) e [2.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#22-inclus%C3%A3o-do-rf) do Capítulo 2 dos Manuais. Após acionado o
 botão Incluir, o Sistema retornará uma mensagem de confirmação da inclusão dos dados no Siscoserv e
 apresentará o número de identificação do registro. Após esse procedimento, o registro é efetuado, não
 sendo necessário gravar e nem transmitir o arquivo usando a ferramenta de Transmissão em Lote; e
 
  2) Por meio da transmissão em lote, que depende do usuário efetuar ajustes em seus sistemas para que
 gerem os arquivos que deverão ser transmitidos pelo e-CPF que tenha a devida procuração eletrônica,
-usando a aba “Transmissão em Lote”, de acordo com o item 3 do Capítulo 2 dos Manuais.
+usando a aba “Transmissão em Lote”, de acordo com o [item 3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#3-transmiss%C3%A3o-em-lote) do Capítulo 2 dos Manuais.
 
  A transmissão em lote é uma das alternativas de registro e não um passo complementar ao registro por
 meio do site. No caso do lançamento manual pelo site, assim que o RVS for gravado, juntamente com
@@ -287,12 +287,12 @@ RVS ou RF. Assim que o registro for gravado, as obrigações pertinentes àquele
 cumpridas, presumindo que as informações prestadas sejam precisas. 
 
  Não há, no Siscoserv, a funcionalidade de impressão de recibo. Pode-se, contudo, realizar consulta aos
-registros, seguindo-se os passos descritos nos itens 2.1.4 e 2.2.3 do Capítulo 2 do Manual do
+registros, seguindo-se os passos descritos nos itens [2.1.4](https://manuais.siscoserv.mdic.gov.br/modulo-venda#214-consulta-ao-rvs-ou-ao-aditivo-ao-rvs) e [2.2.3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#223-consulta-ao-rf) do Capítulo 2 do Manual do
 Siscoserv – Módulo Venda.
 
 # B11. Qual a função da opção “Aditivo” do Siscoserv?
 
-De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1.1 do Capítulo 2:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 2.1.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#211-inclus%C3%A3o-de-aditivo-ao-rvs) do Capítulo 2:
 
 > “O aditivo ao RVS deve ser usado para a inclusão de nova operação em um RVS previamente
 incluído, quando houver complementação ou aditamento nos termos do contrato (negócio),
@@ -308,18 +308,18 @@ Retificar RVS.”
 
 # B12. O RVS pode ser cancelado?
 
-De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 e 2.1.1 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 2.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#21-inclus%C3%A3o-do-rvs) e [2.1.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#211-inclus%C3%A3o-de-aditivo-ao-rvs) do Capítulo 2:  
 
 > “O RVS ou o Aditivo ao RVS não podem ser cancelados, cabendo apenas retificações.”  
 
-As condições e os procedimentos para retificação desses registros estão descritos nos itens 2.1.2 e
-2.1.3 do Capítulo 2 do Manual do Siscoserv – Módulo Venda.  
+As condições e os procedimentos para retificação desses registros estão descritos nos itens [2.1.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#212-retifica%C3%A7%C3%A3o-do-rvs) e
+[2.1.3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#213-retifica%C3%A7%C3%A3o-do-aditivo-ao-rvs) do Capítulo 2 do Manual do Siscoserv – Módulo Venda.  
   
 
 
 # B13. Como proceder quando o RVS tiver sido registrado para um vendedor incorreto?
 
-De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1.2 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 2.1.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#212-retifica%C3%A7%C3%A3o-do-rvs) do Capítulo 2:  
 
 > “O Valor da Operação pode ser retificado para zero nos seguintes casos:  
 >  
@@ -342,7 +342,7 @@ Assim, o usuário deve realizar um novo RVS com a informação correta a respeit
 
 # B14. Em quais situações posso retificar o RVS?
 
-De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1.2 do Capítulo 2:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 2.1.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#212-retifica%C3%A7%C3%A3o-do-rvs) do Capítulo 2:
 
 > "Os RVS podem ter todos os campos retificados antes da inclusão de Faturamento da operação. Após o faturamento da operação não podem ser retificados os campos Código NBS e Moeda. Em caso de erro de preenchimento nestes campos para as operações já faturadas, proceder
 previamente com o cancelamento do RF.  
@@ -377,25 +377,25 @@ Nesses casos, o usuário deve obrigatoriamente justificar a referida retificaç�
 
 # B16. Realizei a prestação de serviço para domiciliado no exterior, mas recebi o pagamento em reais. Devo registrar no Siscoserv?
 
-De acordo com o Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1: 
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 5](https://manuais.siscoserv.mdic.gov.br/modulo-venda#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-venda) do Capítulo 1: 
 
 > ”O registro no Siscoserv independe da contratação de câmbio, do meio de pagamento ou da existência de um contrato formal.”  
 
 # B17. Como proceder se a operação tem data de conclusão indeterminada?
 
-De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.1 do Capítulo1:  
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 4.3.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#431-opera%C3%A7%C3%A3o-com-data-de-conclus%C3%A3o-indeterminada) do Capítulo 1:  
 
-> “A operação cuja data de conclusão não seja conhecida por ocasião do seu registro, em razão de não ter sido pactuada entre as partes, pode ser objeto de registros periódicos, conforme itens 2.1 e 2.1.1 do Capítulo 2 . Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão pode ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2 e 2.1.3 do Capítulo 2.”  
+> “A operação cuja data de conclusão não seja conhecida por ocasião do seu registro, em razão de não ter sido pactuada entre as partes, pode ser objeto de registros periódicos, conforme itens [2.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#21-inclus%C3%A3o-do-rvs) e [2.1.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#211-inclus%C3%A3o-de-aditivo-ao-rvs) do Capítulo 2 . Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão pode ser ajustada, mediante retificação, conforme descrito nos itens [2.1.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#212-retifica%C3%A7%C3%A3o-do-rvs) e [2.1.3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#213-retifica%C3%A7%C3%A3o-do-aditivo-ao-rvs) do Capítulo 2.”  
 
 # B18. Como proceder se a operação se iniciar sem valor definido?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.2 do Capítulo 1:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 4.3.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#432-opera%C3%A7%C3%A3o-iniciada-sem-que-o-valor-esteja-definido) do Capítulo 1:
 
-> “A operação cujo valor não seja conhecido por ocasião do seu registro, em função de sua apuração só poder ocorrer após a efetiva prestação do serviço, pode ser registrada pelo seu valor estimado. Posteriormente, o valor poderá ser ajustado, mediante retificação, conforme descrito nos itens 2.1.2 ou 2.1.3 do Capítulo 2 do referido Manual.”
+> “A operação cujo valor não seja conhecido por ocasião do seu registro, em função de sua apuração só poder ocorrer após a efetiva prestação do serviço, pode ser registrada pelo seu valor estimado. Posteriormente, o valor poderá ser ajustado, mediante retificação, conforme descrito nos itens [2.1.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#212-retifica%C3%A7%C3%A3o-do-rvs) ou [2.1.3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#213-retifica%C3%A7%C3%A3o-do-aditivo-ao-rvs) do Capítulo 2 do referido Manual.”
 
 
 # B19. Há alguma forma simplificada de registro para vendas a pessoas físicas residentes no exterior, mediante consumo no Brasil?
 
-De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.3 do Capítulo 4:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 4.3.3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#433-opera%C3%A7%C3%A3o-com-pessoas-f%C3%ADsicas-residentes-no-exterior-mediante-consumo-no-brasil) do Capítulo 1:
 
 > “As vendas de serviços, intangíveis e outras operações que produzam variações no patrimônio, em modo de prestação 2 (consumo no Brasil), realizadas com pessoas físicas residentes no exterior, poderão ser registradas pelos seus montantes acumulados mensalmente, por NBS e por País do Adquirente. Nesse caso, a data de início será o primeiro dia do mês e a data de conclusão será o último dia do mês, para as operações ocorridas nesse período. Exemplo: venda no Brasil de serviços de hospedagem para funcionário de empresa domiciliada no
 exterior. A inclusão do RVS será feita observadas as seguintes instruções específicas para preenchimento:            
@@ -425,7 +425,7 @@ exterior. A inclusão do RVS será feita observadas as seguintes instruções es
                   
  # B20. Para operações de prestação de serviços de transporte de passageiros a pessoas físicas residentes no exterior, há alguma forma simplificada de registro?   
  
- De acordo com o Manual do Siscoserv – Módulo Venda, item 4.3.4 do Capítulo 4:
+ De acordo com o Manual do Siscoserv – Módulo Venda, [item 4.3.4](https://manuais.siscoserv.mdic.gov.br/modulo-venda#434-servi%C3%A7os-de-transporte-de-passageiros-a-pessoas-f%C3%ADsicas-residentes-no-exterior) do Capítulo 1:
  
  > “As prestações de serviços de transporte de passageiros para pessoas físicas residentes no exterior podem ser registradas pelos seus montantes acumulados mensalmente, por NBS e por país de residência do passageiro.  
 >  
@@ -464,7 +464,7 @@ exterior. A inclusão do RVS será feita observadas as seguintes instruções es
 >          
           
  # B21. O que preencher no campo País de Destino?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 2.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#c%C3%B3digo-do-pa%C3%ADs--pa%C3%ADs-de-destino) do Capítulo 2:
 > O campo País de Destino “identifica o país de destino da prestação do serviço, da aquisição de intangível ou da realização de outra operação que produza variação no patrimônio, podendo ser diferente do país do vendedor ou do adquirente.  
 >  
 >
@@ -511,7 +511,7 @@ No campo, deve ser indicado se a operação está vinculada à movimentação te
 
 # B24. Qual o procedimento para realizar o registro por transmissão em lote?
 
-De acordo com o Manual do Siscoserv – Módulo Venda, item 3 do Capítulo 2: 
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#3-transmiss%C3%A3o-em-lote) do Capítulo 2: 
 
 > “Essa funcionalidade foi desenvolvida para facilitar a prestação das informações solicitadas, bem como aproveitar os dados já disponíveis nos sistemas gerenciais utilizados pelas empresas.  
 >  
@@ -539,36 +539,36 @@ Transmissão em Lote presente no Manual do Siscoserv – Módulo Venda.
 Atualmente não existe plataforma de teste para a transmissão em lote.  
 
 # B26. Prestei serviço para residente ou domiciliado no exterior, mas o valor recebido não foi o mesmo do documento de fatura. Qual valor devo registrar?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 2.1 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 2.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#21-inclus%C3%A3o-do-rvs) do Capítulo 2:  
 
 > “O valor a ser registrado no Registro de Vendas de Serviço (RVS) é o valor bruto pactuado entre as partes adicionado de todos os custos necessários para a efetiva prestação do serviço, transferência do intangível ou realização de outra operação que produza variação no patrimônio.  
 >  
 >
-> De acordo com o Manual do Siscoserv – Módulo Venda, item 2.2 do Capítulo 2  
+> De acordo com o Manual do Siscoserv – Módulo Venda, [item 2.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#22-inclus%C3%A3o-do-rf) do Capítulo 2  
 >  
 >
 > O valor a ser registrado no Registro de Faturamento (RF) é o valor indicado na nota fiscal ou documento equivalente (inclusive nota de despesa).  
 >  
 >
-> Após a Data de Conclusão da operação o valor total faturado deve coincidir com o Valor da Operação, na moeda do RVS. Caso os valores sejam divergentes, o usuário deve retificar o Valor da Operação utilizando os passos descritos no item 3.1.4 e 3.1.5 (se for o caso).”  
+> Após a Data de Conclusão da operação o valor total faturado deve coincidir com o Valor da Operação, na moeda do RVS. Caso os valores sejam divergentes, o usuário deve retificar o Valor da Operação utilizando os passos descritos no item [2.1.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#212-retifica%C3%A7%C3%A3o-do-rvs) e [2.1.3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#213-retifica%C3%A7%C3%A3o-do-aditivo-ao-rvs) (se for o caso).”  
   
   
   
   # B27. Preciso cancelar o RF para retificar o RVS, entretanto o prazo de registro do novo RF já se esgotou. Qual procedimento a ser tomado nessa situação?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 2.2.2 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 2.2.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#222-cancelamento-do-rf) do Capítulo 2:  
 
 > “Caso, devido a necessidade de cancelamento do RF para retificar o RVS, o usuário perca o prazo de inclusão de RF, deve ser incluído em Informações Complementares o número do RF cancelado e o número do RF que o substituiu após a retificação do RVS.”  
 
 
 # B28. É possível retificar um RF?
-A partir de 1º de junho de 2016, está disponível a funcionalidade de retificação do Registro de Faturamento. Para maiores informações sobre como usar a ferramenta, favor acessar o item 2.2.1 do Capítulo 2 do Manual do Módulo Venda.  
+A partir de 1º de junho de 2016, está disponível a funcionalidade de retificação do Registro de Faturamento. Para maiores informações sobre como usar a ferramenta, favor acessar o [item 2.2.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#221-retifica%C3%A7%C3%A3o-do-rf) do Capítulo 2 do Manual do Módulo Venda.  
 
 
 # B29. O que são Relatórios Gerenciais?
 A funcionalidade de Relatório Gerencial disponibiliza para a empresa um relatório com todas as operações registradas no sistema e, ainda, o status dessas informações. A Planilha Excel incorpora todos os dados de RVS ou RF (RAS / RP) vinculados para o período selecionado, disponibilizando uma ferramenta gerencial para as empresas.  
   
 
-De acordo com o Manual do Siscoserv – Módulo Venda, item 4 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 1.5](https://manuais.siscoserv.mdic.gov.br/modulo-venda#15-informa%C3%A7%C3%B5es-cadastrais) do Capítulo 2:  
 > “A partir de 1º de junho de 2016, o sistema permite a geração dos Relatórios Gerenciais cujas informações abranjam um período máximo de um (1) ano, retroativo ao início da operação do Siscoserv.  
 >  
 >
