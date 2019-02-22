@@ -13,7 +13,7 @@ title: Módulo Aquisição
 ----------
 
 # D1. O que se deve registrar no Módulo Aquisição do Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, itens 3 e 4 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [itens 3](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#2-base-legal-do-siscoserv) [e 4](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#4-registros-no-m%C3%B3dulo-aquisi%C3%A7%C3%A3o) do Capítulo 1:  
 
 > “No Módulo Aquisição são registrados os serviços, intangíveis e outras operações
 que produzam variações no patrimônio, adquiridos por residentes ou domiciliados no
@@ -28,7 +28,7 @@ Pagamento (RP): dados referentes ao pagamento relativo à aquisição objeto de 
 RAS.”
 
 # D2. Quem deve efetuar registros no Módulo Aquisição do Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 5 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 5](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-aquisi%C3%A7%C3%A3o) do Capítulo 1:  
 
 > “Estão obrigados a registrar as informações no Sistema - Módulo Aquisição, os
 residentes ou domiciliados no Brasil que realizem, com residentes ou domiciliados no
@@ -51,7 +51,7 @@ pública, direta e indireta, da União, dos Estados, dos Municípios e do Distri
 
 # D3. De quem é a responsabilidade pelos registros RAS/RP no Siscoserv?
 
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 5 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 5](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-aquisi%C3%A7%C3%A3o) do Capítulo 1:  
   
 > “A responsabilidade pelos registros RAS/RP é do residente ou domiciliado no País que mantenha relação contratual com residente ou domiciliado no exterior e que por
 este seja faturado pela prestação de serviço, transferência de intangível ou
@@ -91,33 +91,33 @@ operação.”
 
 
 # D4. De quem é a responsabilidade pelos registros de serviços de transporte de cargas e seguros no Siscoserv?
-O Capítulo 3 dos Manuais do Siscoserv traz os seguintes Cenários Exemplificativos do Registro
+O [Capítulo 3](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#cap%C3%ADtulo-3---cen%C3%A1rios-exemplificativos-de-registro-no-siscoserv) dos Manuais do Siscoserv traz os seguintes Cenários Exemplificativos do Registro
 no Siscoserv, a fim de apresentar a lógica aplicada para identificar os responsáveis pelos
 registros:  
 
 1- Registro de Transporte Internacional de Cargas (Frete):  
 
-Cenário 1.1. Transporte internacional de cargas intermediado por agente de cargas -  
+[Cenário 1.1.](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#cen%C3%A1rio-11-transporte-internacional-de-cargas-intermediado-por-agente-de-cargas) Transporte internacional de cargas intermediado por agente de cargas -  
 Exportação brasileira com a obrigação de transportar da empresa brasileira  
 
-Cenário 1.2. Transporte internacional de cargas intermediado por agente de cargas -  
+[Cenário 1.2.](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#cen%C3%A1rio-12-transporte-internacional-de-cargas-intermediado-por-agente-de-cargas) Transporte internacional de cargas intermediado por agente de cargas -  
 Importação brasileira com a obrigação de transportar da empresa brasileira  
 
-Cenário 1.3. Transporte internacional de cargas com consolidação e desconsolidação de cargas  -  
+[Cenário 1.3.](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#cen%C3%A1rio-13-transporte-internacional-de-cargas-com-consolida%C3%A7%C3%A3o-e-desconsolida%C3%A7%C3%A3o-de-cargas) Transporte internacional de cargas com consolidação e desconsolidação de cargas  -  
 Importação brasileira com a obrigação de transportar da empresa estrangeira  
 
-Cenário 1.4. Transporte internacional de cargas com consolidação e desconsolidação de cargas  -  
+[Cenário 1.4.](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#cen%C3%A1rio-14-transporte-internacional-de-cargas-com-consolida%C3%A7%C3%A3o-e-desconsolida%C3%A7%C3%A3o-de-cargas) Transporte internacional de cargas com consolidação e desconsolidação de cargas  -  
 Exportação brasileira com a obrigação de transportar da empresa brasileira  
 
 2- Seguros:  
 
-Cenário 2.1. Contratação de seguro com intermediação de corretora -  
-Cenário 2.2. Contratação  de seguro de estipulante domiciliada ou residente no Brasil  
+[Cenário 2.1.](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#cen%C3%A1rio-21-contrata%C3%A7%C3%A3o-de-seguro-com-intermedia%C3%A7%C3%A3o-de-corretora) Contratação de seguro com intermediação de corretora -  
+[Cenário 2.2.](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#cen%C3%A1rio-22-contrata%C3%A7%C3%A3o-de-seguro-de-estipulante-domiciliada-ou-residente-no-brasil) Contratação  de seguro de estipulante domiciliada ou residente no Brasil  
 
 Recomendamos a consulta ao Manual para melhor análise dos cenários exemplificativos.
 
 # D5. Quem está dispensado de efetuar registro no Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 6 do Capítulo 1:
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 6](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#6-quem-est%C3%A1-dispensado-de-efetuar-registro-no-siscoserv--m%C3%B3dulo-aquisi%C3%A7%C3%A3o) do Capítulo 1:
 
 >“Estão dispensadas do registro no Sistema, nas operações que não tenham
 utilizado mecanismos de apoio ao comércio exterior de serviços, de intangíveis e
@@ -135,7 +135,7 @@ valor superior a US$ 30.000,00 (trinta mil dólares dos Estados Unidos da Améri
 ou o equivalente em outra moeda, no mês.”
 
 # D6. Quando eu devo efetivar os registros no Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 4.1.1 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 4.1.1](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#411-prazo-para-o-ras) do Capítulo 1:  
 
 > “O prazo para incluir o RAS é até o último dia útil do 3º (terceiro) mês subsequente à
 data de início da prestação de serviço, da comercialização de intangível, ou da
@@ -155,13 +155,13 @@ registro do(s) RP(s) correspondente(s) que comprove(m) o pagamento do valor tota
 RAS incluído no Sistema.
 
 # D7. O que são os Modos de Prestação?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 8 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 8](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#8-modos-de-presta%C3%A7%C3%A3o-de-servi%C3%A7os---m%C3%B3dulo-aquisi%C3%A7%C3%A3o) do Capítulo 1:  
 
 > “Os modos de prestação identificam, conforme estabelecido no Acordo Geral sobre
 Comércio de Serviços da OMC (GATS), a prestação de serviços, segundo a localização
 do prestador e do tomador. São os seguintes no Módulo Aquisição:  
 > 
-> __Modo 1 – Comércio Transfronteiriço:__ serviço adquirido do território de um país ao
+> __[Modo 1](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#modo-1---com%C3%A9rcio-transfronteiri%C3%A7o) – Comércio Transfronteiriço:__ serviço adquirido do território de um país ao
 território de outro país, por residente ou domiciliado no Brasil e prestado por
 residente ou domiciliado no exterior.  
 >
@@ -175,7 +175,7 @@ eletrônicas realizados no exterior para cliente residente ou domiciliado no Bra
 > * serviços de transporte internacional de cargas prestado por empresa domiciliada no
 exterior a empresa domiciliada no Brasil.  
 >
-> __Modo 2 – Consumo no Exterior:__ serviço prestado por residente e domiciliado no
+> __[Modo 2](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#modo-2---consumo-no-exterior) – Consumo no Exterior:__ serviço prestado por residente e domiciliado no
 exterior e consumido no território de outro país por residente ou domiciliado no Brasil.  
 >
 > __Exemplos:__  
@@ -188,9 +188,9 @@ exterior e consumido no território de outro país por residente ou domiciliado 
 jurídica domiciliada no Brasil;  
 > * serviços de hospedagem prestados no exterior a residente no Brasil.  
 >
-> __Modo 3 – Presença comercial no Brasil:__ não é registrado no Módulo Aquisição.  
+> __[Modo 3](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#modo-3---presen%C3%A7a-comercial-no-brasil) – Presença comercial no Brasil:__ não é registrado no Módulo Aquisição.  
 >
-> __Modo 4 – Movimento temporário de pessoas físicas:__ residentes no exterior
+> __[Modo 4](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#modo-4---movimento-tempor%C3%A1rio-de-pessoas-f%C3%ADsicas) – Movimento temporário de pessoas físicas:__ residentes no exterior
 deslocam-se por tempo limitado ao Brasil com vistas a prestar um serviço a residente
 ou domiciliado no Brasil.  
 > 
@@ -213,7 +213,7 @@ empregatício com Pessoa Jurídica no exterior a ela relacionada (por exemplo, t
 intracorporação)  
 
 # D8. Qual a função do campo “Enquadramento” do Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 2.1 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 2.1](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#mecanismo-de-apoiofomento) do Capítulo 2:  
 
 > “Este campo deve ser obrigatoriamente preenchido no caso de operação amparada em
 um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços,
@@ -263,12 +263,12 @@ número do RAS ou RP. Assim que o registro for gravado, as obrigações pertinen
 registro foram cumpridas, presumindo que as informações prestadas sejam precisas.  
 
 Não há, no Siscoserv, a funcionalidade de impressão de recibo. Pode-se, contudo, realizar
-consulta aos registros, seguindo-se os passos descritos nos itens 2.1.4 e 2.2.3 do Capítulo 2 do
+consulta aos registros, seguindo-se os passos descritos nos itens [2.1.4](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#214-consulta-ao-ras-ou-ao-aditivo-ao-ras) e [2.2.3](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#223-consulta-ao-rp) do Capítulo 2 do
 Manual do Siscoserv – Módulo Aquisição.
 
 # D11. Qual a função da opção “Aditivo” do Siscoserv?
 
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 2.1.1 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, item [2.1.1](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#211-inclus%C3%A3o-de-aditivo-ao-ras) do Capítulo 2:  
 
 > “O aditivo ao RAS deve ser usado para a inclusão de nova operação em um RAS
 previamente incluído, quando houver complementação ou aditamento nos termos
@@ -281,7 +281,7 @@ tendo em vista tratar-se de dados do registro como um todo e que só podem ser
 alterados pela função Retificar RAS.
 
 # D12. O RAS pode ser cancelado?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, itens 2.1 e 2.1.1 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, itens [2.1](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#21-inclus%C3%A3o-do-ras) e [2.1.1](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#211-inclus%C3%A3o-de-aditivo-ao-ras) do Capítulo 2:  
 
 > “O RAS ou o Aditivo ao RAS não podem ser cancelados, cabendo apenas retificações.”  
 
@@ -290,7 +290,7 @@ As condições e os procedimentos para retificação desses registros estão des
 
 
 # D13. Como proceder quando o RAS tiver sido registrado para um adquirente incorreto?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 2.1.2 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 2.1.2](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#212-retifica%C3%A7%C3%A3o-do-ras) do Capítulo 2:  
 
 > “O Valor da Operação pode ser retificado para zero nos seguintes casos:  
 >
@@ -308,7 +308,7 @@ incorreto deve ser retificado para zero e a retificação deve ser justificada n
 Informações Complementares, com a indicação do número do RAS com o adquirente correto.
 
 # D14. Em quais situações posso retificar o RAS?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 2.1.2 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 2.1.2](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#212-retifica%C3%A7%C3%A3o-do-ras) do Capítulo 2:  
 
 > “Os RAS podem ter todos os campos retificados antes da inclusão de Pagamento da
 operação. Após o Pagamento da operação não podem ser retificados os campos
@@ -345,14 +345,14 @@ alínea c, indicar o número do RVS.
 
 # D16. Contratei serviço de domiciliado no exterior, mas efetuei o pagamento em reais. Devo registrar no Siscoserv?
 
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 5 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 5](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-aquisi%C3%A7%C3%A3o) do Capítulo 1:  
 
 > “O registro no Siscoserv independe da contratação de câmbio, do meio de
 pagamento ou da existência de um contrato formal.”
 
 # D17. Como se registram os gastos pessoais no exterior de pessoa física, residente no País, que se desloque temporariamente ao exterior, a serviço de pessoas jurídicas domiciliadas no País?
 
-De acordo com o Manual do Siscoserv – Módulo Aquisição, Item 1.5 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 2.1](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#valor) do Capítulo 1:  
 
 > “Os gastos pessoais no exterior de pessoas físicas residentes no País, relativos à
 aquisição de serviços, à transferência de intangível e à realização de outras operações
@@ -364,7 +364,7 @@ física no Siscoserv.
 exterior em viagens de negócios, de treinamento, missões oficiais, participação em
 congressos, feiras e conclaves.”  
 >
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 4.3.3 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 4.3.3](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#433-opera%C3%A7%C3%A3o-envolvendo-gastos-pessoais-no-exterior-por-pessoas-f%C3%ADsicas-residentes-no-brasil) do Capítulo 1:  
 
 >“Operação envolvendo gastos pessoais no exterior por pessoas físicas residentes no
 Brasil:  
@@ -414,7 +414,7 @@ do empregador.
 
 
 # D19. Contratei serviço de domiciliado no exterior e, após valor pactuado, empresa solicita reembolso de novos custos. Como devo proceder?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 2.1 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 2.1](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#valor) do Capítulo 2:  
 
 > “Para o Siscoserv é considerado como valor comercial das operações o valor bruto
 pactuado entre as partes adicionado de todos os custos necessários para a efetiva
@@ -435,12 +435,12 @@ deste Manual.
 
 
 # D20. Como proceder se a operação tem data de conclusão indeterminada?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 4.3.1 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 4.3.1](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#431-opera%C3%A7%C3%A3o-com-data-de-conclus%C3%A3o-indeterminada) do Capítulo 1:  
 
 > “A operação cuja data de conclusão não seja conhecida por ocasião do seu registro, em razão de não ter sido pactuada entre as partes, pode ser objeto de registros periódicos, conforme itens 2.1. ou 2.1.1 do Capítulo 2 deste Manual. Nesse caso, a data de início e a data de conclusão devem ser indicadas dentro do mesmo ano-calendário. Posteriormente, a data de conclusão pode ser ajustada, mediante retificação, conforme descrito nos itens 2.1.2 ou 2.1.3.”
 
 # D21. Como proceder se a operação se iniciar sem que o valor esteja definido?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 4.3.2 do Capítulo 1:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 4.3.2](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#432-opera%C3%A7%C3%A3o-iniciada-sem-que-o-valor-esteja-definido) do Capítulo 1:  
 
 > “A operação cujo valor não seja conhecido por ocasião do seu registro, em função de
 sua apuração só poder ocorrer após a efetiva prestação do serviço, pode ser
@@ -449,7 +449,7 @@ mediante retificação, conforme descrito nos itens 2.1.2 ou 2.1.3 do Capítulo 
 referido Manual.”
 
 # D22. O que preencher no campo País de Destino?
-De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 2.1 do Capítulo 2](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/11aEdicaoManualModuloAquisi%C3%A7%C3%A3o_versao_final.pdf):  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 2.1](http://www.mdic.gov.br/images/REPOSITORIO/scs/decin/Siscoserv/11aEdicaoManualModuloAquisi%C3%A7%C3%A3o_versao_final.pdf) do Capítulo 2:  
 
 > O campo País de Destino “identifica o país de destino da prestação do serviço, da
 aquisição de intangível ou da realização de outra operação que produza variação no
@@ -499,7 +499,7 @@ No campo deve ser indicado se a operação está vinculada à movimentação tem
 
 # D25. Qual o procedimento para realizar o registro por transmissão em lote?
 
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 3 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 3](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#3-transmiss%C3%A3o-em-lote) do Capítulo 2:  
 
 > “Os registros das operações no Siscoserv, no Módulo Aquisição, podem ser efetuados
 por lote. Essa funcionalidade foi desenvolvida para facilitar a prestação das
@@ -538,7 +538,7 @@ Atualmente não existe plataforma de teste para a transmissão em lote.
 
 # D27. Preciso cancelar o RP para retificar o RAS, entretanto o prazo de registro do novo RP já se esgotou. Qual procedimento a ser tomado nessa situação?
 
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 2.2.2 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 2.2.2](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#222-cancelamento-do-rp) do Capítulo 2:  
 
 > “Caso, devido à necessidade de cancelamento do RP para retificar o RAS, o
 usuário perca o prazo de inclusão de RP, o número do RP cancelado e o número do RP
@@ -555,7 +555,7 @@ item 2.2.1 do Capítulo 2 do Manual do Módulo Aquisição.
 
 # D29. O que são Relatórios Gerenciais?
 
-De acordo com o Manual do Siscoserv – Módulo Aquisição, item 4 do Capítulo 2:  
+De acordo com o Manual do Siscoserv – Módulo Aquisição, [item 4](https://manuais.siscoserv.mdic.gov.br/modulo-aquisicao#4-relat%C3%B3rio-gerencial) do Capítulo 2:  
 
 > “A funcionalidade de Relatório Gerencial disponibiliza para a empresa um relatório
 com todas as operações registradas no sistema e, ainda, o status dessas informações.
