@@ -13,7 +13,7 @@ title: Módulo Venda RPC
 ----------
 
 # C1. Em que Módulo do Siscoserv se efetua o Registro de Presença Comercial (RPC)?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 3 do capítulo 1:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#3-m%C3%B3dulos-venda-e-aquisi%C3%A7%C3%A3o-do-siscoserv) do capítulo 1:
 > “No Módulo Venda são registrados os serviços, intangíveis e outras operações que
 produzam variações no patrimônio, vendidos por residentes ou domiciliados no País a
 residentes ou domiciliados no exterior. Este módulo abrange também o registro
@@ -24,42 +24,42 @@ meio de Presença Comercial no Exterior relacionada à pessoa jurídica domicili
 Brasil.”
 
 # C2. Quem deve efetuar registros de RPC no Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 4.4 do Capítulo 1:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 4.4](https://manuais.siscoserv.mdic.gov.br/modulo-venda#44-registro-de-presen%C3%A7a-comercial-no-exterior-rpc) do Capítulo 1:
 > “A responsabilidade de efetuar o RPC no Módulo Venda do Siscoserv é da pessoa
 jurídica domiciliada no Brasil que mantenha filial, sucursal ou controlada domiciliada
 no exterior para a prestação de serviços, transferência de intangíveis ou realização de
 outras operações que produzam variação no patrimônio”.
 
 
-O Glossário dos Manuais, item 12 do Capítulo 1, conceitua:
+O Glossário dos Manuais, [conceitua](https://manuais.siscoserv.mdic.gov.br/glossario#empresa-controlada):
 
 > “Empresa Controlada: considera-se controlada a sociedade na qual a controladora,
 diretamente ou através de outras controladas, é titular de direitos de sócio que lhe
 assegurem, de modo permanente, preponderância nas deliberações sociais e o poder
 de eleger a maioria dos administradores”.
 
-Exemplo do Manual do Siscoserv – Módulo Venda, item 5 do Capítulo 1:
+Exemplo do Manual do Siscoserv – Módulo Venda, [item 5](https://manuais.siscoserv.mdic.gov.br/modulo-venda#5-quem-deve-efetuar-registro-no-siscoserv--m%C3%B3dulo-venda) do Capítulo 1:
 > “Empresa (B) que é filial, sucursal ou controlada domiciliada no exterior de Empresa 
 (A) domiciliada no Brasil presta serviço a empresa domiciliada no exterior. Empresa (A)
 deve proceder aos registros no Módulo Venda do Siscoserv em Modo 3 – Presença
 Comercial no Exterior.”
 
 # C3. O que deve ser registrado no RPC?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 4.4 do Capítulo 1:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 4.4](https://manuais.siscoserv.mdic.gov.br/modulo-venda#44-registro-de-presen%C3%A7a-comercial-no-exterior-rpc) do Capítulo 1:
 > “No RPC deve ser registrada a receita anual total de venda de serviço, de transferência
 de intangível e de realização de outra operação que produza variação no patrimônio,
 obtida por meio do estabelecimento de presença comercial no exterior de filial,
 sucursal ou controlada relacionada à pessoa jurídica domiciliada no Brasil.”
 
 # C4. Qual é o prazo para o registro do RPC?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 4.4.1 do Capítulo 1:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 4.4.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#441-prazo-para-o-rpc) do Capítulo 1:
 > “A prestação das informações no RPC deve ser realizada anualmente em relação ao
 ano-calendário anterior, até o último dia útil do mês de junho do ano subsequente à
 realização de operações por meio de presença comercial no exterior relacionada a
 pessoa jurídica domiciliada no Brasil.”
 
 # C5. O que é o Modo de Prestação 3 – Presença Comercial no Exterior?
-De acordo com o Manual do Siscoserv – Módulo Venda, item 8 do Capitulo 1:
+De acordo com o Manual do Siscoserv – Módulo Venda, [item 8](https://manuais.siscoserv.mdic.gov.br/modulo-venda#8-modos-de-presta%C3%A7%C3%A3o-de-servi%C3%A7os--m%C3%B3dulo-venda) do Capitulo 1:
 
 > “Modo 3 - Presença comercial no exterior: consiste na prestação de serviço por
 pessoa jurídica domiciliada no exterior relacionada a uma pessoa jurídica domiciliada
@@ -74,7 +74,7 @@ domiciliada no Brasil a sua filial, sucursal ou controlada, domiciliada no exter
 No Siscoserv, o Modo 3 somente é registrado no Módulo Venda.
 
 # C6. Qual a função do campo “Enquadramento” do Siscoserv?
-De acordo com o Manual do Siscoserv – Módulo Venda – Item 2.3.1 do Capitulo 2: 
+De acordo com o Manual do Siscoserv – Módulo Venda – [Item 2.3.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#231-inclus%C3%A3o-do-rpc) do Capitulo 2: 
 > O campo Enquadramento deve ser utilizado “caso a presença comercial tenha
 realizado durante o ano de apuração operação amparada em um ou mais mecanismos de apoio/fomento ao comércio exterior de serviços, intangíveis e outras
 operações que produzam variações no patrimônio. (...) Todos os mecanismos de apoio que amparam a operação devem ser registrados neste campo em cumprimento ao
@@ -94,13 +94,13 @@ Os mecanismos de apoio/fomento disponíveis para o RPC são os seguintes: BNDES-
 # C7. O Siscoserv emite algum recibo de confirmação de registro para o RPC?
 Uma vez efetivado o registro, o sistema retorna uma mensagem de confirmação, trazendo o número do RPC. Assim que o registro for gravado, as obrigações pertinentes àquele registro foram cumpridas, presumindo que as informações prestadas sejam precisas.   
 
-Não há, no Siscoserv, a funcionalidade de impressão de recibo. Pode-se, contudo realizar consulta aos registros, seguindo-se os passos descritos no item 2.3.4 do Capítulo 2 do Manual do Siscoserv – Módulo Venda.
+Não há, no Siscoserv, a funcionalidade de impressão de recibo. Pode-se, contudo realizar consulta aos registros, seguindo-se os passos descritos no [item 2.3.4](https://manuais.siscoserv.mdic.gov.br/modulo-venda#234-consulta-ao-rpc) do Capítulo 2 do Manual do Siscoserv – Módulo Venda.
 
 # C8. O RPC pode ser retificado?
-Sim. Basta seguir as etapas previstas no item 2.3.2 do Capítulo 2 do Manual do Siscoserv –Módulo Venda. 
+Sim. Basta seguir as etapas previstas no [item 2.3.2](https://manuais.siscoserv.mdic.gov.br/modulo-venda#232-retifica%C3%A7%C3%A3o-do-rpc) do Capítulo 2 do Manual do Siscoserv –Módulo Venda. 
 
 # C9. O RPC pode ser cancelado?
-Sim. Basta seguir as etapas previstas no item 2.3.3 do Capítulo 2 do Manual do Siscoserv –Módulo Venda:
+Sim. Basta seguir as etapas previstas no [item 2.3.3](https://manuais.siscoserv.mdic.gov.br/modulo-venda#233-cancelamento-do-rpc) do Capítulo 2 do Manual do Siscoserv –Módulo Venda:
 
 > “O RPC pode ser cancelado nas seguintes hipóteses:  
 >
@@ -109,7 +109,7 @@ Sim. Basta seguir as etapas previstas no item 2.3.3 do Capítulo 2 do Manual do 
 
 # C10. O RPC pode ser inserido por mecanismo de transmissão em lote?
 Não, o RPC não possui mecanismo de transmissão em lote. Para inserir o RPC o usuário deve
-seguir os passos descritos no item 2.3.1 do Capítulo 2 do Manual do Siscoserv – Módulo
+seguir os passos descritos no [item 2.3.1](https://manuais.siscoserv.mdic.gov.br/modulo-venda#231-inclus%C3%A3o-do-rpc) do Capítulo 2 do Manual do Siscoserv – Módulo
 Venda.
 
 <a href="#">Voltar para o topo</a>
